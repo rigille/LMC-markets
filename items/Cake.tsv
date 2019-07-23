@@ -1,8 +1,8 @@
-date	buyer	seller	item	price	cash_amount	item_amount	world	coordinates
-2018/09/27 21:43:44	Dragonslair7	AteUrC00ki35	Cake	1.0	1.0	1	world	[-346, 70, 83]
-2018/09/29 01:10:25	Dragonslair7	AteUrC00ki35	Cake	25.0	25.0	1	world	[-346, 70, 83]
-2018/11/10 13:46:21	TechnoWiking	AteUrC00ki35	Cake	150.0	150.0	1	world	[-349, 70, 83]
-2018/11/26 20:20:05	MiChupacabaras	AteUrC00ki35	Cake	150.0	150.0	1	world	[-349, 70, 83]
-2018/12/22 01:28:01	Mr_Digs	AteUrC00ki35	Cake	100.0	100.0	1	world	[-431, 64, 114]
-2019/01/31 14:48:58	GRlFFlN	AteUrC00ki35	Cake	150.0	150.0	1	world	[-349, 70, 83]
-2019/07/09 05:59:04	NullCase	Vivifoxx	Cake	50.0	50.0	1	world	[311, 72, 27]
+year	month	day	hour	minute	second	buyer	seller	item	price	cash_amount	item_amount	world	coordinates
+2018	09	27	21	43	44	Dragonslair7	AteUrC00ki35	Cake	1.0	1.0	1	world	[-346, 70, 83]
+2018	09	29	01	10	25	Dragonslair7	AteUrC00ki35	Cake	25.0	25.0	1	world	[-346, 70, 83]
+2018	11	10	13	46	21	TechnoWiking	AteUrC00ki35	Cake	150.0	150.0	1	world	[-349, 70, 83]
+2018	11	26	20	20	05	MiChupacabaras	AteUrC00ki35	Cake	150.0	150.0	1	world	[-349, 70, 83]
+2018	12	22	01	28	01	Mr_Digs	AteUrC00ki35	Cake	100.0	100.0	1	world	[-431, 64, 114]
+2019	01	31	14	48	58	GRlFFlN	AteUrC00ki35	Cake	150.0	150.0	1	world	[-349, 70, 83]
+2019	07	09	05	59	04	NullCase	Vivifoxx	Cake	50.0	50.0	1	world	[311, 72, 27]

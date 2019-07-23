@@ -1,8 +1,8 @@
-date	buyer	seller	item	price	cash_amount	item_amount	world	coordinates
-2018/10/15 02:38:03	fiddleswithstick	K9us	Enchanted Book#1y	25000.0	25000.0	1	world	[30, 71, -19]
-2018/10/16 16:17:12	Mr_Digs	K9us	Enchanted Book#1y	25000.0	25000.0	1	world	[30, 71, -19]
-2019/04/06 03:40:44	dandenoth	__Wildfire_	Enchanted Book#1y	2500.0	2500.0	1	world	[34, 78, 14]
-2019/04/06 03:40:45	dandenoth	__Wildfire_	Enchanted Book#1y	2500.0	2500.0	1	world	[34, 78, 14]
-2019/04/09 02:14:05	dandenoth	__Wildfire_	Enchanted Book#1y	2500.0	2500.0	1	world	[34, 78, 14]
-2019/06/02 07:54:19	Aewheros	__Wildfire_	Enchanted Book#1y	2500.0	2500.0	1	world	[34, 78, 14]
-2019/07/12 12:15:18	Dredhounds	__Wildfire_	Enchanted Book#1y	2500.0	2500.0	1	world	[34, 78, 14]
+year	month	day	hour	minute	second	buyer	seller	item	price	cash_amount	item_amount	world	coordinates
+2018	10	15	02	38	03	fiddleswithstick	K9us	Enchanted Book#1y	25000.0	25000.0	1	world	[30, 71, -19]
+2018	10	16	16	17	12	Mr_Digs	K9us	Enchanted Book#1y	25000.0	25000.0	1	world	[30, 71, -19]
+2019	04	06	03	40	44	dandenoth	__Wildfire_	Enchanted Book#1y	2500.0	2500.0	1	world	[34, 78, 14]
+2019	04	06	03	40	45	dandenoth	__Wildfire_	Enchanted Book#1y	2500.0	2500.0	1	world	[34, 78, 14]
+2019	04	09	02	14	05	dandenoth	__Wildfire_	Enchanted Book#1y	2500.0	2500.0	1	world	[34, 78, 14]
+2019	06	02	07	54	19	Aewheros	__Wildfire_	Enchanted Book#1y	2500.0	2500.0	1	world	[34, 78, 14]
+2019	07	12	12	15	18	Dredhounds	__Wildfire_	Enchanted Book#1y	2500.0	2500.0	1	world	[34, 78, 14]
