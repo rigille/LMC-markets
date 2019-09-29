@@ -190,15 +190,19 @@ function makePlotly(date, item_amount, cash_amount, min_price, max_price){
 
 	layout = { title: item,
 		   yaxis:  { title: 'Price',
-			     type: 'log'},
+			     type: 'log',
+                 showgrid: false,},
 		   yaxis2: { title: 'volume',
 			     type: 'linear',
 			     overlaying: 'y',
-			     side: 'right'},
+			     side: 'right',
+                 showgrid: false,},
 		   yaxis3:  { title: 'Price',
-			     type: 'log'},
+			     type: 'log',
+                 showgrid: false,},
 		   yaxis4:  { title: 'Price',
-			     type: 'log'},
+			     type: 'log',
+                 showgrid: false,},
 		 };
 
 	Plotly.newPlot('my_plot', data, layout);
