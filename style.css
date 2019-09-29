@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    font: normal 42px Arial, sans-serif;
+    color: #111111;
+}
+.table-container {
+    text-align: center;
+}
+table {
+    border: solid 1px #111111;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 13px Arial, sans-serif;
+    display: inline-block;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 0%);
+}
+thead th {
+    background-color: #111111;
+    border: solid 1px #111111;
+    color: #ffffff;
+    padding: 10px;
+    text-align: left;
+    cursor: pointer;
+}
+tbody td {
+    border: solid 1px #111111;
+    color: #111111;
+    padding: 10px;
+}
+
+a {
+    color: #111111;
+
+}
