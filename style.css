@@ -3,9 +3,6 @@ h1 {
     font: normal 42px Arial, sans-serif;
     color: #111111;
 }
-.table-container {
-    text-align: center;
-}
 table {
     border: solid 1px #111111;
     border-collapse: collapse;
@@ -33,4 +30,17 @@ tbody td {
 a {
     color: #111111;
 
+}
+
+.donation-box {
+    text-align: center;
+}
+
+.command {
+    font-family: monospace;
+}
+
+.command span {
+    padding: 3px;
+    background: #e0e0e0;
 }

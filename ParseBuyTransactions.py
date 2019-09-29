@@ -59,6 +59,11 @@ with open("index.html", "w") as summary:
     summary.write("""
     <link rel="stylesheet" href="style.css">
     <h1>Liberty Minecraft Markets</h1>
+    <div class="donation-box">
+    <p>Made with ❤ by <a href="https://www.keybase.io/rigille">impression28</a>. Consider donating a diamond :)</p>
+
+    <p class="command"><span>/pay impression28 10000</span></p>
+    </div>
     """)
     summary.write(tabulate(table_summary, headers = ["Item", "Units sold", "Volume", "Price"], tablefmt='html'))
     summary.write('<script src="tablesort.js"></script>')
