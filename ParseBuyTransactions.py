@@ -1,3 +1,5 @@
+# coding=utf-8
+
 from BuyTransactionGrammar import buy_transaction
 from tqdm import tqdm
 from tabulate import tabulate
@@ -58,12 +60,12 @@ table_summary = sorted(table_summary, key=lambda x: float(x[2]), reverse=True)
 with open("index.html", "w") as summary:
     summary.write("""
     <link rel="stylesheet" href="style.css">
-    <h1>Liberty Minecraft Markets</h1>
-    <div class="donation-box">
-    <p>Made with ❤ by <a href="https://www.keybase.io/rigille">impression28</a>. Consider donating a diamond :)</p>
-
-    <p class="command"><span>/pay impression28 10000</span></p>
-    </div>
+        <h1>Liberty Minecraft Markets</h1>
+        <div class="donation-box">
+            <p>Visualize market data for every item in the game!</p>
+            <p>Made with ❤ by Rígille aka <a href="https://www.keybase.io/rigille">impression28</a>.</p>
+            <p>Last updated <insert date here>.</p>
+       </div>
     """)
     summary.write(tabulate(table_summary, headers = ["Item", "Units sold", "Volume", "Price"], tablefmt='html'))
     summary.write('<script src="tablesort.js"></script>')
