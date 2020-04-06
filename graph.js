@@ -4,6 +4,7 @@
  * @param  {String} url The URL
  * @return {Object}     The URL parameters
  */
+
 var getParams = function (url) {
 	var params = {};
 	var parser = document.createElement('a');
