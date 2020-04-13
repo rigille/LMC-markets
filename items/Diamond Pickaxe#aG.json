@@ -1,0 +1,48 @@
+{
+	"item name" : "Diamond Pickaxe#aG",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Tomter",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 65,
+				"z" : 15
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/13",
+			"volume" : 59999,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 65,
+				"z" : 15
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/29",
+			"volume" : 59999,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 65,
+				"z" : 15
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/01",
+			"volume" : 59999,
+			"world" : "world"
+		}
+	]
+}

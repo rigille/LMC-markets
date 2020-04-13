@@ -1,0 +1,104 @@
+{
+	"item name" : "Oak Door",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/24",
+			"volume" : 40,
+			"world" : "world"
+		},
+		{
+			"amount" : 218,
+			"buyer" : "LightsChaos",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/25",
+			"volume" : 8720,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -78
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 66,
+			"world" : "world"
+		},
+		{
+			"amount" : 92,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -78
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"volume" : 2024,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -78
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/24",
+			"volume" : 22,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Miss_Animator",
+			"location" : 
+			{
+				"x" : 93,
+				"y" : 72,
+				"z" : 16
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/27",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : 93,
+				"y" : 72,
+				"z" : 16
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/03/13",
+			"volume" : 100,
+			"world" : "world"
+		}
+	]
+}

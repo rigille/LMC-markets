@@ -1,0 +1,48 @@
+{
+	"item name" : "Trident#9C",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -17
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/05/11",
+			"volume" : 350000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -17
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/07/08",
+			"volume" : 350000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -17
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/07/15",
+			"volume" : 350000,
+			"world" : "world"
+		}
+	]
+}

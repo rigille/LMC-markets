@@ -1,0 +1,34 @@
+{
+	"item name" : "Sponge",
+	"transactions" : 
+	[
+		{
+			"amount" : 23,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -57,
+				"y" : 69,
+				"z" : 12
+			},
+			"seller" : "NullCase",
+			"time" : "2018/12/12",
+			"volume" : 4485000,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -57,
+				"y" : 69,
+				"z" : 12
+			},
+			"seller" : "NullCase",
+			"time" : "2018/12/13",
+			"volume" : 1917000,
+			"world" : "world"
+		}
+	]
+}

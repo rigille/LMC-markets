@@ -1,0 +1,118 @@
+{
+	"item name" : "Enchanted Book#3a",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/24",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "rubez",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/25",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/28",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/24",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/28",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/03",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/04",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Talrinion",
+			"location" : 
+			{
+				"x" : -1966,
+				"y" : 67,
+				"z" : 1529
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/10",
+			"volume" : 2000,
+			"world" : "world"
+		}
+	]
+}

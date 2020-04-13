@@ -1,0 +1,34 @@
+{
+	"item name" : "Oak Pressure Plate",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -84
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 42,
+			"world" : "world"
+		},
+		{
+			"amount" : 21,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -84
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"volume" : 294,
+			"world" : "world"
+		}
+	]
+}

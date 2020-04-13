@@ -1,0 +1,146 @@
+{
+	"item name" : "Enchanted Book#1y",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "fiddleswithstick",
+			"location" : 
+			{
+				"x" : 30,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/15",
+			"volume" : 25000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 30,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/16",
+			"volume" : 25000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/04/06",
+			"volume" : 5000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/04/09",
+			"volume" : 2500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/06/02",
+			"volume" : 2500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dredhounds",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/07/12",
+			"volume" : 2500,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 6,
+				"z" : -11
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/08/19",
+			"volume" : 2400,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "_mrpuggy_",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 88,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/29",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 6,
+				"z" : -11
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/03/06",
+			"volume" : 1200,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 6,
+				"z" : -11
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/03/09",
+			"volume" : 1200,
+			"world" : "world_the_end"
+		}
+	]
+}

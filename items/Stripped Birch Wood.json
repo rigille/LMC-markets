@@ -1,0 +1,34 @@
+{
+	"item name" : "Stripped Birch Wood",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -54
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/16",
+			"volume" : 88,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "Mongoose_136",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -54
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/14",
+			"volume" : 528,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,118 @@
+{
+	"item name" : "Enchanted Book#5v",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/02",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/17",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/20",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/08",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "BelegStrongbow",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/21",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 78,
+				"z" : 9
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/02/22",
+			"volume" : 1900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/26",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/02",
+			"volume" : 2000,
+			"world" : "world"
+		}
+	]
+}

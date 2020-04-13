@@ -1,0 +1,48 @@
+{
+	"item name" : "Black Stained Glass",
+	"transactions" : 
+	[
+		{
+			"amount" : 64,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/03/17",
+			"volume" : 3200,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/03/23",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 65,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/08/13",
+			"volume" : 3250,
+			"world" : "world"
+		}
+	]
+}

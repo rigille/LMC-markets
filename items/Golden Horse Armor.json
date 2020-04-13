@@ -1,0 +1,20 @@
+{
+	"item name" : "Golden Horse Armor",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : 111,
+				"y" : 73,
+				"z" : -40
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/03/20",
+			"volume" : 100000,
+			"world" : "world"
+		}
+	]
+}

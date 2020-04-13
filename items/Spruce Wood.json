@@ -1,0 +1,34 @@
+{
+	"item name" : "Spruce Wood",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Meyoo",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/01",
+			"volume" : 81,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/22",
+			"volume" : 4288,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"item name" : "Jungle Planks",
+	"transactions" : 
+	[
+		{
+			"amount" : 192,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 16,
+				"y" : 74,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/06",
+			"volume" : 6720,
+			"world" : "world"
+		},
+		{
+			"amount" : 150,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/17",
+			"volume" : 4500,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Captain_Handsome",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/15",
+			"volume" : 69,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 63,
+			"world" : "world"
+		}
+	]
+}

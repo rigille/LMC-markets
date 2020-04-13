@@ -1,0 +1,34 @@
+{
+	"item name" : "Stripped Jungle Log",
+	"transactions" : 
+	[
+		{
+			"amount" : 63,
+			"buyer" : "FatherTime__",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/06",
+			"volume" : 5229,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/25",
+			"volume" : 83,
+			"world" : "world"
+		}
+	]
+}

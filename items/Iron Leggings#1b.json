@@ -1,0 +1,62 @@
+{
+	"item name" : "Iron Leggings#1b",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "DjungelJarl",
+			"location" : 
+			{
+				"x" : 31,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/14",
+			"volume" : 69000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "DjungelJarl",
+			"location" : 
+			{
+				"x" : 31,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/19",
+			"volume" : 38000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/10",
+			"volume" : 12000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/21",
+			"volume" : 12000,
+			"world" : "world"
+		}
+	]
+}

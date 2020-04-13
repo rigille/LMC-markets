@@ -1,0 +1,48 @@
+{
+	"item name" : "Oak Fence",
+	"transactions" : 
+	[
+		{
+			"amount" : 35,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -72
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/26",
+			"volume" : 630,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -72
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 54,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 62,
+				"z" : -72
+			},
+			"seller" : "K9us",
+			"time" : "2019/09/18",
+			"volume" : 17,
+			"world" : "world"
+		}
+	]
+}

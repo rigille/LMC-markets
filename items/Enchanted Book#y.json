@@ -1,0 +1,132 @@
+{
+	"item name" : "Enchanted Book#y",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Troll_kin",
+			"location" : 
+			{
+				"x" : 42,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/21",
+			"volume" : 500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "3thanat0r",
+			"location" : 
+			{
+				"x" : 42,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/26",
+			"volume" : 350,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 42,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/30",
+			"volume" : 700,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -5,
+				"y" : 58,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/04/04",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -5,
+				"y" : 58,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/27",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 59,
+				"y" : 52,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/25",
+			"volume" : 300,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 59,
+				"y" : 52,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/10",
+			"volume" : 600,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 59,
+				"y" : 52,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/19",
+			"volume" : 600,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 59,
+				"y" : 52,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/20",
+			"volume" : 1800,
+			"world" : "world"
+		}
+	]
+}

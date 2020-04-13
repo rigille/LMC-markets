@@ -1,0 +1,76 @@
+{
+	"item name" : "Redstone Lamp",
+	"transactions" : 
+	[
+		{
+			"amount" : 32,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 260,
+				"y" : 91,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/03/17",
+			"volume" : 9600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Technerd05",
+			"location" : 
+			{
+				"x" : 260,
+				"y" : 91,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/13",
+			"volume" : 300,
+			"world" : "world"
+		},
+		{
+			"amount" : 60,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 260,
+				"y" : 91,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/13",
+			"volume" : 18000,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 260,
+				"y" : 91,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/29",
+			"volume" : 38400,
+			"world" : "world"
+		},
+		{
+			"amount" : 49,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 260,
+				"y" : 91,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/10/29",
+			"volume" : 14700,
+			"world" : "world"
+		}
+	]
+}

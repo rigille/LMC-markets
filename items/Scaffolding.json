@@ -1,0 +1,62 @@
+{
+	"item name" : "Scaffolding",
+	"transactions" : 
+	[
+		{
+			"amount" : 64,
+			"buyer" : "steelpanmaster",
+			"location" : 
+			{
+				"x" : -100,
+				"y" : 60,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/02/20",
+			"volume" : 16,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : -100,
+				"y" : 60,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/04",
+			"volume" : 4,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : -100,
+				"y" : 60,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/12",
+			"volume" : 80,
+			"world" : "world"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : -100,
+				"y" : 60,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/12",
+			"volume" : 3.5,
+			"world" : "world"
+		}
+	]
+}

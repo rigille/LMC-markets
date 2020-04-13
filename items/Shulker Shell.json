@@ -1,0 +1,76 @@
+{
+	"item name" : "Shulker Shell",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 64,
+				"z" : 10
+			},
+			"seller" : "TheScrubJay",
+			"time" : "2018/09/05",
+			"volume" : 50000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 64,
+				"z" : 10
+			},
+			"seller" : "TheScrubJay",
+			"time" : "2018/09/10",
+			"volume" : 200000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "33_Shikamaru",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 64,
+				"z" : 13
+			},
+			"seller" : "TheScrubJay",
+			"time" : "2018/09/24",
+			"volume" : 70000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Psyper77",
+			"location" : 
+			{
+				"x" : -1473,
+				"y" : 31,
+				"z" : 655
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/21",
+			"volume" : 98000,
+			"world" : "world"
+		},
+		{
+			"amount" : 30,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1473,
+				"y" : 31,
+				"z" : 655
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/05/18",
+			"volume" : 1470000,
+			"world" : "world"
+		}
+	]
+}

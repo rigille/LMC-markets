@@ -1,0 +1,90 @@
+{
+	"item name" : "Red Stained Glass",
+	"transactions" : 
+	[
+		{
+			"amount" : 64,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/03/17",
+			"volume" : 1920,
+			"world" : "world"
+		},
+		{
+			"amount" : 302,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/03/22",
+			"volume" : 9060,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/03/22",
+			"volume" : 1920,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/07",
+			"volume" : 90,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/01",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/02",
+			"volume" : 90,
+			"world" : "world"
+		}
+	]
+}

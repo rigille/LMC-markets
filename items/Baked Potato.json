@@ -1,0 +1,160 @@
+{
+	"item name" : "Baked Potato",
+	"transactions" : 
+	[
+		{
+			"amount" : 8,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 70,
+				"z" : 12
+			},
+			"seller" : "Remixster",
+			"time" : "2018/09/29",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 170,
+			"buyer" : "H0ly_Llama",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 70,
+				"z" : 12
+			},
+			"seller" : "Remixster",
+			"time" : "2018/10/26",
+			"volume" : 1168.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "rubez",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 74,
+				"z" : 20
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/24",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 268,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 70,
+				"z" : -45
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/12/02",
+			"volume" : 268,
+			"world" : "world"
+		},
+		{
+			"amount" : 76,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 74,
+				"z" : 20
+			},
+			"seller" : "Remixster",
+			"time" : "2018/12/13",
+			"volume" : 23.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "MisterEck",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 74,
+				"z" : 20
+			},
+			"seller" : "Remixster",
+			"time" : "2018/12/25",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 74,
+				"z" : 20
+			},
+			"seller" : "Remixster",
+			"time" : "2019/01/30",
+			"volume" : 3.4399999999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Magnavox",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 74,
+				"z" : 20
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/03/25",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "Mowilag",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 74,
+				"z" : 20
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/09/01",
+			"volume" : 5.9400000000000004,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Cinderace2578",
+			"location" : 
+			{
+				"x" : -1167,
+				"y" : 77,
+				"z" : 2153
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/05",
+			"volume" : 12.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Freeaboo",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 74,
+				"z" : 20
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/07",
+			"volume" : 20,
+			"world" : "world"
+		}
+	]
+}

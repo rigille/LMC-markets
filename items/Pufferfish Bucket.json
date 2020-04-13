@@ -1,0 +1,48 @@
+{
+	"item name" : "Pufferfish Bucket",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "darkraysplash",
+			"location" : 
+			{
+				"x" : 117,
+				"y" : 73,
+				"z" : -48
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/04/08",
+			"volume" : 5000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AspenGamgee",
+			"location" : 
+			{
+				"x" : 120,
+				"y" : 49,
+				"z" : -50
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/07/01",
+			"volume" : 5000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 120,
+				"y" : 49,
+				"z" : -50
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/01/26",
+			"volume" : 5000,
+			"world" : "world"
+		}
+	]
+}

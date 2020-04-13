@@ -1,0 +1,34 @@
+{
+	"item name" : "Milk Bucket",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "TheNormalToast",
+			"location" : 
+			{
+				"x" : 317,
+				"y" : 72,
+				"z" : 27
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/09/14",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Remix_D_Miner",
+			"location" : 
+			{
+				"x" : 317,
+				"y" : 72,
+				"z" : 27
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/12/10",
+			"volume" : 100,
+			"world" : "world"
+		}
+	]
+}

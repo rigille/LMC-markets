@@ -1,0 +1,20 @@
+{
+	"item name" : "Diamond Boots#be",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Greenbarn1234",
+			"location" : 
+			{
+				"x" : 260,
+				"y" : 79,
+				"z" : 56
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/03/27",
+			"volume" : 60000,
+			"world" : "world"
+		}
+	]
+}

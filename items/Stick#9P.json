@@ -1,0 +1,48 @@
+{
+	"item name" : "Stick#9P",
+	"transactions" : 
+	[
+		{
+			"amount" : 4,
+			"buyer" : "Stormchaserz",
+			"location" : 
+			{
+				"x" : -338,
+				"y" : 75,
+				"z" : -473
+			},
+			"seller" : "Stormrunners",
+			"time" : "2019/06/15",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : -338,
+				"y" : 75,
+				"z" : -473
+			},
+			"seller" : "Stormrunners",
+			"time" : "2019/06/28",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Miljanee",
+			"location" : 
+			{
+				"x" : -338,
+				"y" : 75,
+				"z" : -473
+			},
+			"seller" : "Stormrunners",
+			"time" : "2019/08/10",
+			"volume" : 0,
+			"world" : "world"
+		}
+	]
+}

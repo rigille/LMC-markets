@@ -1,0 +1,34 @@
+{
+	"item name" : "Acacia Leaves",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 51,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/29",
+			"volume" : 5440,
+			"world" : "world"
+		}
+	]
+}

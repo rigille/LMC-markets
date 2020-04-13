@@ -1,0 +1,174 @@
+{
+	"item name" : "Tnt",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -346,
+				"y" : 72,
+				"z" : 79
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/11/25",
+			"volume" : 250,
+			"world" : "world"
+		},
+		{
+			"amount" : 18,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 70,
+				"z" : -47
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/12/02",
+			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : -346,
+				"y" : 72,
+				"z" : 79
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2019/01/22",
+			"volume" : 250,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 12,
+				"y" : 59,
+				"z" : 168
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/05/24",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 12,
+				"y" : 59,
+				"z" : 168
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/05/26",
+			"volume" : 38400,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 12,
+				"y" : 59,
+				"z" : 168
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/04",
+			"volume" : 38400,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 12,
+				"y" : 59,
+				"z" : 168
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/08",
+			"volume" : 12800,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 12,
+				"y" : 59,
+				"z" : 168
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/11",
+			"volume" : 25600,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 12,
+				"y" : 59,
+				"z" : 168
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/08/20",
+			"volume" : 25600,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 12,
+				"y" : 59,
+				"z" : 168
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/10/29",
+			"volume" : 25600,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 312,
+				"y" : 78,
+				"z" : 29
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/03/02",
+			"volume" : 72,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "Spectate_Nate",
+			"location" : 
+			{
+				"x" : 312,
+				"y" : 78,
+				"z" : 29
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/03/13",
+			"volume" : 160,
+			"world" : "world"
+		}
+	]
+}

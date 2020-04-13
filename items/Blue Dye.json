@@ -1,0 +1,118 @@
+{
+	"item name" : "Blue Dye",
+	"transactions" : 
+	[
+		{
+			"amount" : 4,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 320,
+				"y" : 71,
+				"z" : 25
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/08/20",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 18,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : 320,
+				"y" : 71,
+				"z" : 25
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/09/13",
+			"volume" : 90,
+			"world" : "world"
+		},
+		{
+			"amount" : 54,
+			"buyer" : "TheNormalToast",
+			"location" : 
+			{
+				"x" : 320,
+				"y" : 71,
+				"z" : 25
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/09/14",
+			"volume" : 270,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2019/12/21",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "jtl0350",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/11",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Freeaboo",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/19",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/10",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 74,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/12",
+			"volume" : 740,
+			"world" : "world"
+		}
+	]
+}

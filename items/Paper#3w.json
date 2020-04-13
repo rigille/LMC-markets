@@ -1,0 +1,524 @@
+{
+	"item name" : "Paper#3w",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Artiist4",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/25",
+			"volume" : 50,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Artiist4",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/25",
+			"volume" : 100,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Artiist4",
+			"location" : 
+			{
+				"x" : -21,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/25",
+			"volume" : 200,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Artiist4",
+			"location" : 
+			{
+				"x" : -29,
+				"y" : 112,
+				"z" : 164
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/25",
+			"volume" : 400,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/01",
+			"volume" : 10,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/01",
+			"volume" : 20,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -21,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/01",
+			"volume" : 30,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -29,
+				"y" : 112,
+				"z" : 164
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/01",
+			"volume" : 40,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/05",
+			"volume" : 10,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/05",
+			"volume" : 20,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -21,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/05",
+			"volume" : 30,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -29,
+				"y" : 112,
+				"z" : 164
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/05",
+			"volume" : 320,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : -29,
+				"y" : 112,
+				"z" : 164
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/15",
+			"volume" : 40,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Phantom_Ark",
+			"location" : 
+			{
+				"x" : -29,
+				"y" : 112,
+				"z" : 164
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/20",
+			"volume" : 80,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/01",
+			"volume" : 10,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/01",
+			"volume" : 20,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -21,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/01",
+			"volume" : 30,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -29,
+				"y" : 112,
+				"z" : 164
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/01",
+			"volume" : 40,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -29,
+				"y" : 112,
+				"z" : 164
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/18",
+			"volume" : 80,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "monkeyboy448",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/29",
+			"volume" : 10,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "monkeyboy448",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/29",
+			"volume" : 20,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "monkeyboy448",
+			"location" : 
+			{
+				"x" : -21,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/29",
+			"volume" : 30,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "monkeyboy448",
+			"location" : 
+			{
+				"x" : -29,
+				"y" : 112,
+				"z" : 164
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/29",
+			"volume" : 40,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/15",
+			"volume" : 20,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/15",
+			"volume" : 20,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : -21,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/15",
+			"volume" : 30,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : -29,
+				"y" : 112,
+				"z" : 164
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/15",
+			"volume" : 80,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -29,
+				"y" : 112,
+				"z" : 164
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/02",
+			"volume" : 40,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/07",
+			"volume" : 10,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/07",
+			"volume" : 20,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : -21,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/07",
+			"volume" : 30,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/17",
+			"volume" : 10,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/17",
+			"volume" : 20,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Miljanee",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/28",
+			"volume" : 10,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Miljanee",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/28",
+			"volume" : 20,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Miljanee",
+			"location" : 
+			{
+				"x" : -21,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/28",
+			"volume" : 30,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 112,
+				"z" : 161
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/09",
+			"volume" : 20,
+			"world" : "world_nether"
+		}
+	]
+}

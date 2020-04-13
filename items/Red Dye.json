@@ -1,0 +1,62 @@
+{
+	"item name" : "Red Dye",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -8,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2019/12/26",
+			"volume" : 5,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "jtl0350",
+			"location" : 
+			{
+				"x" : -8,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/11",
+			"volume" : 320,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -8,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/10",
+			"volume" : 5,
+			"world" : "world"
+		},
+		{
+			"amount" : 512,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : -8,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/12",
+			"volume" : 2560,
+			"world" : "world"
+		}
+	]
+}

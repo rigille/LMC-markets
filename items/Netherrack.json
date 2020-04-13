@@ -1,0 +1,118 @@
+{
+	"item name" : "Netherrack",
+	"transactions" : 
+	[
+		{
+			"amount" : 216,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 74,
+				"y" : 66,
+				"z" : -321
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/09/06",
+			"volume" : 33.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 74,
+				"y" : 66,
+				"z" : -321
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/09/11",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Remixster",
+			"location" : 
+			{
+				"x" : 74,
+				"y" : 66,
+				"z" : -321
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/09/15",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 74,
+				"y" : 66,
+				"z" : -321
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/09/15",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 480,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 74,
+				"y" : 66,
+				"z" : -321
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/09/15",
+			"volume" : 187.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 576,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : -58,
+				"y" : 112,
+				"z" : -22
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/30",
+			"volume" : 1710,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 4287,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : -58,
+				"y" : 112,
+				"z" : -22
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/16",
+			"volume" : 12727.089999999993,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Remixster",
+			"location" : 
+			{
+				"x" : -58,
+				"y" : 112,
+				"z" : -22
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/26",
+			"volume" : 190,
+			"world" : "world_nether"
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"item name" : "Water Bucket",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -106,
+				"y" : 6,
+				"z" : -6
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/07",
+			"volume" : 50,
+			"world" : "world"
+		}
+	]
+}

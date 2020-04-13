@@ -1,0 +1,188 @@
+{
+	"item name" : "Enchanted Book#4g",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 66,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/20",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 63,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/23",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "ArcherV0",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 63,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/07",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 63,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/27",
+			"volume" : 8000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 63,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/07",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 9,
+				"y" : 57,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/01/07",
+			"volume" : 14400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 36,
+				"y" : 78,
+				"z" : 11
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/02/11",
+			"volume" : 1900,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 63,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/17",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "FatherTime__",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 63,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/26",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 9,
+				"y" : 57,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/03/17",
+			"volume" : 14400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 9,
+				"y" : 57,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/03/25",
+			"volume" : 4800,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 36,
+				"y" : 78,
+				"z" : 11
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/25",
+			"volume" : 3800,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 36,
+				"y" : 78,
+				"z" : 11
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/30",
+			"volume" : 7600,
+			"world" : "world"
+		}
+	]
+}

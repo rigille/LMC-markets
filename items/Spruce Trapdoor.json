@@ -1,0 +1,48 @@
+{
+	"item name" : "Spruce Trapdoor",
+	"transactions" : 
+	[
+		{
+			"amount" : 8,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -81
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/14",
+			"volume" : 192,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -81
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 72,
+			"world" : "world"
+		},
+		{
+			"amount" : 79,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -81
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/01",
+			"volume" : 1896,
+			"world" : "world"
+		}
+	]
+}

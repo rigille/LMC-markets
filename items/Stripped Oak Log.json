@@ -1,0 +1,76 @@
+{
+	"item name" : "Stripped Oak Log",
+	"transactions" : 
+	[
+		{
+			"amount" : 64,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/14",
+			"volume" : 3520,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 165,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 62,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/04",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 62,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"volume" : 9600,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "Ekelunds46",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 63,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/11/29",
+			"volume" : 495,
+			"world" : "world"
+		}
+	]
+}

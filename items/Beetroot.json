@@ -1,0 +1,272 @@
+{
+	"item name" : "Beetroot",
+	"transactions" : 
+	[
+		{
+			"amount" : 1369,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 63,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/22",
+			"volume" : 3208.5900000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 1792,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 63,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/23",
+			"volume" : 4200,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "TechnoWiking",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 63,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/27",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "asumcookie",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 63,
+				"z" : 235
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/11/02",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 67,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/12/19",
+			"volume" : 5,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "ZeroGDucks",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 65,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/01/22",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 67,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/02/10",
+			"volume" : 5,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Heronproject",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 63,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/02/23",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 65,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/02",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 63,
+				"z" : 235
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/06",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 65,
+				"z" : 235
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/12",
+			"volume" : 80,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 67,
+				"z" : 235
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/21",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 67,
+				"z" : 235
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/26",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 67,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/07/30",
+			"volume" : 4,
+			"world" : "world"
+		},
+		{
+			"amount" : 640,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 67,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/08/13",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 1472,
+			"buyer" : "AmineWeboo",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 67,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/01/19",
+			"volume" : 23,
+			"world" : "world"
+		},
+		{
+			"amount" : 1111,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 67,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/02/04",
+			"volume" : 17.359999999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 809,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 65,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/02/04",
+			"volume" : 25.280000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Spectate_Nate",
+			"location" : 
+			{
+				"x" : 1771,
+				"y" : 58,
+				"z" : -37
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/03/20",
+			"volume" : 5,
+			"world" : "world"
+		}
+	]
+}

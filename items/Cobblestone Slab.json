@@ -1,0 +1,34 @@
+{
+	"item name" : "Cobblestone Slab",
+	"transactions" : 
+	[
+		{
+			"amount" : 128,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 88,
+				"y" : 72,
+				"z" : 18
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/05/26",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 88,
+				"y" : 72,
+				"z" : 18
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/08/22",
+			"volume" : 450,
+			"world" : "world"
+		}
+	]
+}

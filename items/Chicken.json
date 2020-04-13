@@ -1,0 +1,482 @@
+{
+	"item name" : "Chicken",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Baskerboss",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 73,
+				"z" : -141
+			},
+			"seller" : "Srood",
+			"time" : "2018/09/05",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "33_Shikamaru",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 73,
+				"z" : -141
+			},
+			"seller" : "Srood",
+			"time" : "2018/09/06",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 73,
+				"z" : -141
+			},
+			"seller" : "Srood",
+			"time" : "2018/09/06",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 562,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/01/09",
+			"volume" : 28.099999999999998,
+			"world" : "world"
+		},
+		{
+			"amount" : 381,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/01/20",
+			"volume" : 19.050000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Talrinion",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/01/29",
+			"volume" : 6.4000000000000004,
+			"world" : "world"
+		},
+		{
+			"amount" : 105,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/02/07",
+			"volume" : 5.25,
+			"world" : "world"
+		},
+		{
+			"amount" : 25,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/02/08",
+			"volume" : 1.25,
+			"world" : "world"
+		},
+		{
+			"amount" : 388,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/02/20",
+			"volume" : 19.399999999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/02/20",
+			"volume" : 0.14999999999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 116,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/02/24",
+			"volume" : 5.8000000000000007,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/02/25",
+			"volume" : 6.4000000000000004,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/03/13",
+			"volume" : 9.6000000000000014,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Talrinion",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/03/28",
+			"volume" : 3.2000000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "TheOnlyOne69",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/03/28",
+			"volume" : 3.2000000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 1964,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/04/12",
+			"volume" : 98.200000000000045,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "BrickTheBuilder",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/07/08",
+			"volume" : 9.6000000000000014,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/08/08",
+			"volume" : 6.4000000000000004,
+			"world" : "world"
+		},
+		{
+			"amount" : 59,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/08/08",
+			"volume" : 1.1100000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "vemppasalo",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/09/22",
+			"volume" : 12.800000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 35,
+			"buyer" : "LiamMCW",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/10/26",
+			"volume" : 1.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Maxalkin",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/10/27",
+			"volume" : 3.2000000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Mowilag",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/11/13",
+			"volume" : 3.2000000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/01/20",
+			"volume" : 1.2,
+			"world" : "world"
+		},
+		{
+			"amount" : 704,
+			"buyer" : "Miiirak",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/01/29",
+			"volume" : 35.199999999999996,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "SirKrojje",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/02/17",
+			"volume" : 3.2000000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Miss_Animator",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/02/26",
+			"volume" : 1.2,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/02/28",
+			"volume" : 2.3999999999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "hyperdramallama",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/03/12",
+			"volume" : 4.7999999999999998,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "KnobbyWaffle",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/03/25",
+			"volume" : 7.2000000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/03/26",
+			"volume" : 2.3999999999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "drewstheman1",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/03/26",
+			"volume" : 2.3999999999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/03/26",
+			"volume" : 3.2000000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "KnobbyWaffle",
+			"location" : 
+			{
+				"x" : -63,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/03/27",
+			"volume" : 7.2000000000000002,
+			"world" : "world"
+		}
+	]
+}

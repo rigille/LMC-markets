@@ -1,0 +1,34 @@
+{
+	"item name" : "Melon Seeds",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "hyperdramallama",
+			"location" : 
+			{
+				"x" : 311,
+				"y" : 71,
+				"z" : 24
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/03/15",
+			"volume" : 5,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : 311,
+				"y" : 71,
+				"z" : 24
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/03/26",
+			"volume" : 55,
+			"world" : "world"
+		}
+	]
+}

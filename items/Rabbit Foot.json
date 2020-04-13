@@ -1,0 +1,20 @@
+{
+	"item name" : "Rabbit Foot",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 379,
+				"y" : 79,
+				"z" : 28
+			},
+			"seller" : "Srood",
+			"time" : "2019/08/25",
+			"volume" : 300,
+			"world" : "world"
+		}
+	]
+}

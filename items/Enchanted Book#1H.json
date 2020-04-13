@@ -1,0 +1,174 @@
+{
+	"item name" : "Enchanted Book#1H",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/21",
+			"volume" : 19000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/24",
+			"volume" : 19000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Char1348294",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/24",
+			"volume" : 19000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/27",
+			"volume" : 19000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/01",
+			"volume" : 14000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/01",
+			"volume" : 28000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/07",
+			"volume" : 27000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/21",
+			"volume" : 15000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 88,
+				"z" : 19
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/11/30",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Threethan",
+			"location" : 
+			{
+				"x" : -5,
+				"y" : 59,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/08",
+			"volume" : 1199,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Menace___",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 88,
+				"z" : 19
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/25",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 88,
+				"z" : 19
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/26",
+			"volume" : 1500,
+			"world" : "world"
+		}
+	]
+}

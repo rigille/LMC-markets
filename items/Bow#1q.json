@@ -1,0 +1,76 @@
+{
+	"item name" : "Bow#1q",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 29,
+				"y" : 83,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/02",
+			"volume" : 50000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 29,
+				"y" : 83,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/05",
+			"volume" : 50000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Baskerboss",
+			"location" : 
+			{
+				"x" : 29,
+				"y" : 83,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/05",
+			"volume" : 50000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : 369,
+				"y" : 79,
+				"z" : 16
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2020/03/26",
+			"volume" : 50000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : -13,
+				"y" : 65,
+				"z" : 31
+			},
+			"seller" : "Marcus265",
+			"time" : "2020/03/28",
+			"volume" : 10000,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"item name" : "Polished Granite",
+	"transactions" : 
+	[
+		{
+			"amount" : 6,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 53,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/01",
+			"volume" : 14.4,
+			"world" : "world"
+		},
+		{
+			"amount" : 44,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 265,
+				"y" : 79,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/03/26",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 47,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 255,
+				"y" : 81,
+				"z" : 160
+			},
+			"seller" : "ezrone",
+			"time" : "2019/06/06",
+			"volume" : 1175,
+			"world" : "world"
+		}
+	]
+}

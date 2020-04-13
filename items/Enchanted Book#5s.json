@@ -1,0 +1,90 @@
+{
+	"item name" : "Enchanted Book#5s",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/09",
+			"volume" : 99000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 63,
+				"z" : -41
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/10",
+			"volume" : 3200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 63,
+				"z" : -41
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/27",
+			"volume" : 3200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -10
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/08",
+			"volume" : 3200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -10
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/18",
+			"volume" : 3200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "StanleyC",
+			"location" : 
+			{
+				"x" : 28,
+				"y" : 52,
+				"z" : -29
+			},
+			"seller" : "K9us",
+			"time" : "2019/10/21",
+			"volume" : 300,
+			"world" : "world"
+		}
+	]
+}

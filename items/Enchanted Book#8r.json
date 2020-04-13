@@ -1,0 +1,48 @@
+{
+	"item name" : "Enchanted Book#8r",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 36,
+				"y" : 78,
+				"z" : 9
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/04/20",
+			"volume" : 3100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "jackcam6",
+			"location" : 
+			{
+				"x" : 36,
+				"y" : 78,
+				"z" : 9
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/07/01",
+			"volume" : 3100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 273,
+				"y" : 6,
+				"z" : -23
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/08/19",
+			"volume" : 2000,
+			"world" : "world_the_end"
+		}
+	]
+}

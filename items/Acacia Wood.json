@@ -1,0 +1,34 @@
+{
+	"item name" : "Acacia Wood",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 660,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "monkeyboy448",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/05",
+			"volume" : 220,
+			"world" : "world"
+		}
+	]
+}

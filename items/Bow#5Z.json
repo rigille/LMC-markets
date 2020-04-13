@@ -1,0 +1,48 @@
+{
+	"item name" : "Bow#5Z",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "yoikosugi",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 74,
+				"z" : 15
+			},
+			"seller" : "Remixster",
+			"time" : "2019/02/01",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 74,
+				"z" : 15
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/06/06",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mathemagician4",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 74,
+				"z" : 15
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/07/12",
+			"volume" : 200,
+			"world" : "world"
+		}
+	]
+}

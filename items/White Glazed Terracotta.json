@@ -1,0 +1,62 @@
+{
+	"item name" : "White Glazed Terracotta",
+	"transactions" : 
+	[
+		{
+			"amount" : 4,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 116,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/01/31",
+			"volume" : 240,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 116,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/02/17",
+			"volume" : 240,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 116,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/05/03",
+			"volume" : 180,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 116,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/06/12",
+			"volume" : 19200,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"item name" : "Birch Slab",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/17",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 62,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/22",
+			"volume" : 896,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 21,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"item name" : "Brick",
+	"transactions" : 
+	[
+		{
+			"amount" : 160,
+			"buyer" : "cmanley1981",
+			"location" : 
+			{
+				"x" : -346,
+				"y" : 74,
+				"z" : 81
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/10/15",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -346,
+				"y" : 74,
+				"z" : 81
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2019/01/13",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -346,
+				"y" : 74,
+				"z" : 81
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2019/02/24",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : -1873,
+				"y" : 18,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/18",
+			"volume" : 88,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"item name" : "Enchanted Book#4o",
+	"transactions" : 
+	[
+		{
+			"amount" : 4,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/07",
+			"volume" : 8000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/17",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "FatherTime__",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/26",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "JacobSterling",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/05",
+			"volume" : 2000,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"item name" : "Oak Stairs",
+	"transactions" : 
+	[
+		{
+			"amount" : 4,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -14
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/24",
+			"volume" : 120,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 42,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"volume" : 896,
+			"world" : "world"
+		}
+	]
+}

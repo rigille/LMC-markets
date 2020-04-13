@@ -1,0 +1,104 @@
+{
+	"item name" : "Wither Rose",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 66,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/07",
+			"volume" : 7,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 66,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/09",
+			"volume" : 42,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 66,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/23",
+			"volume" : 7,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 66,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/03",
+			"volume" : 448,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 66,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/23",
+			"volume" : 896,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 66,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/13",
+			"volume" : 448,
+			"world" : "world"
+		},
+		{
+			"amount" : 477,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 66,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/21",
+			"volume" : 3339,
+			"world" : "world"
+		}
+	]
+}

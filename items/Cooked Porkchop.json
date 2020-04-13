@@ -1,0 +1,174 @@
+{
+	"item name" : "Cooked Porkchop",
+	"transactions" : 
+	[
+		{
+			"amount" : 64,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 71,
+				"z" : -43
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/03",
+			"volume" : 320,
+			"world" : "world"
+		},
+		{
+			"amount" : 2113,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 71,
+				"z" : -43
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/24",
+			"volume" : 10565,
+			"world" : "world"
+		},
+		{
+			"amount" : 40,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 71,
+				"z" : -43
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/12/02",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -51,
+				"y" : 65,
+				"z" : 32
+			},
+			"seller" : "WoopidyDoopidy",
+			"time" : "2019/01/31",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 52,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 319,
+				"y" : 86,
+				"z" : 23
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/03/15",
+			"volume" : 40.630000000000003,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Serpentcraft",
+			"location" : 
+			{
+				"x" : 319,
+				"y" : 86,
+				"z" : 23
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/05/11",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -712,
+				"y" : 88,
+				"z" : 419
+			},
+			"seller" : "cameronbelt",
+			"time" : "2019/05/25",
+			"volume" : 0.20000000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 101,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -293,
+				"y" : 66,
+				"z" : -467
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/05",
+			"volume" : 31.560000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 88,
+				"z" : 173
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/06/16",
+			"volume" : 750,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 88,
+				"z" : 171
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/06/16",
+			"volume" : 750,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "darkraysplash",
+			"location" : 
+			{
+				"x" : 319,
+				"y" : 86,
+				"z" : 23
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/06/25",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 65,
+			"buyer" : "Tomter",
+			"location" : 
+			{
+				"x" : -293,
+				"y" : 66,
+				"z" : -467
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/01/13",
+			"volume" : 20.309999999999999,
+			"world" : "world"
+		}
+	]
+}

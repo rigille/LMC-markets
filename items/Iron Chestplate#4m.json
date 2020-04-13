@@ -1,0 +1,34 @@
+{
+	"item name" : "Iron Chestplate#4m",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -1968,
+				"y" : 68,
+				"z" : 1528
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/29",
+			"volume" : 8000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -1968,
+				"y" : 68,
+				"z" : 1528
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/04",
+			"volume" : 8000,
+			"world" : "world"
+		}
+	]
+}

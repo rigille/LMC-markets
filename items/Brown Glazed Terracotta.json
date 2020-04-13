@@ -1,0 +1,62 @@
+{
+	"item name" : "Brown Glazed Terracotta",
+	"transactions" : 
+	[
+		{
+			"amount" : 8,
+			"buyer" : "MajaAstrid",
+			"location" : 
+			{
+				"x" : 63,
+				"y" : 71,
+				"z" : 11
+			},
+			"seller" : "Remixster",
+			"time" : "2018/09/30",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 112,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/01/31",
+			"volume" : 240,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 18
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/05/03",
+			"volume" : 300,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 112,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/05/03",
+			"volume" : 180,
+			"world" : "world"
+		}
+	]
+}

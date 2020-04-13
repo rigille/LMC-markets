@@ -1,0 +1,244 @@
+{
+	"item name" : "Spruce Planks",
+	"transactions" : 
+	[
+		{
+			"amount" : 64,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -9
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/28",
+			"volume" : 1216,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "MajaAstrid",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -9
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/29",
+			"volume" : 19,
+			"world" : "world"
+		},
+		{
+			"amount" : 122,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -12
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/17",
+			"volume" : 3050,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -12
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/25",
+			"volume" : 133,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Starlight_",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -12
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/31",
+			"volume" : 19,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "beluaeomega",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -12
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/03",
+			"volume" : 1216,
+			"world" : "world"
+		},
+		{
+			"amount" : 18,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -327,
+				"y" : 72,
+				"z" : -429
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/02/18",
+			"volume" : 108,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/07",
+			"volume" : 1088,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 86,
+				"z" : 26
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/03/22",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 45,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/11",
+			"volume" : 2176,
+			"world" : "world"
+		},
+		{
+			"amount" : 704,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/26",
+			"volume" : 11968,
+			"world" : "world"
+		},
+		{
+			"amount" : 576,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 86,
+				"z" : 26
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/06/27",
+			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/27",
+			"volume" : 34,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/01",
+			"volume" : 3264,
+			"world" : "world"
+		},
+		{
+			"amount" : 512,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 86,
+				"z" : 26
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/08/10",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 86,
+				"z" : 26
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/08/12",
+			"volume" : 200,
+			"world" : "world"
+		}
+	]
+}

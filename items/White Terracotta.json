@@ -1,0 +1,76 @@
+{
+	"item name" : "White Terracotta",
+	"transactions" : 
+	[
+		{
+			"amount" : 8,
+			"buyer" : "MajaAstrid",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 71,
+				"z" : 11
+			},
+			"seller" : "Remixster",
+			"time" : "2018/10/01",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 20
+			},
+			"seller" : "Remixster",
+			"time" : "2019/02/05",
+			"volume" : 8000,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 20
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/03/15",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 20
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/05/03",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 96,
+			"buyer" : "NiCe69",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 20
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/06/12",
+			"volume" : 12000,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"item name" : "Glass Bottle",
+	"transactions" : 
+	[
+		{
+			"amount" : 84,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -178,
+				"y" : 65,
+				"z" : 330
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2019/05/31",
+			"volume" : 420,
+			"world" : "world"
+		},
+		{
+			"amount" : 1536,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 425,
+				"y" : 81,
+				"z" : 48
+			},
+			"seller" : "Dioswilson",
+			"time" : "2020/03/23",
+			"volume" : 13824,
+			"world" : "world"
+		}
+	]
+}

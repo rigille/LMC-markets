@@ -1,0 +1,34 @@
+{
+	"item name" : "Enchanted Book#ak",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 275,
+				"y" : 4,
+				"z" : -29
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/09/25",
+			"volume" : 2400,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 58,
+				"y" : 88,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/12/06",
+			"volume" : 1000,
+			"world" : "world"
+		}
+	]
+}

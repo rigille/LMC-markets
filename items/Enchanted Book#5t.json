@@ -1,0 +1,62 @@
+{
+	"item name" : "Enchanted Book#5t",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "TheEzieDawg",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 71,
+				"z" : 25
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/27",
+			"volume" : 1800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -11
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/18",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -11
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/22",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "FatherTime__",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 75,
+				"z" : -11
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/27",
+			"volume" : 2000,
+			"world" : "world"
+		}
+	]
+}

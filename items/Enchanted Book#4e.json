@@ -1,0 +1,118 @@
+{
+	"item name" : "Enchanted Book#4e",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 44,
+				"y" : 73,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/01",
+			"volume" : 4500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : -7,
+				"y" : 59,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/12/04",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/28",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/04",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "japanimator",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 75,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/30",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/02",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 78,
+				"z" : 7
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/02/14",
+			"volume" : 1400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 78,
+				"z" : 7
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/15",
+			"volume" : 1400,
+			"world" : "world"
+		}
+	]
+}

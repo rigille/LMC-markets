@@ -1,0 +1,48 @@
+{
+	"item name" : "Iron Chestplate#19",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "DjungelJarl",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/19",
+			"volume" : 39000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 72,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/10",
+			"volume" : 15000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 72,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/21",
+			"volume" : 15000,
+			"world" : "world"
+		}
+	]
+}

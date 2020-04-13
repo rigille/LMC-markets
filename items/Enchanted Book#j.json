@@ -1,0 +1,118 @@
+{
+	"item name" : "Enchanted Book#j",
+	"transactions" : 
+	[
+		{
+			"amount" : 6,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 73,
+				"z" : -20
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/05",
+			"volume" : 53400,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "33_Shikamaru",
+			"location" : 
+			{
+				"x" : 47,
+				"y" : 75,
+				"z" : -20
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/13",
+			"volume" : 23000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "_swedish",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/06",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "RyanJG",
+			"location" : 
+			{
+				"x" : 21,
+				"y" : 72,
+				"z" : -7
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/20",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 51,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/10",
+			"volume" : 1320,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 51,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/12",
+			"volume" : 440,
+			"world" : "world"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 51,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/13",
+			"volume" : 10560,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 51,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/09/17",
+			"volume" : 440,
+			"world" : "world"
+		}
+	]
+}

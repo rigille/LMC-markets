@@ -1,0 +1,90 @@
+{
+	"item name" : "Flint And Steel",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 70,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/17",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 70,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/28",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 70,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/02",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 70,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/06",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "jandaris14",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 70,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/09",
+			"volume" : 250,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mathemagician4",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 70,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/16",
+			"volume" : 50,
+			"world" : "world"
+		}
+	]
+}

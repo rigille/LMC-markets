@@ -1,0 +1,34 @@
+{
+	"item name" : "Enchanted Book#1x",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Vrael1",
+			"location" : 
+			{
+				"x" : 30,
+				"y" : 71,
+				"z" : -23
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/30",
+			"volume" : 16900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "_mrpuggy_",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 88,
+				"z" : 17
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/29",
+			"volume" : 1000,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,118 @@
+{
+	"item name" : "Emerald Ore",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Heronproject",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/21",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/04/20",
+			"volume" : 350,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/03",
+			"volume" : 2400,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/04",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/13",
+			"volume" : 51200,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/28",
+			"volume" : 4800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/06/12",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/18",
+			"volume" : 598,
+			"world" : "world"
+		}
+	]
+}

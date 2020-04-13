@@ -1,0 +1,48 @@
+{
+	"item name" : "Crafting Table",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 62,
+				"z" : -32
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 84,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Impression28",
+			"location" : 
+			{
+				"x" : 59,
+				"y" : 62,
+				"z" : -32
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/24",
+			"volume" : 28,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 59,
+				"y" : 62,
+				"z" : -32
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"volume" : 84,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"item name" : "Iron Sword#20",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "HandyEric3",
+			"location" : 
+			{
+				"x" : 41,
+				"y" : 72,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/02",
+			"volume" : 27000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 41,
+				"y" : 72,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/21",
+			"volume" : 15000,
+			"world" : "world"
+		}
+	]
+}

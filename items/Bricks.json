@@ -1,0 +1,132 @@
+{
+	"item name" : "Bricks",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -109,
+				"y" : 6,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/11",
+			"volume" : 180,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : -109,
+				"y" : 6,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/26",
+			"volume" : 11520,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/04/06",
+			"volume" : 9600,
+			"world" : "world"
+		},
+		{
+			"amount" : 640,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/04/11",
+			"volume" : 96000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "AspenGamgee",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/05/31",
+			"volume" : 9600,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "AspenGamgee",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/06/14",
+			"volume" : 9600,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Dualthegeming",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/07/20",
+			"volume" : 19200,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/09/16",
+			"volume" : 9600,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/01/16",
+			"volume" : 9600,
+			"world" : "world"
+		}
+	]
+}

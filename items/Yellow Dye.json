@@ -1,0 +1,104 @@
+{
+	"item name" : "Yellow Dye",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 59,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2019/12/21",
+			"volume" : 80,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 59,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2019/12/26",
+			"volume" : 80,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "jtl0350",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 59,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/11",
+			"volume" : 5120,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Downhilldriver",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 59,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/18",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 59,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/25",
+			"volume" : 720,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 59,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/27",
+			"volume" : 5120,
+			"world" : "world"
+		},
+		{
+			"amount" : 107,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 59,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/12",
+			"volume" : 8560,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,188 @@
+{
+	"item name" : "Gray Wool",
+	"transactions" : 
+	[
+		{
+			"amount" : 144,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : -49,
+				"y" : 65,
+				"z" : 34
+			},
+			"seller" : "WoopidyDoopidy",
+			"time" : "2018/10/06",
+			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Captain_Handsome",
+			"location" : 
+			{
+				"x" : 101,
+				"y" : 70,
+				"z" : 34
+			},
+			"seller" : "Remixster",
+			"time" : "2018/10/22",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 101,
+				"y" : 70,
+				"z" : 34
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/07",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 95,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 101,
+				"y" : 70,
+				"z" : 34
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/29",
+			"volume" : 653.13,
+			"world" : "world"
+		},
+		{
+			"amount" : 77,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 101,
+				"y" : 70,
+				"z" : 34
+			},
+			"seller" : "Remixster",
+			"time" : "2018/12/23",
+			"volume" : 529.38,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 101,
+				"y" : 70,
+				"z" : 34
+			},
+			"seller" : "Remixster",
+			"time" : "2018/12/23",
+			"volume" : 34.380000000000003,
+			"world" : "world"
+		},
+		{
+			"amount" : 74,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 101,
+				"y" : 70,
+				"z" : 34
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/04/01",
+			"volume" : 508.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 99,
+				"y" : 70,
+				"z" : 45
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/05/04",
+			"volume" : 440,
+			"world" : "world"
+		},
+		{
+			"amount" : 77,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 99,
+				"y" : 70,
+				"z" : 45
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/05/12",
+			"volume" : 529.38,
+			"world" : "world"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 99,
+				"y" : 70,
+				"z" : 45
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/05/17",
+			"volume" : 96.25,
+			"world" : "world"
+		},
+		{
+			"amount" : 1783,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 260,
+				"y" : 88,
+				"z" : 166
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/06/27",
+			"volume" : 16715.629999999997,
+			"world" : "world"
+		},
+		{
+			"amount" : 40,
+			"buyer" : "TheNormalToast",
+			"location" : 
+			{
+				"x" : 99,
+				"y" : 70,
+				"z" : 45
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/08/19",
+			"volume" : 275,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 1110,
+				"y" : 68,
+				"z" : -445
+			},
+			"seller" : "NullCase",
+			"time" : "2019/12/12",
+			"volume" : 64,
+			"world" : "world"
+		}
+	]
+}

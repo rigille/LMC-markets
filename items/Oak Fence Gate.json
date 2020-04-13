@@ -1,0 +1,34 @@
+{
+	"item name" : "Oak Fence Gate",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -75
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 102,
+			"world" : "world"
+		},
+		{
+			"amount" : 37,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -75
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"volume" : 1258,
+			"world" : "world"
+		}
+	]
+}

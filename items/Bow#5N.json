@@ -1,0 +1,76 @@
+{
+	"item name" : "Bow#5N",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Phantom_Ark",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 13
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/16",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 13
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/17",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 13
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/20",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ArcherV0",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 13
+			},
+			"seller" : "Remixster",
+			"time" : "2018/12/02",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ThomasDaFarmer",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 13
+			},
+			"seller" : "Remixster",
+			"time" : "2018/12/24",
+			"volume" : 100,
+			"world" : "world"
+		}
+	]
+}

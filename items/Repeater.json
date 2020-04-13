@@ -1,0 +1,48 @@
+{
+	"item name" : "Repeater",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 265,
+				"y" : 79,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/03/26",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 400,
+				"y" : 79,
+				"z" : 136
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/03/07",
+			"volume" : 600,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "hyperdramallama",
+			"location" : 
+			{
+				"x" : 400,
+				"y" : 79,
+				"z" : 136
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/03/16",
+			"volume" : 12800,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,734 @@
+{
+	"item name" : "Red Wool",
+	"transactions" : 
+	[
+		{
+			"amount" : 64,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/09/04",
+			"volume" : 440,
+			"world" : "world"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "MyNameIsTree",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/09/05",
+			"volume" : 165,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "DjungelJarl",
+			"location" : 
+			{
+				"x" : -54,
+				"y" : 65,
+				"z" : 33
+			},
+			"seller" : "WoopidyDoopidy",
+			"time" : "2018/09/14",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Remixster",
+			"location" : 
+			{
+				"x" : -54,
+				"y" : 65,
+				"z" : 33
+			},
+			"seller" : "WoopidyDoopidy",
+			"time" : "2018/09/16",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/09/21",
+			"volume" : 165,
+			"world" : "world"
+		},
+		{
+			"amount" : 77,
+			"buyer" : "Troll_kin",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/09/21",
+			"volume" : 529.38,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "Troll_kin",
+			"location" : 
+			{
+				"x" : -54,
+				"y" : 65,
+				"z" : 33
+			},
+			"seller" : "WoopidyDoopidy",
+			"time" : "2018/09/21",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Jesper1972",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/09/30",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/10/01",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/10/04",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 109,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/01",
+			"volume" : 749.38,
+			"world" : "world"
+		},
+		{
+			"amount" : 55,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/03",
+			"volume" : 378.13,
+			"world" : "world"
+		},
+		{
+			"amount" : 30,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/05",
+			"volume" : 206.25,
+			"world" : "world"
+		},
+		{
+			"amount" : 50,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/10",
+			"volume" : 343.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2018/11/23",
+			"volume" : 440,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "monkeyboy448",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2019/01/29",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2019/01/30",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2019/01/31",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2019/02/21",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 109,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2019/02/21",
+			"volume" : 749.38,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remixster",
+			"time" : "2019/03/02",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "AspenGamgee",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/03/18",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 96,
+				"y" : 70,
+				"z" : 41
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/04/02",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 40,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 323,
+				"y" : 80,
+				"z" : 25
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/04/10",
+			"volume" : 160,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/04/17",
+			"volume" : 440,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 323,
+				"y" : 80,
+				"z" : 25
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/04/17",
+			"volume" : 256,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/04/17",
+			"volume" : 440,
+			"world" : "world"
+		},
+		{
+			"amount" : 69,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/04/18",
+			"volume" : 474.38,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/04/27",
+			"volume" : 440,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : -340,
+				"y" : 67,
+				"z" : -453
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/27",
+			"volume" : 1280,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 0,
+				"y" : 75,
+				"z" : 11
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/04/27",
+			"volume" : 3000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 323,
+				"y" : 80,
+				"z" : 25
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/05/29",
+			"volume" : 256,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 323,
+				"y" : 80,
+				"z" : 25
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/05/31",
+			"volume" : 512,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 323,
+				"y" : 80,
+				"z" : 25
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/06/07",
+			"volume" : 1280,
+			"world" : "world"
+		},
+		{
+			"amount" : 147,
+			"buyer" : "NiCe69",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/06/11",
+			"volume" : 1010.63,
+			"world" : "world"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/07/30",
+			"volume" : 165,
+			"world" : "world"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "basher11",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/08/05",
+			"volume" : 165,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/08/13",
+			"volume" : 1320,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "TheNormalToast",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/08/19",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/08/20",
+			"volume" : 110,
+			"world" : "world"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/08/21",
+			"volume" : 165,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "AC391694",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/08/30",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "AC391694",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/09/03",
+			"volume" : 110,
+			"world" : "world"
+		},
+		{
+			"amount" : 48,
+			"buyer" : "vemppasalo",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/09/15",
+			"volume" : 330,
+			"world" : "world"
+		},
+		{
+			"amount" : 56,
+			"buyer" : "vemppasalo",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/09/25",
+			"volume" : 385,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 1104,
+				"y" : 68,
+				"z" : -457
+			},
+			"seller" : "NullCase",
+			"time" : "2019/12/12",
+			"volume" : 64,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/08",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "AmineWeboo",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/12",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "_mrpuggy_",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/30",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "_mrpuggy_",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/31",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/03/01",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/03/20",
+			"volume" : 60,
+			"world" : "world"
+		}
+	]
+}

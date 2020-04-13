@@ -1,0 +1,34 @@
+{
+	"item name" : "Iron Leggings#14",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 30,
+				"y" : 71,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/28",
+			"volume" : 9800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 30,
+				"y" : 71,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/01",
+			"volume" : 9800,
+			"world" : "world"
+		}
+	]
+}

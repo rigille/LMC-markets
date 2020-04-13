@@ -1,0 +1,398 @@
+{
+	"item name" : "Enchanted Book#3b",
+	"transactions" : 
+	[
+		{
+			"amount" : 4,
+			"buyer" : "Jesper1972",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 64,
+				"z" : 13
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/04",
+			"volume" : 36000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 64,
+				"z" : 13
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/09",
+			"volume" : 8000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 64,
+				"z" : 13
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/17",
+			"volume" : 8000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 64,
+				"z" : 13
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/20",
+			"volume" : 8000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Phantom_Ark",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/23",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/25",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "TheEzieDawg",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/28",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/28",
+			"volume" : 7800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ArcherV0",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/06",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "ArcherV0",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/07",
+			"volume" : 5200,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "ArcherV0",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/07",
+			"volume" : 10400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 64,
+				"z" : 13
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/12/10",
+			"volume" : 8000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/26",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/27",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/27",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/06",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "BelegStrongbow",
+			"location" : 
+			{
+				"x" : 3,
+				"y" : 57,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/15",
+			"volume" : 5000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 3,
+				"y" : 57,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/21",
+			"volume" : 5000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 3,
+				"y" : 57,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/03/06",
+			"volume" : 5000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Talrinion",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/10",
+			"volume" : 4800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/15",
+			"volume" : 2400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/19",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/19",
+			"volume" : 2400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/25",
+			"volume" : 2400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/25",
+			"volume" : 2400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/28",
+			"volume" : 2400,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 3,
+				"y" : 57,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/03/30",
+			"volume" : 7500,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/30",
+			"volume" : 4800,
+			"world" : "world"
+		}
+	]
+}

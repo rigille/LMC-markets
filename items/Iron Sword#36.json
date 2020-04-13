@@ -1,0 +1,34 @@
+{
+	"item name" : "Iron Sword#36",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Impression28",
+			"location" : 
+			{
+				"x" : -1970,
+				"y" : 67,
+				"z" : 1529
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/02",
+			"volume" : 15000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -1970,
+				"y" : 67,
+				"z" : 1529
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/04",
+			"volume" : 10000,
+			"world" : "world"
+		}
+	]
+}

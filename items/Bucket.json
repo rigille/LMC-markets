@@ -1,0 +1,216 @@
+{
+	"item name" : "Bucket",
+	"transactions" : 
+	[
+		{
+			"amount" : 9,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 73,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/22",
+			"volume" : 360,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 73,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/22",
+			"volume" : 40,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 73,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/03",
+			"volume" : 160,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 73,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/05",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Mowilag",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 73,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/24",
+			"volume" : 300,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 73,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/02",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Captain_Handsome",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/12",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "yoikosugi",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/01",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/02",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/06",
+			"volume" : 550,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/16",
+			"volume" : 500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "QwubHanoj",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/04",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 285,
+				"y" : 80,
+				"z" : 90
+			},
+			"seller" : "Lego_UOE",
+			"time" : "2019/08/12",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 285,
+				"y" : 80,
+				"z" : 88
+			},
+			"seller" : "Lego_UOE",
+			"time" : "2019/08/13",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AC391694",
+			"location" : 
+			{
+				"x" : 311,
+				"y" : 71,
+				"z" : 19
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/08/17",
+			"volume" : 50,
+			"world" : "world"
+		}
+	]
+}

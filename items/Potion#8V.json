@@ -1,0 +1,48 @@
+{
+	"item name" : "Potion#8V",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 251,
+				"y" : 79,
+				"z" : 166
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/03/14",
+			"volume" : 2250,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 251,
+				"y" : 79,
+				"z" : 166
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/03/23",
+			"volume" : 2250,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 251,
+				"y" : 79,
+				"z" : 166
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/03/27",
+			"volume" : 1500,
+			"world" : "world"
+		}
+	]
+}

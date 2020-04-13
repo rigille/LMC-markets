@@ -1,0 +1,90 @@
+{
+	"item name" : "Enchanted Book#27",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 45,
+				"y" : 73,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/08",
+			"volume" : 8000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 45,
+				"y" : 73,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/14",
+			"volume" : 16000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 88,
+				"z" : 21
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/15",
+			"volume" : 3000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "_mrpuggy_",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 88,
+				"z" : 21
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/29",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Menace___",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 88,
+				"z" : 21
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/26",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 88,
+				"z" : 21
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/03/09",
+			"volume" : 1000,
+			"world" : "world"
+		}
+	]
+}

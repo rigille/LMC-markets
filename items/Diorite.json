@@ -1,0 +1,230 @@
+{
+	"item name" : "Diorite",
+	"transactions" : 
+	[
+		{
+			"amount" : 128,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 44,
+				"y" : 70,
+				"z" : 13
+			},
+			"seller" : "Combat_Biscuit",
+			"time" : "2018/09/02",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Remixster",
+			"location" : 
+			{
+				"x" : -44,
+				"y" : 66,
+				"z" : 40
+			},
+			"seller" : "Combat_Biscuit",
+			"time" : "2018/09/19",
+			"volume" : 75,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Heronproject",
+			"location" : 
+			{
+				"x" : -44,
+				"y" : 66,
+				"z" : 40
+			},
+			"seller" : "Combat_Biscuit",
+			"time" : "2018/11/27",
+			"volume" : 75,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -44,
+				"y" : 66,
+				"z" : 40
+			},
+			"seller" : "Combat_Biscuit",
+			"time" : "2019/03/13",
+			"volume" : 75,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 255,
+				"y" : 80,
+				"z" : 160
+			},
+			"seller" : "ezrone",
+			"time" : "2019/03/24",
+			"volume" : 960,
+			"world" : "world"
+		},
+		{
+			"amount" : 53,
+			"buyer" : "TheOnlyOne69",
+			"location" : 
+			{
+				"x" : -1853,
+				"y" : 14,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/28",
+			"volume" : 159,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : -1853,
+				"y" : 14,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/01",
+			"volume" : 192,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/07",
+			"volume" : 960,
+			"world" : "world"
+		},
+		{
+			"amount" : 768,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 255,
+				"y" : 80,
+				"z" : 160
+			},
+			"seller" : "ezrone",
+			"time" : "2019/06/06",
+			"volume" : 11520,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "NiCe69",
+			"location" : 
+			{
+				"x" : -44,
+				"y" : 66,
+				"z" : 40
+			},
+			"seller" : "Combat_Biscuit",
+			"time" : "2019/06/09",
+			"volume" : 75,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : -44,
+				"y" : 66,
+				"z" : 40
+			},
+			"seller" : "Combat_Biscuit",
+			"time" : "2019/07/08",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : -44,
+				"y" : 66,
+				"z" : 40
+			},
+			"seller" : "Combat_Biscuit",
+			"time" : "2019/07/09",
+			"volume" : 75,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Impression28",
+			"location" : 
+			{
+				"x" : -1853,
+				"y" : 15,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2019/10/05",
+			"volume" : 2,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "SirKrojje",
+			"location" : 
+			{
+				"x" : -96,
+				"y" : 61,
+				"z" : 13
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/02/17",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : -1853,
+				"y" : 6,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2020/03/28",
+			"volume" : 11,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : -1853,
+				"y" : 15,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2020/03/28",
+			"volume" : 2,
+			"world" : "world"
+		}
+	]
+}

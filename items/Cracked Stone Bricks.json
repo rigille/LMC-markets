@@ -1,0 +1,62 @@
+{
+	"item name" : "Cracked Stone Bricks",
+	"transactions" : 
+	[
+		{
+			"amount" : 192,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 96,
+				"z" : -9
+			},
+			"seller" : "Baskerboss",
+			"time" : "2018/10/14",
+			"volume" : 600,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Tomter",
+			"location" : 
+			{
+				"x" : -374,
+				"y" : 73,
+				"z" : -449
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/01/13",
+			"volume" : 2560,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Tomter",
+			"location" : 
+			{
+				"x" : -374,
+				"y" : 74,
+				"z" : -449
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/01/13",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 448,
+			"buyer" : "Tomter",
+			"location" : 
+			{
+				"x" : -374,
+				"y" : 73,
+				"z" : -449
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/01/13",
+			"volume" : 17920,
+			"world" : "world"
+		}
+	]
+}

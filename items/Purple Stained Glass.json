@@ -1,0 +1,62 @@
+{
+	"item name" : "Purple Stained Glass",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 251,
+				"y" : 84,
+				"z" : 141
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/07",
+			"volume" : 90,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 251,
+				"y" : 84,
+				"z" : 141
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/30",
+			"volume" : 480,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 251,
+				"y" : 84,
+				"z" : 141
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/01",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 251,
+				"y" : 84,
+				"z" : 141
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/02",
+			"volume" : 90,
+			"world" : "world"
+		}
+	]
+}

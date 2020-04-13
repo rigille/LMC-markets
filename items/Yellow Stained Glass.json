@@ -1,0 +1,76 @@
+{
+	"item name" : "Yellow Stained Glass",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 259,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/07",
+			"volume" : 90,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 259,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/16",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 259,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/29",
+			"volume" : 5760,
+			"world" : "world"
+		},
+		{
+			"amount" : 13,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 259,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/05/10",
+			"volume" : 390,
+			"world" : "world"
+		},
+		{
+			"amount" : 60,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 259,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/05/11",
+			"volume" : 1800,
+			"world" : "world"
+		}
+	]
+}

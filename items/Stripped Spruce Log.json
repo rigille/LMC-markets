@@ -1,0 +1,48 @@
+{
+	"item name" : "Stripped Spruce Log",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/23",
+			"volume" : 183,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/28",
+			"volume" : 23424,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 183,
+			"world" : "world"
+		}
+	]
+}

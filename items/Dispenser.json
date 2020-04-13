@@ -1,0 +1,272 @@
+{
+	"item name" : "Dispenser",
+	"transactions" : 
+	[
+		{
+			"amount" : 4,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remixster",
+			"time" : "2018/12/07",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 31,
+				"y" : 70,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/11",
+			"volume" : 600,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remixster",
+			"time" : "2019/01/05",
+			"volume" : 9600,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remixster",
+			"time" : "2019/01/10",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remixster",
+			"time" : "2019/01/11",
+			"volume" : 450,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remixster",
+			"time" : "2019/02/02",
+			"volume" : 2400,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/02",
+			"volume" : 158,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/07",
+			"volume" : 316,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/03/16",
+			"volume" : 300,
+			"world" : "world"
+		},
+		{
+			"amount" : 438,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/04/07",
+			"volume" : 16425,
+			"world" : "world"
+		},
+		{
+			"amount" : 46,
+			"buyer" : "QwubHanoj",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/04/14",
+			"volume" : 1725,
+			"world" : "world"
+		},
+		{
+			"amount" : 67,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 5293,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/05/29",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/06/08",
+			"volume" : 600,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "jackcam6",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/29",
+			"volume" : 316,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/03",
+			"volume" : 158,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/22",
+			"volume" : 79,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/10/10",
+			"volume" : 300,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : 398,
+				"y" : 79,
+				"z" : 119
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/03/03",
+			"volume" : 1750,
+			"world" : "world"
+		}
+	]
+}

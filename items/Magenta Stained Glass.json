@@ -1,0 +1,34 @@
+{
+	"item name" : "Magenta Stained Glass",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 253,
+				"y" : 84,
+				"z" : 141
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/07",
+			"volume" : 90,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 253,
+				"y" : 84,
+				"z" : 141
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/30",
+			"volume" : 480,
+			"world" : "world"
+		}
+	]
+}

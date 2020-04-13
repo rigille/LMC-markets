@@ -1,0 +1,76 @@
+{
+	"item name" : "Enchanted Book#6k",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 63,
+				"z" : -47
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/29",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 58,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/12/04",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 63,
+				"z" : -47
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/02",
+			"volume" : 3000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 78,
+				"z" : 9
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/05",
+			"volume" : 1400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 78,
+				"z" : 9
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2019/03/22",
+			"volume" : 1400,
+			"world" : "world"
+		}
+	]
+}

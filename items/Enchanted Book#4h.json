@@ -1,0 +1,90 @@
+{
+	"item name" : "Enchanted Book#4h",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Phantom_Ark",
+			"location" : 
+			{
+				"x" : 30,
+				"y" : 71,
+				"z" : -23
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/23",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Magranon",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 64,
+				"z" : -47
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/30",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -20
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/02",
+			"volume" : 18200,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 64,
+				"z" : -47
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/05",
+			"volume" : 7800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "JacobSterling",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -20
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/05",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 43,
+				"y" : 73,
+				"z" : -20
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/06",
+			"volume" : 5200,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"item name" : "Loom",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -98,
+				"y" : 60,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/02/26",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : -98,
+				"y" : 60,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/12",
+			"volume" : 20,
+			"world" : "world"
+		}
+	]
+}

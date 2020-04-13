@@ -1,0 +1,104 @@
+{
+	"item name" : "Tropical Fish",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 162,
+				"y" : 63,
+				"z" : -95
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/03",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 162,
+				"y" : 63,
+				"z" : -95
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/06",
+			"volume" : 120,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 71,
+				"z" : -24
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/16",
+			"volume" : 180,
+			"world" : "world"
+		},
+		{
+			"amount" : 80,
+			"buyer" : "Rille3000",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 71,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/12",
+			"volume" : 8,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 71,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/14",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "StanleyC",
+			"location" : 
+			{
+				"x" : 93,
+				"y" : 72,
+				"z" : 22
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/12/06",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : 93,
+				"y" : 72,
+				"z" : 22
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/22",
+			"volume" : 60,
+			"world" : "world"
+		}
+	]
+}

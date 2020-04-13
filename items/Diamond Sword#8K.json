@@ -1,0 +1,34 @@
+{
+	"item name" : "Diamond Sword#8K",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : -310,
+				"y" : 72,
+				"z" : -425
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/28",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : -310,
+				"y" : 72,
+				"z" : -425
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/11/30",
+			"volume" : 2000,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"item name" : "Totem Of Undying",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 264,
+				"y" : 79,
+				"z" : 159
+			},
+			"seller" : "ezrone",
+			"time" : "2019/08/12",
+			"volume" : 100000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 122,
+				"y" : 67,
+				"z" : 29
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2019/12/02",
+			"volume" : 225000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 264,
+				"y" : 79,
+				"z" : 159
+			},
+			"seller" : "ezrone",
+			"time" : "2020/03/29",
+			"volume" : 200000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 70,
+				"z" : -13
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2020/03/29",
+			"volume" : 225000,
+			"world" : "world"
+		}
+	]
+}

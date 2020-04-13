@@ -1,0 +1,48 @@
+{
+	"item name" : "Chorus Flower",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Lego_UOE",
+			"location" : 
+			{
+				"x" : 53,
+				"y" : 60,
+				"z" : -9
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/12",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ZeroGDucks",
+			"location" : 
+			{
+				"x" : 53,
+				"y" : 60,
+				"z" : -9
+			},
+			"seller" : "K9us",
+			"time" : "2019/11/10",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "ZeroGDucks",
+			"location" : 
+			{
+				"x" : 53,
+				"y" : 60,
+				"z" : -9
+			},
+			"seller" : "K9us",
+			"time" : "2019/11/12",
+			"volume" : 150,
+			"world" : "world"
+		}
+	]
+}

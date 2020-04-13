@@ -1,0 +1,48 @@
+{
+	"item name" : "Dark Oak Stairs",
+	"transactions" : 
+	[
+		{
+			"amount" : 209,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/09",
+			"volume" : 5852,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 84,
+			"world" : "world"
+		},
+		{
+			"amount" : 326,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/05",
+			"volume" : 9128,
+			"world" : "world"
+		}
+	]
+}

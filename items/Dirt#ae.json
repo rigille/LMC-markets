@@ -1,0 +1,48 @@
+{
+	"item name" : "Dirt#ae",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 388,
+				"y" : 79,
+				"z" : 28
+			},
+			"seller" : "Srood",
+			"time" : "2019/08/06",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AC391694",
+			"location" : 
+			{
+				"x" : 388,
+				"y" : 79,
+				"z" : 28
+			},
+			"seller" : "Srood",
+			"time" : "2019/08/18",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 388,
+				"y" : 79,
+				"z" : 28
+			},
+			"seller" : "Srood",
+			"time" : "2019/08/19",
+			"volume" : 0,
+			"world" : "world"
+		}
+	]
+}

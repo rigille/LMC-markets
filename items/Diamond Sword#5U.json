@@ -1,0 +1,34 @@
+{
+	"item name" : "Diamond Sword#5U",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "TechnoWiking",
+			"location" : 
+			{
+				"x" : 29,
+				"y" : 83,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/25",
+			"volume" : 150000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Heronproject",
+			"location" : 
+			{
+				"x" : 29,
+				"y" : 83,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/27",
+			"volume" : 150000,
+			"world" : "world"
+		}
+	]
+}

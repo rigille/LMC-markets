@@ -1,0 +1,34 @@
+{
+	"item name" : "Diamond Sword#1v",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Reven546",
+			"location" : 
+			{
+				"x" : 29,
+				"y" : 83,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/20",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Rehns",
+			"location" : 
+			{
+				"x" : 29,
+				"y" : 83,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/28",
+			"volume" : 250000,
+			"world" : "world"
+		}
+	]
+}

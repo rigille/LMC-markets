@@ -1,0 +1,62 @@
+{
+	"item name" : "Grindstone",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -97,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/01/13",
+			"volume" : 40,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : -97,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/02",
+			"volume" : 40,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -97,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/07",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : -97,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/16",
+			"volume" : 20,
+			"world" : "world"
+		}
+	]
+}

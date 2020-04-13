@@ -1,0 +1,76 @@
+{
+	"item name" : "Light Gray Glazed Terracotta",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "MajaAstrid",
+			"location" : 
+			{
+				"x" : 57,
+				"y" : 71,
+				"z" : 11
+			},
+			"seller" : "Remixster",
+			"time" : "2018/09/29",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 115,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/01/30",
+			"volume" : 180,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 115,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/01/31",
+			"volume" : 240,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 115,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/02/12",
+			"volume" : 3840,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 115,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/05/03",
+			"volume" : 180,
+			"world" : "world"
+		}
+	]
+}

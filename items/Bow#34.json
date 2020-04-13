@@ -1,0 +1,62 @@
+{
+	"item name" : "Bow#34",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Impression28",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/07",
+			"volume" : 30000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Impression28",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/08",
+			"volume" : 30000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daggvad",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/08",
+			"volume" : 30000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/18",
+			"volume" : 25000,
+			"world" : "world"
+		}
+	]
+}

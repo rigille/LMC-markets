@@ -1,0 +1,118 @@
+{
+	"item name" : "Enchanted Book#1D",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 47,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/14",
+			"volume" : 19500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 57,
+				"y" : 88,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/10/30",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 57,
+				"y" : 88,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/11/03",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "jtl0350",
+			"location" : 
+			{
+				"x" : 3,
+				"y" : 59,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/06",
+			"volume" : 1299,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "xX69bigchungusXx",
+			"location" : 
+			{
+				"x" : 3,
+				"y" : 59,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/25",
+			"volume" : 1299,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "peaceful_sl",
+			"location" : 
+			{
+				"x" : 3,
+				"y" : 59,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/27",
+			"volume" : 1299,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 57,
+				"y" : 88,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/27",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "KnobbyWaffle",
+			"location" : 
+			{
+				"x" : 3,
+				"y" : 59,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/27",
+			"volume" : 1299,
+			"world" : "world"
+		}
+	]
+}

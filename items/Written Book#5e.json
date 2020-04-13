@@ -1,0 +1,76 @@
+{
+	"item name" : "Written Book#5e",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 70,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/04",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 70,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/05",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "3thanat0r",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 70,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/09",
+			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 70,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/09",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 70,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/21",
+			"volume" : 4000,
+			"world" : "world"
+		}
+	]
+}

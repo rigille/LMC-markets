@@ -1,0 +1,76 @@
+{
+	"item name" : "Spruce Leaves",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/17",
+			"volume" : 60,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Jesper1972",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/04",
+			"volume" : 60,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 18,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Mathemagician4",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/12",
+			"volume" : 1152,
+			"world" : "world"
+		},
+		{
+			"amount" : 65,
+			"buyer" : "Dredhounds",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/14",
+			"volume" : 390,
+			"world" : "world"
+		}
+	]
+}

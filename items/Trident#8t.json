@@ -1,0 +1,104 @@
+{
+	"item name" : "Trident#8t",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/02/08",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/02/18",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "BelegStrongbow",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/02/21",
+			"volume" : 750000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/02/22",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/02/26",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "FatherTime__",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/02/27",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/03/02",
+			"volume" : 250000,
+			"world" : "world"
+		}
+	]
+}

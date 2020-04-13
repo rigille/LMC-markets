@@ -1,0 +1,76 @@
+{
+	"item name" : "Enchanted Book#6g",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "ArcherV0",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/07",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/23",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ZeroGDucks",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/21",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/21",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Talrinion",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/26",
+			"volume" : 2600,
+			"world" : "world"
+		}
+	]
+}

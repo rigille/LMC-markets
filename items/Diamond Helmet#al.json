@@ -1,0 +1,34 @@
+{
+	"item name" : "Diamond Helmet#al",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 264,
+				"y" : 79,
+				"z" : 156
+			},
+			"seller" : "ezrone",
+			"time" : "2019/08/21",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : 264,
+				"y" : 79,
+				"z" : 156
+			},
+			"seller" : "ezrone",
+			"time" : "2019/09/14",
+			"volume" : 20000,
+			"world" : "world"
+		}
+	]
+}

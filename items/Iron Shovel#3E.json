@@ -1,0 +1,48 @@
+{
+	"item name" : "Iron Shovel#3E",
+	"transactions" : 
+	[
+		{
+			"amount" : 6,
+			"buyer" : "HandyEric3",
+			"location" : 
+			{
+				"x" : 2020,
+				"y" : 50,
+				"z" : 277
+			},
+			"seller" : "pudzo",
+			"time" : "2018/10/27",
+			"volume" : 6000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "HandyEric3",
+			"location" : 
+			{
+				"x" : 2020,
+				"y" : 50,
+				"z" : 277
+			},
+			"seller" : "pudzo",
+			"time" : "2018/11/02",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 2020,
+				"y" : 50,
+				"z" : 277
+			},
+			"seller" : "pudzo",
+			"time" : "2018/11/11",
+			"volume" : 6000,
+			"world" : "world"
+		}
+	]
+}

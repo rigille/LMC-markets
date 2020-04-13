@@ -1,0 +1,48 @@
+{
+	"item name" : "Diamond Chestplate#8N",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : -310,
+				"y" : 72,
+				"z" : -423
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/28",
+			"volume" : 2500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "jtl0350",
+			"location" : 
+			{
+				"x" : -312,
+				"y" : 74,
+				"z" : -428
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/01/06",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "jtl0350",
+			"location" : 
+			{
+				"x" : -312,
+				"y" : 74,
+				"z" : -428
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/01/08",
+			"volume" : 4000,
+			"world" : "world"
+		}
+	]
+}

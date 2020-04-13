@@ -1,0 +1,62 @@
+{
+	"item name" : "Smoker",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "SirKrojje",
+			"location" : 
+			{
+				"x" : -99,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/02/15",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : -99,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/16",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "ZeroGDucks",
+			"location" : 
+			{
+				"x" : -99,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/24",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "KnobbyWaffle",
+			"location" : 
+			{
+				"x" : -99,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/25",
+			"volume" : 100,
+			"world" : "world"
+		}
+	]
+}

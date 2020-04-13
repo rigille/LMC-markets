@@ -1,0 +1,76 @@
+{
+	"item name" : "Beef",
+	"transactions" : 
+	[
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : -345,
+				"y" : 70,
+				"z" : 72
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/10/09",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 685,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -345,
+				"y" : 70,
+				"z" : 72
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/10/09",
+			"volume" : 1070.3099999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -346,
+				"y" : 70,
+				"z" : 80
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/11/12",
+			"volume" : 93.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 81,
+			"buyer" : "TheEzieDawg",
+			"location" : 
+			{
+				"x" : 20,
+				"y" : 70,
+				"z" : -48
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/28",
+			"volume" : 278.44,
+			"world" : "world"
+		},
+		{
+			"amount" : 1147,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 91,
+				"z" : -23
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/02/17",
+			"volume" : 7168.75,
+			"world" : "world"
+		}
+	]
+}

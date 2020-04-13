@@ -1,0 +1,90 @@
+{
+	"item name" : "Granite",
+	"transactions" : 
+	[
+		{
+			"amount" : 241,
+			"buyer" : "Heronproject",
+			"location" : 
+			{
+				"x" : -44,
+				"y" : 67,
+				"z" : 41
+			},
+			"seller" : "Combat_Biscuit",
+			"time" : "2018/11/27",
+			"volume" : 282.42000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : -1849,
+				"y" : 14,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/01",
+			"volume" : 192,
+			"world" : "world"
+		},
+		{
+			"amount" : 138,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : -44,
+				"y" : 67,
+				"z" : 41
+			},
+			"seller" : "Combat_Biscuit",
+			"time" : "2019/07/08",
+			"volume" : 161.72,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -96,
+				"y" : 60,
+				"z" : 11
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/07",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : -96,
+				"y" : 60,
+				"z" : 11
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/12",
+			"volume" : 300,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "KnobbyWaffle",
+			"location" : 
+			{
+				"x" : -96,
+				"y" : 60,
+				"z" : 11
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/26",
+			"volume" : 500,
+			"world" : "world"
+		}
+	]
+}

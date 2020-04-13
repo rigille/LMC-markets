@@ -1,0 +1,90 @@
+{
+	"item name" : "Black Glazed Terracotta",
+	"transactions" : 
+	[
+		{
+			"amount" : 4,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2018/12/08",
+			"volume" : 600,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/01/31",
+			"volume" : 480,
+			"world" : "world"
+		},
+		{
+			"amount" : 75,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/02/01",
+			"volume" : 9000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/05/03",
+			"volume" : 360,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/08/20",
+			"volume" : 7680,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -60
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/08/21",
+			"volume" : 7680,
+			"world" : "world"
+		}
+	]
+}

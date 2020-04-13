@@ -1,0 +1,90 @@
+{
+	"item name" : "Flint",
+	"transactions" : 
+	[
+		{
+			"amount" : 46,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/01",
+			"volume" : 1150,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/24",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Phantom_Ark",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/16",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/19",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/28",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : 88,
+				"y" : 79,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/03/26",
+			"volume" : 250,
+			"world" : "world"
+		}
+	]
+}

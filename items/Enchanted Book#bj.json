@@ -1,0 +1,20 @@
+{
+	"item name" : "Enchanted Book#bj",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "ZeroGDucks",
+			"location" : 
+			{
+				"x" : 3,
+				"y" : 57,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/16",
+			"volume" : 1200,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"item name" : "Diamond Sword#aI",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Mowilag",
+			"location" : 
+			{
+				"x" : -9,
+				"y" : 65,
+				"z" : 18
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/05",
+			"volume" : 19999,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Threethan",
+			"location" : 
+			{
+				"x" : -9,
+				"y" : 65,
+				"z" : 18
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/10",
+			"volume" : 19999,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -9,
+				"y" : 65,
+				"z" : 18
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/09",
+			"volume" : 19999,
+			"world" : "world"
+		}
+	]
+}

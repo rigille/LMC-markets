@@ -1,0 +1,20 @@
+{
+	"item name" : "Green Stained Glass",
+	"transactions" : 
+	[
+		{
+			"amount" : 12,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 255,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/03/03",
+			"volume" : 360,
+			"world" : "world"
+		}
+	]
+}

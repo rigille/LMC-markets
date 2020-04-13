@@ -1,0 +1,34 @@
+{
+	"item name" : "Diamond Leggings#9Y",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 256,
+				"y" : 79,
+				"z" : 61
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/07/30",
+			"volume" : 80000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 256,
+				"y" : 79,
+				"z" : 61
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/08/21",
+			"volume" : 80000,
+			"world" : "world"
+		}
+	]
+}

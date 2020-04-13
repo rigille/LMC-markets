@@ -1,0 +1,62 @@
+{
+	"item name" : "Cornflower",
+	"transactions" : 
+	[
+		{
+			"amount" : 128,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 0,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/07",
+			"volume" : 1280,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 0,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/27",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 0,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/05",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "ZeroGDucks",
+			"location" : 
+			{
+				"x" : 0,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/24",
+			"volume" : 100,
+			"world" : "world"
+		}
+	]
+}

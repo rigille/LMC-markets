@@ -1,0 +1,34 @@
+{
+	"item name" : "Spruce Door",
+	"transactions" : 
+	[
+		{
+			"amount" : 6,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -78
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/29",
+			"volume" : 144,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -78
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 72,
+			"world" : "world"
+		}
+	]
+}

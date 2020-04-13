@@ -1,0 +1,104 @@
+{
+	"item name" : "Potion#t",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "HandyEric3",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 70,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/08",
+			"volume" : 2,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 70,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/13",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 70,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/29",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 25,
+			"buyer" : "PizzaJon",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 70,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/21",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -178,
+				"y" : 64,
+				"z" : 330
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2019/05/31",
+			"volume" : 21,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 93,
+				"y" : 72,
+				"z" : 15
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/15",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 89,
+				"y" : 79,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/16",
+			"volume" : 5,
+			"world" : "world"
+		}
+	]
+}

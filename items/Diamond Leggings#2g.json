@@ -1,0 +1,48 @@
+{
+	"item name" : "Diamond Leggings#2g",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 82,
+				"z" : -14
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/01",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 82,
+				"z" : -14
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/04",
+			"volume" : 260000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 82,
+				"z" : -14
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/06",
+			"volume" : 270000,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"item name" : "Armor Stand",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 283,
+				"y" : 80,
+				"z" : 196
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2019/07/21",
+			"volume" : 27,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 283,
+				"y" : 80,
+				"z" : 196
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2019/09/18",
+			"volume" : 40.5,
+			"world" : "world"
+		}
+	]
+}

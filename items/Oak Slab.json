@@ -1,0 +1,90 @@
+{
+	"item name" : "Oak Slab",
+	"transactions" : 
+	[
+		{
+			"amount" : 128,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/19",
+			"volume" : 1280,
+			"world" : "world"
+		},
+		{
+			"amount" : 310,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/24",
+			"volume" : 3100,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Baskerboss",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/07",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 18,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"volume" : 768,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/18",
+			"volume" : 6,
+			"world" : "world"
+		}
+	]
+}

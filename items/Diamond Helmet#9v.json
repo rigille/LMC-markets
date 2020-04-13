@@ -1,0 +1,34 @@
+{
+	"item name" : "Diamond Helmet#9v",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 432,
+				"y" : 88,
+				"z" : 50
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/04/20",
+			"volume" : 55000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 427,
+				"y" : 88,
+				"z" : 39
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/04/28",
+			"volume" : 58000,
+			"world" : "world"
+		}
+	]
+}

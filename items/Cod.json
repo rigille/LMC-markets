@@ -1,0 +1,230 @@
+{
+	"item name" : "Cod",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 162,
+				"y" : 63,
+				"z" : -97
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/06",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "BredeBertil",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 71,
+				"z" : -27
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/08",
+			"volume" : 4,
+			"world" : "world"
+		},
+		{
+			"amount" : 47,
+			"buyer" : "BredeBertil",
+			"location" : 
+			{
+				"x" : 162,
+				"y" : 63,
+				"z" : -97
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/08",
+			"volume" : 47,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vrael1",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 71,
+				"z" : -27
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/10",
+			"volume" : 2,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 162,
+				"y" : 63,
+				"z" : -97
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/11",
+			"volume" : 5,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "DjungelJarl",
+			"location" : 
+			{
+				"x" : 162,
+				"y" : 63,
+				"z" : -97
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/14",
+			"volume" : 64,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "AnarchoMax",
+			"location" : 
+			{
+				"x" : 162,
+				"y" : 63,
+				"z" : -97
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/15",
+			"volume" : 2,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 71,
+				"z" : -27
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/09/21",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 71,
+				"z" : -27
+			},
+			"seller" : "fiddleswithstick",
+			"time" : "2018/11/01",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 71,
+				"z" : -27
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/03",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -2753,
+				"y" : 25,
+				"z" : 1823
+			},
+			"seller" : "frozenhammerz",
+			"time" : "2018/11/05",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : -2742,
+				"y" : 20,
+				"z" : 1831
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/07",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "japanimator",
+			"location" : 
+			{
+				"x" : -2504,
+				"y" : 23,
+				"z" : 2818
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/03",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Talrinion",
+			"location" : 
+			{
+				"x" : -2504,
+				"y" : 23,
+				"z" : 2818
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/06",
+			"volume" : 2,
+			"world" : "world"
+		},
+		{
+			"amount" : 15,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 67,
+				"y" : 77,
+				"z" : -79
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/24",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : -410,
+				"y" : 65,
+				"z" : -500
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/02/04",
+			"volume" : 190,
+			"world" : "world"
+		}
+	]
+}

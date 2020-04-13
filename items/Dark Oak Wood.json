@@ -1,0 +1,62 @@
+{
+	"item name" : "Dark Oak Wood",
+	"transactions" : 
+	[
+		{
+			"amount" : 1677,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -51
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/12/02",
+			"volume" : 48633,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/10",
+			"volume" : 1176,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 441,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/19",
+			"volume" : 735,
+			"world" : "world"
+		}
+	]
+}

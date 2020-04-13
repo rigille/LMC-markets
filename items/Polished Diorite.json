@@ -1,0 +1,118 @@
+{
+	"item name" : "Polished Diorite",
+	"transactions" : 
+	[
+		{
+			"amount" : 64,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/14",
+			"volume" : 492.80000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 4370,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/22",
+			"volume" : 6828.1200000000008,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/08",
+			"volume" : 1228.8,
+			"world" : "world"
+		},
+		{
+			"amount" : 380,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 88,
+				"z" : -13
+			},
+			"seller" : "frozenhammerz",
+			"time" : "2018/10/11",
+			"volume" : 593.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Heronproject",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/08",
+			"volume" : 32,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/01",
+			"volume" : 204.80000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 255,
+				"y" : 79,
+				"z" : 160
+			},
+			"seller" : "ezrone",
+			"time" : "2019/06/06",
+			"volume" : 75,
+			"world" : "world"
+		},
+		{
+			"amount" : 576,
+			"buyer" : "SirKrojje",
+			"location" : 
+			{
+				"x" : 283,
+				"y" : 81,
+				"z" : 201
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/02/17",
+			"volume" : 2160,
+			"world" : "world"
+		}
+	]
+}

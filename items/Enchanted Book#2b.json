@@ -1,0 +1,76 @@
+{
+	"item name" : "Enchanted Book#2b",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/18",
+			"volume" : 9000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "monkeyboy448",
+			"location" : 
+			{
+				"x" : 49,
+				"y" : 52,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/07",
+			"volume" : 500,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 49,
+				"y" : 52,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/16",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Srood",
+			"location" : 
+			{
+				"x" : 49,
+				"y" : 52,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/29",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 49,
+				"y" : 52,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/13",
+			"volume" : 6000,
+			"world" : "world"
+		}
+	]
+}

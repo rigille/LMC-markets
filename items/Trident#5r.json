@@ -1,0 +1,34 @@
+{
+	"item name" : "Trident#5r",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 45,
+				"y" : 72,
+				"z" : -7
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/15",
+			"volume" : 1000000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 45,
+				"y" : 72,
+				"z" : -8
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/30",
+			"volume" : 500000,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"item name" : "Enchanted Book#1J",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 47,
+				"y" : 73,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/02",
+			"volume" : 15000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 47,
+				"y" : 73,
+				"z" : -21
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/19",
+			"volume" : 7500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "peaceful_sl",
+			"location" : 
+			{
+				"x" : 9,
+				"y" : 59,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/27",
+			"volume" : 599,
+			"world" : "world"
+		}
+	]
+}

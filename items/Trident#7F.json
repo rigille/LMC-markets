@@ -1,0 +1,62 @@
+{
+	"item name" : "Trident#7F",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/01/11",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/01/17",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "FatherTime__",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/01/19",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 74,
+				"z" : -18
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2019/01/21",
+			"volume" : 250000,
+			"world" : "world"
+		}
+	]
+}

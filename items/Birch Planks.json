@@ -1,0 +1,230 @@
+{
+	"item name" : "Birch Planks",
+	"transactions" : 
+	[
+		{
+			"amount" : 256,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/21",
+			"volume" : 7680,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/22",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 56,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/06",
+			"volume" : 1064,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/30",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 62,
+			"buyer" : "TechnoWiking",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/15",
+			"volume" : 1550,
+			"world" : "world"
+		},
+		{
+			"amount" : 45,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -16
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/17",
+			"volume" : 1125,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Phantom_Ark",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -16
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/18",
+			"volume" : 1600,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -16
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/10",
+			"volume" : 38,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 259,
+				"y" : 79,
+				"z" : 155
+			},
+			"seller" : "Lego_UOE",
+			"time" : "2019/03/17",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 259,
+				"y" : 79,
+				"z" : 155
+			},
+			"seller" : "Lego_UOE",
+			"time" : "2019/03/23",
+			"volume" : 300,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 259,
+				"y" : 79,
+				"z" : 155
+			},
+			"seller" : "Lego_UOE",
+			"time" : "2019/03/23",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/14",
+			"volume" : 28,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 51,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/07",
+			"volume" : 4480,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "hyperdramallama",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/31",
+			"volume" : 126,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "ZeroGDucks",
+			"location" : 
+			{
+				"x" : -102,
+				"y" : 60,
+				"z" : 11
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/11",
+			"volume" : 960,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,48 @@
+{
+	"item name" : "Potion#8Z",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 433,
+				"y" : 79,
+				"z" : 137
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2019/06/02",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 255,
+				"y" : 79,
+				"z" : 166
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/08/11",
+			"volume" : 4500,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : 433,
+				"y" : 79,
+				"z" : 137
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/13",
+			"volume" : 200,
+			"world" : "world"
+		}
+	]
+}

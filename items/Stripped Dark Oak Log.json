@@ -1,0 +1,48 @@
+{
+	"item name" : "Stripped Dark Oak Log",
+	"transactions" : 
+	[
+		{
+			"amount" : 20,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/14",
+			"volume" : 2200,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 330,
+			"world" : "world"
+		},
+		{
+			"amount" : 214,
+			"buyer" : "Talrinion",
+			"location" : 
+			{
+				"x" : -333,
+				"y" : 86,
+				"z" : 3147
+			},
+			"seller" : "Stormrunners",
+			"time" : "2019/06/21",
+			"volume" : 18190,
+			"world" : "world"
+		}
+	]
+}

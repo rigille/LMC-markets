@@ -1,0 +1,20 @@
+{
+	"item name" : "Enchanted Book#aA",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 88,
+				"z" : 17
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/15",
+			"volume" : 1000,
+			"world" : "world"
+		}
+	]
+}

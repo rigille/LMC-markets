@@ -1,0 +1,160 @@
+{
+	"item name" : "Lava Bucket",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 71,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/29",
+			"volume" : 700,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Jesper1972",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 71,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/30",
+			"volume" : 350,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Jesper1972",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 71,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/01",
+			"volume" : 700,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 71,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/15",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 71,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/25",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 71,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/27",
+			"volume" : 400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -192,
+				"y" : 64,
+				"z" : 320
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2019/02/06",
+			"volume" : 2500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -192,
+				"y" : 64,
+				"z" : 320
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2019/05/31",
+			"volume" : 2500,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "jackcam6",
+			"location" : 
+			{
+				"x" : 319,
+				"y" : 72,
+				"z" : 27
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/07/01",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 422,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2019/08/20",
+			"volume" : 7000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 422,
+				"y" : 84,
+				"z" : 126
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/02/20",
+			"volume" : 1000,
+			"world" : "world"
+		}
+	]
+}

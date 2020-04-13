@@ -1,0 +1,48 @@
+{
+	"item name" : "Diamond Leggings#9f",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 427,
+				"y" : 88,
+				"z" : 49
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/04/05",
+			"volume" : 72000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 427,
+				"y" : 88,
+				"z" : 49
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/05/19",
+			"volume" : 75000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 427,
+				"y" : 88,
+				"z" : 45
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/06/02",
+			"volume" : 78000,
+			"world" : "world"
+		}
+	]
+}

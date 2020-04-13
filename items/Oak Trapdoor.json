@@ -1,0 +1,48 @@
+{
+	"item name" : "Oak Trapdoor",
+	"transactions" : 
+	[
+		{
+			"amount" : 128,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -41
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/13",
+			"volume" : 9600,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -81
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 66,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -81
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"volume" : 704,
+			"world" : "world"
+		}
+	]
+}

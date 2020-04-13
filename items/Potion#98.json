@@ -1,0 +1,62 @@
+{
+	"item name" : "Potion#98",
+	"transactions" : 
+	[
+		{
+			"amount" : 5,
+			"buyer" : "jackcam6",
+			"location" : 
+			{
+				"x" : 401,
+				"y" : 79,
+				"z" : 96
+			},
+			"seller" : "sparkXstorm",
+			"time" : "2019/07/31",
+			"volume" : 174.95000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Miljanee",
+			"location" : 
+			{
+				"x" : 401,
+				"y" : 79,
+				"z" : 96
+			},
+			"seller" : "sparkXstorm",
+			"time" : "2019/08/16",
+			"volume" : 104.97,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "jtl0350",
+			"location" : 
+			{
+				"x" : 401,
+				"y" : 79,
+				"z" : 96
+			},
+			"seller" : "sparkXstorm",
+			"time" : "2020/01/11",
+			"volume" : 34.990000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : 401,
+				"y" : 79,
+				"z" : 96
+			},
+			"seller" : "sparkXstorm",
+			"time" : "2020/03/13",
+			"volume" : 209.94000000000003,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"item name" : "Diamond Leggings#23",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 82,
+				"z" : -14
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/30",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Threethan",
+			"location" : 
+			{
+				"x" : 256,
+				"y" : 73,
+				"z" : 61
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/03/21",
+			"volume" : 30000,
+			"world" : "world"
+		}
+	]
+}

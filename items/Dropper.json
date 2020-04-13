@@ -1,0 +1,90 @@
+{
+	"item name" : "Dropper",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : -1855,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/02",
+			"volume" : 11.199999999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : -1855,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/07",
+			"volume" : 5.5999999999999996,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -1855,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 16.799999999999997,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "jackcam6",
+			"location" : 
+			{
+				"x" : -1855,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/29",
+			"volume" : 44.800000000000004,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : -1855,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/03",
+			"volume" : 11.199999999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 398,
+				"y" : 79,
+				"z" : 123
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/03/07",
+			"volume" : 200,
+			"world" : "world"
+		}
+	]
+}

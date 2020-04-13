@@ -1,0 +1,90 @@
+{
+	"item name" : "Enchanted Book#4D",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 66,
+				"z" : 13
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/02",
+			"volume" : 75000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 66,
+				"z" : 13
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/03",
+			"volume" : 75000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 66,
+				"z" : 13
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/06",
+			"volume" : 50000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 66,
+				"z" : 13
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/07",
+			"volume" : 25000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 66,
+				"z" : 13
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/16",
+			"volume" : 25000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 30,
+				"y" : 71,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/27",
+			"volume" : 2600,
+			"world" : "world"
+		}
+	]
+}

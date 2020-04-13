@@ -1,0 +1,174 @@
+{
+	"item name" : "Bread",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : -346,
+				"y" : 72,
+				"z" : 83
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/10/07",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 27,
+			"buyer" : "Magnavox",
+			"location" : 
+			{
+				"x" : -346,
+				"y" : 72,
+				"z" : 83
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/10/21",
+			"volume" : 27,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "Magnavox",
+			"location" : 
+			{
+				"x" : 88,
+				"y" : 86,
+				"z" : 767
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/10/24",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 70,
+				"z" : -44
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/04",
+			"volume" : 64,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 70,
+				"z" : -44
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/08",
+			"volume" : 64,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "TheEzieDawg",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 70,
+				"z" : -44
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/25",
+			"volume" : 64,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 70,
+				"z" : -44
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/12/20",
+			"volume" : 64,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 151,
+				"y" : 78,
+				"z" : -439
+			},
+			"seller" : "Stormrunners",
+			"time" : "2018/12/22",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "exrook",
+			"location" : 
+			{
+				"x" : -149,
+				"y" : 72,
+				"z" : 355
+			},
+			"seller" : "Pancen",
+			"time" : "2020/02/13",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -149,
+				"y" : 72,
+				"z" : 355
+			},
+			"seller" : "Pancen",
+			"time" : "2020/02/14",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 37,
+			"buyer" : "_Adieu",
+			"location" : 
+			{
+				"x" : 1046,
+				"y" : 80,
+				"z" : -2782
+			},
+			"seller" : "DoubleAeA",
+			"time" : "2020/03/24",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 252,
+			"buyer" : "_Adieu",
+			"location" : 
+			{
+				"x" : 1041,
+				"y" : 80,
+				"z" : -2777
+			},
+			"seller" : "DoubleAeA",
+			"time" : "2020/03/27",
+			"volume" : 118.13,
+			"world" : "world"
+		}
+	]
+}

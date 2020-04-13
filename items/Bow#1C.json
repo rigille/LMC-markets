@@ -1,0 +1,48 @@
+{
+	"item name" : "Bow#1C",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "HandyEric3",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/02",
+			"volume" : 39000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/20",
+			"volume" : 22000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "LightsChaos",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/21",
+			"volume" : 22000,
+			"world" : "world"
+		}
+	]
+}

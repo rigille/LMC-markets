@@ -1,0 +1,62 @@
+{
+	"item name" : "Bow#7a",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Rille3000",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/06",
+			"volume" : 25000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "jandaris7",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/09",
+			"volume" : 25000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/28",
+			"volume" : 25000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "P1st0n",
+			"location" : 
+			{
+				"x" : 46,
+				"y" : 72,
+				"z" : -26
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/31",
+			"volume" : 25600,
+			"world" : "world"
+		}
+	]
+}

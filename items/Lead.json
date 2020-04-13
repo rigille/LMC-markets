@@ -1,0 +1,104 @@
+{
+	"item name" : "Lead",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 78,
+				"z" : 29
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/06/02",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 78,
+				"z" : 29
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/08/02",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "TheNormalToast",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 78,
+				"z" : 29
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/08/25",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 78,
+				"z" : 29
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2019/09/18",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 26,
+			"buyer" : "Tomter",
+			"location" : 
+			{
+				"x" : -323,
+				"y" : 68,
+				"z" : -457
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/01/13",
+			"volume" : 520,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 78,
+				"z" : 29
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/03/26",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "KnobbyWaffle",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 78,
+				"z" : 29
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/03/26",
+			"volume" : 100,
+			"world" : "world"
+		}
+	]
+}

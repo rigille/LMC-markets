@@ -1,0 +1,76 @@
+{
+	"item name" : "Sugar",
+	"transactions" : 
+	[
+		{
+			"amount" : 60,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 58,
+				"y" : 79,
+				"z" : 26
+			},
+			"seller" : "Remixster",
+			"time" : "2019/02/13",
+			"volume" : 2250,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 58,
+				"y" : 79,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/07/13",
+			"volume" : 2400,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -343,
+				"y" : 70,
+				"z" : 74
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2019/09/01",
+			"volume" : 64,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : 430,
+				"y" : 80,
+				"z" : 35
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/11/18",
+			"volume" : 0.40000000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : -177,
+				"y" : 65,
+				"z" : 338
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2020/02/07",
+			"volume" : 3,
+			"world" : "world"
+		}
+	]
+}

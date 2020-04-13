@@ -1,0 +1,34 @@
+{
+	"item name" : "Dark Oak Leaves",
+	"transactions" : 
+	[
+		{
+			"amount" : 128,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 60,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/10",
+			"volume" : 1408,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 60,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/03",
+			"volume" : 220,
+			"world" : "world"
+		}
+	]
+}

@@ -1,0 +1,34 @@
+{
+	"item name" : "Diamond Chestplate#2k",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 82,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/06",
+			"volume" : 340000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Baskerboss",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 82,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/08",
+			"volume" : 340000,
+			"world" : "world"
+		}
+	]
+}

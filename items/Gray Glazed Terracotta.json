@@ -1,0 +1,48 @@
+{
+	"item name" : "Gray Glazed Terracotta",
+	"transactions" : 
+	[
+		{
+			"amount" : 4,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 112,
+				"y" : 66,
+				"z" : -57
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/01/31",
+			"volume" : 360,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 112,
+				"y" : 66,
+				"z" : -57
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/02/12",
+			"volume" : 5760,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 112,
+				"y" : 66,
+				"z" : -57
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/05/03",
+			"volume" : 270,
+			"world" : "world"
+		}
+	]
+}

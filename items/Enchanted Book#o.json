@@ -1,0 +1,20 @@
+{
+	"item name" : "Enchanted Book#o",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 88,
+				"z" : 9
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/26",
+			"volume" : 100,
+			"world" : "world"
+		}
+	]
+}

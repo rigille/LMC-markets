@@ -1,0 +1,90 @@
+{
+	"item name" : "Shulker Box#3R",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 51,
+				"y" : 72,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/30",
+			"volume" : 297000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 83,
+				"z" : -14
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/01",
+			"volume" : 99000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 83,
+				"z" : -14
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/15",
+			"volume" : 88000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 83,
+				"z" : -14
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/29",
+			"volume" : 176000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 83,
+				"z" : -14
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/02",
+			"volume" : 264000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 265,
+				"y" : 79,
+				"z" : 153
+			},
+			"seller" : "ezrone",
+			"time" : "2019/03/23",
+			"volume" : 100000,
+			"world" : "world"
+		}
+	]
+}

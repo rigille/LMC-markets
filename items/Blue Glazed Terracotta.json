@@ -1,0 +1,34 @@
+{
+	"item name" : "Blue Glazed Terracotta",
+	"transactions" : 
+	[
+		{
+			"amount" : 4,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 119,
+				"y" : 66,
+				"z" : -56
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/01/31",
+			"volume" : 240,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 119,
+				"y" : 66,
+				"z" : -56
+			},
+			"seller" : "Aewheros",
+			"time" : "2019/05/03",
+			"volume" : 180,
+			"world" : "world"
+		}
+	]
+}

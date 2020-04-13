@@ -1,0 +1,20 @@
+{
+	"item name" : "Podzol",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Dioswilson",
+			"location" : 
+			{
+				"x" : 419,
+				"y" : 78,
+				"z" : 156
+			},
+			"seller" : "dandenoth",
+			"time" : "2019/03/30",
+			"volume" : 100,
+			"world" : "world"
+		}
+	]
+}

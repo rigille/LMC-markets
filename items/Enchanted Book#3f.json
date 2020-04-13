@@ -1,0 +1,48 @@
+{
+	"item name" : "Enchanted Book#3f",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -30
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/24",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -30
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/28",
+			"volume" : 5200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -30
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/01",
+			"volume" : 2600,
+			"world" : "world"
+		}
+	]
+}

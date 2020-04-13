@@ -1,0 +1,34 @@
+{
+	"item name" : "Iron Ore",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : -102,
+				"y" : 6,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/05",
+			"volume" : 8,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "Talrinion",
+			"location" : 
+			{
+				"x" : -231,
+				"y" : 88,
+				"z" : 3236
+			},
+			"seller" : "AspenGamgee",
+			"time" : "2019/06/11",
+			"volume" : 35,
+			"world" : "world"
+		}
+	]
+}

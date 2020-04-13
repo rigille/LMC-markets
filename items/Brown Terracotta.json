@@ -1,0 +1,20 @@
+{
+	"item name" : "Brown Terracotta",
+	"transactions" : 
+	[
+		{
+			"amount" : 8,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 21
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/05/03",
+			"volume" : 1000,
+			"world" : "world"
+		}
+	]
+}

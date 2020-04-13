@@ -1,0 +1,216 @@
+{
+	"item name" : "Tripwire Hook",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "Char1348294",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 70,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/16",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 70,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/02",
+			"volume" : 2,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Vrael1",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 70,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/04",
+			"volume" : 2,
+			"world" : "world"
+		},
+		{
+			"amount" : 65,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 70,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/31",
+			"volume" : 65,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Remixster",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 72,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/22",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Nocturna12",
+			"location" : 
+			{
+				"x" : 11,
+				"y" : 59,
+				"z" : 18
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/01/28",
+			"volume" : 2,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 57,
+				"z" : 12
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/25",
+			"volume" : 2,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 58,
+				"y" : 62,
+				"z" : -32
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/14",
+			"volume" : 63,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 58,
+				"y" : 62,
+				"z" : -32
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/14",
+			"volume" : 84,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 57,
+				"z" : 12
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/04/07",
+			"volume" : 4,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 58,
+				"y" : 62,
+				"z" : -32
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 63,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 57,
+				"z" : 12
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/08/20",
+			"volume" : 4,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 57,
+				"z" : 12
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/09/21",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 93,
+				"y" : 72,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/11/03",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 57,
+				"z" : 12
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/12/06",
+			"volume" : 2,
+			"world" : "world"
+		}
+	]
+}

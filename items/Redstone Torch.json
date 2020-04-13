@@ -1,0 +1,48 @@
+{
+	"item name" : "Redstone Torch",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -1844,
+				"y" : 18,
+				"z" : 1607
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 29.099999999999998,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 398,
+				"y" : 79,
+				"z" : 138
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/03/07",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "hyperdramallama",
+			"location" : 
+			{
+				"x" : 398,
+				"y" : 79,
+				"z" : 138
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/03/15",
+			"volume" : 100,
+			"world" : "world"
+		}
+	]
+}

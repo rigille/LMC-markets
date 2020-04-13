@@ -1,0 +1,34 @@
+{
+	"item name" : "Fern",
+	"transactions" : 
+	[
+		{
+			"amount" : 22,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -2,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/04/01",
+			"volume" : 3300,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -2,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/10",
+			"volume" : 9600,
+			"world" : "world"
+		}
+	]
+}

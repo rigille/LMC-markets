@@ -1,0 +1,76 @@
+{
+	"item name" : "Diamond Pickaxe#M",
+	"transactions" : 
+	[
+		{
+			"amount" : 2,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 64,
+				"z" : -6
+			},
+			"seller" : "spfoia",
+			"time" : "2018/09/07",
+			"volume" : 25000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 112,
+				"z" : 14
+			},
+			"seller" : "spfoia",
+			"time" : "2018/09/08",
+			"volume" : 13337,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 112,
+				"z" : 14
+			},
+			"seller" : "spfoia",
+			"time" : "2018/09/08",
+			"volume" : 13337,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "33_Shikamaru",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 112,
+				"z" : 14
+			},
+			"seller" : "spfoia",
+			"time" : "2018/09/09",
+			"volume" : 13337,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 112,
+				"z" : 14
+			},
+			"seller" : "spfoia",
+			"time" : "2018/09/15",
+			"volume" : 13337,
+			"world" : "world_nether"
+		}
+	]
+}

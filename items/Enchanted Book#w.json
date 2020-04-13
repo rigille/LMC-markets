@@ -1,0 +1,104 @@
+{
+	"item name" : "Enchanted Book#w",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "LightsChaos",
+			"location" : 
+			{
+				"x" : 47,
+				"y" : 73,
+				"z" : -20
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/12",
+			"volume" : 7900,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 47,
+				"y" : 73,
+				"z" : -20
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/15",
+			"volume" : 15800,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 51,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/06",
+			"volume" : 880,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 51,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/10",
+			"volume" : 3080,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 51,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/12",
+			"volume" : 2640,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 51,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/27",
+			"volume" : 880,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 51,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"volume" : 440,
+			"world" : "world"
+		}
+	]
+}

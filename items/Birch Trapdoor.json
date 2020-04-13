@@ -1,0 +1,34 @@
+{
+	"item name" : "Birch Trapdoor",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -81
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 81,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "NiCe69",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -81
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/15",
+			"volume" : 10368,
+			"world" : "world"
+		}
+	]
+}

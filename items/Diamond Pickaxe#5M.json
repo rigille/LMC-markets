@@ -1,0 +1,48 @@
+{
+	"item name" : "Diamond Pickaxe#5M",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 2025,
+				"y" : 50,
+				"z" : 277
+			},
+			"seller" : "pudzo",
+			"time" : "2018/11/11",
+			"volume" : 5000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 2025,
+				"y" : 50,
+				"z" : 277
+			},
+			"seller" : "pudzo",
+			"time" : "2018/11/17",
+			"volume" : 15000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 2025,
+				"y" : 50,
+				"z" : 277
+			},
+			"seller" : "pudzo",
+			"time" : "2018/11/26",
+			"volume" : 5000,
+			"world" : "world"
+		}
+	]
+}

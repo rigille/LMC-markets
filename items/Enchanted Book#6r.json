@@ -1,0 +1,34 @@
+{
+	"item name" : "Enchanted Book#6r",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/24",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/06",
+			"volume" : 3000,
+			"world" : "world"
+		}
+	]
+}

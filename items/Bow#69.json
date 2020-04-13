@@ -1,0 +1,34 @@
+{
+	"item name" : "Bow#69",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Mowilag",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 74,
+				"z" : 18
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/05/14",
+			"volume" : 350,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 74,
+				"z" : 18
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/09/20",
+			"volume" : 350,
+			"world" : "world"
+		}
+	]
+}

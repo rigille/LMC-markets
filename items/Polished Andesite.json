@@ -1,0 +1,146 @@
+{
+	"item name" : "Polished Andesite",
+	"transactions" : 
+	[
+		{
+			"amount" : 64,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 51,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/14",
+			"volume" : 96,
+			"world" : "world"
+		},
+		{
+			"amount" : 110,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 51,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/21",
+			"volume" : 88,
+			"world" : "world"
+		},
+		{
+			"amount" : 168,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 51,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/24",
+			"volume" : 134.40000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 200,
+			"buyer" : "Rehns",
+			"location" : 
+			{
+				"x" : 51,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/26",
+			"volume" : 160,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : 253,
+				"y" : 80,
+				"z" : 160
+			},
+			"seller" : "ezrone",
+			"time" : "2019/04/06",
+			"volume" : 3200,
+			"world" : "world"
+		},
+		{
+			"amount" : 190,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 253,
+				"y" : 80,
+				"z" : 160
+			},
+			"seller" : "ezrone",
+			"time" : "2019/06/06",
+			"volume" : 4750,
+			"world" : "world"
+		},
+		{
+			"amount" : 67,
+			"buyer" : "Talrinion",
+			"location" : 
+			{
+				"x" : -235,
+				"y" : 89,
+				"z" : 3236
+			},
+			"seller" : "AspenGamgee",
+			"time" : "2019/06/11",
+			"volume" : 33.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "jtl0350",
+			"location" : 
+			{
+				"x" : -376,
+				"y" : 70,
+				"z" : -476
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/01/06",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 1152,
+			"buyer" : "jtl0350",
+			"location" : 
+			{
+				"x" : -376,
+				"y" : 69,
+				"z" : -476
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/01/06",
+			"volume" : 34560,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "jtl0350",
+			"location" : 
+			{
+				"x" : -376,
+				"y" : 69,
+				"z" : -476
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/01/07",
+			"volume" : 9600,
+			"world" : "world"
+		}
+	]
+}

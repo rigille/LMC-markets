@@ -1,0 +1,34 @@
+{
+	"item name" : "Enchanted Book#3e",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 64,
+				"z" : -30
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/10",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "BelegStrongbow",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 64,
+				"z" : -30
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/20",
+			"volume" : 5200,
+			"world" : "world"
+		}
+	]
+}

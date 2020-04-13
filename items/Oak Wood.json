@@ -1,0 +1,118 @@
+{
+	"item name" : "Oak Wood",
+	"transactions" : 
+	[
+		{
+			"amount" : 6,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/21",
+			"volume" : 438,
+			"world" : "world"
+		},
+		{
+			"amount" : 57,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/25",
+			"volume" : 4161,
+			"world" : "world"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/07",
+			"volume" : 1387,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 219,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"volume" : 14016,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dredhounds",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/08",
+			"volume" : 73,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "ZeroGDucks",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/11/14",
+			"volume" : 720,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2020/02/13",
+			"volume" : 60,
+			"world" : "world"
+		}
+	]
+}

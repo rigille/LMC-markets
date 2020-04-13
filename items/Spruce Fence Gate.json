@@ -1,0 +1,34 @@
+{
+	"item name" : "Spruce Fence Gate",
+	"transactions" : 
+	[
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -75
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"volume" : 105,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -75
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/28",
+			"volume" : 770,
+			"world" : "world"
+		}
+	]
+}

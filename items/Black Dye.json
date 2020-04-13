@@ -1,0 +1,118 @@
+{
+	"item name" : "Black Dye",
+	"transactions" : 
+	[
+		{
+			"amount" : 60,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : 361,
+				"y" : 80,
+				"z" : 187
+			},
+			"seller" : "Marcus265",
+			"time" : "2019/09/22",
+			"volume" : 6000,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "Downhilldriver",
+			"location" : 
+			{
+				"x" : -6,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2019/12/30",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Downhilldriver",
+			"location" : 
+			{
+				"x" : -6,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2019/12/31",
+			"volume" : 80,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Freeaboo",
+			"location" : 
+			{
+				"x" : -6,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/01/19",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -6,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/25",
+			"volume" : 90,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -6,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/27",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -6,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/10",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 158,
+			"buyer" : "VeillofSorrow",
+			"location" : 
+			{
+				"x" : -6,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/12",
+			"volume" : 1580,
+			"world" : "world"
+		}
+	]
+}

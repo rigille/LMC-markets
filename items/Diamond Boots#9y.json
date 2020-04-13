@@ -1,0 +1,34 @@
+{
+	"item name" : "Diamond Boots#9y",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 430,
+				"y" : 88,
+				"z" : 50
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/05/19",
+			"volume" : 48000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 430,
+				"y" : 88,
+				"z" : 50
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/06/02",
+			"volume" : 51000,
+			"world" : "world"
+		}
+	]
+}

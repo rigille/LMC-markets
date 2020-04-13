@@ -1,0 +1,48 @@
+{
+	"item name" : "Blast Furnace",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "SirKrojje",
+			"location" : 
+			{
+				"x" : -98,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/02/15",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -98,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/02/26",
+			"volume" : 600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : -98,
+				"y" : 61,
+				"z" : 7
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/03/16",
+			"volume" : 150,
+			"world" : "world"
+		}
+	]
+}

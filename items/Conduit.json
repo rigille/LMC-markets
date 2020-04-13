@@ -1,0 +1,20 @@
+{
+	"item name" : "Conduit",
+	"transactions" : 
+	[
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 74,
+				"y" : 66,
+				"z" : -324
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/09/06",
+			"volume" : 5600,
+			"world" : "world"
+		}
+	]
+}
