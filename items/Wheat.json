@@ -109,14 +109,14 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "NullCase",
+			"buyer" : "LightsChaos",
 			"location" : 
 			{
 				"x" : 28,
 				"y" : 69,
 				"z" : 36
 			},
-			"seller" : "LightsChaos",
+			"seller" : "NullCase",
 			"time" : "2018/09/04",
 			"type" : "sell",
 			"volume" : 2.0299999999999998,
@@ -214,14 +214,14 @@
 		},
 		{
 			"amount" : 85,
-			"buyer" : "MyNameIsTree",
+			"buyer" : "LightsChaos",
 			"location" : 
 			{
 				"x" : 24,
 				"y" : 69,
 				"z" : 39
 			},
-			"seller" : "LightsChaos",
+			"seller" : "MyNameIsTree",
 			"time" : "2018/09/07",
 			"type" : "sell",
 			"volume" : 265.63,
@@ -229,14 +229,14 @@
 		},
 		{
 			"amount" : 43,
-			"buyer" : "MyNameIsTree",
+			"buyer" : "LightsChaos",
 			"location" : 
 			{
 				"x" : 24,
 				"y" : 69,
 				"z" : 39
 			},
-			"seller" : "LightsChaos",
+			"seller" : "MyNameIsTree",
 			"time" : "2018/09/08",
 			"type" : "sell",
 			"volume" : 134.38,
@@ -259,14 +259,14 @@
 		},
 		{
 			"amount" : 37,
-			"buyer" : "MyNameIsTree",
+			"buyer" : "LightsChaos",
 			"location" : 
 			{
 				"x" : 24,
 				"y" : 69,
 				"z" : 39
 			},
-			"seller" : "LightsChaos",
+			"seller" : "MyNameIsTree",
 			"time" : "2018/09/08",
 			"type" : "sell",
 			"volume" : 115.63,
@@ -289,14 +289,14 @@
 		},
 		{
 			"amount" : 231,
-			"buyer" : "MyNameIsTree",
+			"buyer" : "LightsChaos",
 			"location" : 
 			{
 				"x" : 24,
 				"y" : 69,
 				"z" : 39
 			},
-			"seller" : "LightsChaos",
+			"seller" : "MyNameIsTree",
 			"time" : "2018/09/08",
 			"type" : "sell",
 			"volume" : 721.88,
@@ -304,14 +304,14 @@
 		},
 		{
 			"amount" : 63,
-			"buyer" : "MyNameIsTree",
+			"buyer" : "LightsChaos",
 			"location" : 
 			{
 				"x" : 24,
 				"y" : 69,
 				"z" : 39
 			},
-			"seller" : "LightsChaos",
+			"seller" : "MyNameIsTree",
 			"time" : "2018/09/09",
 			"type" : "sell",
 			"volume" : 196.88,
@@ -334,14 +334,14 @@
 		},
 		{
 			"amount" : 32,
-			"buyer" : "ersi",
+			"buyer" : "spfoia",
 			"location" : 
 			{
 				"x" : 1,
 				"y" : 112,
 				"z" : 23
 			},
-			"seller" : "spfoia",
+			"seller" : "ersi",
 			"time" : "2018/09/10",
 			"type" : "sell",
 			"volume" : 250,
@@ -364,14 +364,14 @@
 		},
 		{
 			"amount" : 544,
-			"buyer" : "ersi",
+			"buyer" : "spfoia",
 			"location" : 
 			{
 				"x" : 1,
 				"y" : 112,
 				"z" : 23
 			},
-			"seller" : "spfoia",
+			"seller" : "ersi",
 			"time" : "2018/09/10",
 			"type" : "sell",
 			"volume" : 4250,
@@ -394,14 +394,14 @@
 		},
 		{
 			"amount" : 192,
-			"buyer" : "ersi",
+			"buyer" : "spfoia",
 			"location" : 
 			{
 				"x" : 1,
 				"y" : 112,
 				"z" : 23
 			},
-			"seller" : "spfoia",
+			"seller" : "ersi",
 			"time" : "2018/09/10",
 			"type" : "sell",
 			"volume" : 1500,
@@ -424,14 +424,14 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "ersi",
+			"buyer" : "LightsChaos",
 			"location" : 
 			{
 				"x" : 29,
 				"y" : 75,
 				"z" : 34
 			},
-			"seller" : "LightsChaos",
+			"seller" : "ersi",
 			"time" : "2018/09/10",
 			"type" : "sell",
 			"volume" : 200,
@@ -454,14 +454,14 @@
 		},
 		{
 			"amount" : 384,
-			"buyer" : "ersi",
+			"buyer" : "spfoia",
 			"location" : 
 			{
 				"x" : 1,
 				"y" : 112,
 				"z" : 23
 			},
-			"seller" : "spfoia",
+			"seller" : "ersi",
 			"time" : "2018/09/10",
 			"type" : "sell",
 			"volume" : 3000,
@@ -484,14 +484,14 @@
 		},
 		{
 			"amount" : 192,
-			"buyer" : "ersi",
+			"buyer" : "spfoia",
 			"location" : 
 			{
 				"x" : 1,
 				"y" : 112,
 				"z" : 23
 			},
-			"seller" : "spfoia",
+			"seller" : "ersi",
 			"time" : "2018/09/10",
 			"type" : "sell",
 			"volume" : 1500,
@@ -514,14 +514,14 @@
 		},
 		{
 			"amount" : 8,
-			"buyer" : "ersi",
+			"buyer" : "spfoia",
 			"location" : 
 			{
 				"x" : 1,
 				"y" : 112,
 				"z" : 23
 			},
-			"seller" : "spfoia",
+			"seller" : "ersi",
 			"time" : "2018/09/10",
 			"type" : "sell",
 			"volume" : 62.5,
@@ -544,14 +544,14 @@
 		},
 		{
 			"amount" : 805,
-			"buyer" : "PizzaJon",
+			"buyer" : "LightsChaos",
 			"location" : 
 			{
 				"x" : 29,
 				"y" : 75,
 				"z" : 34
 			},
-			"seller" : "LightsChaos",
+			"seller" : "PizzaJon",
 			"time" : "2018/09/11",
 			"type" : "sell",
 			"volume" : 2515.6300000000001,
@@ -604,14 +604,14 @@
 		},
 		{
 			"amount" : 2,
-			"buyer" : "ersi",
+			"buyer" : "spfoia",
 			"location" : 
 			{
 				"x" : 1,
 				"y" : 112,
 				"z" : 23
 			},
-			"seller" : "spfoia",
+			"seller" : "ersi",
 			"time" : "2018/09/14",
 			"type" : "sell",
 			"volume" : 15.630000000000001,
@@ -619,14 +619,14 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "mendor77",
+			"buyer" : "LightsChaos",
 			"location" : 
 			{
 				"x" : 29,
 				"y" : 75,
 				"z" : 34
 			},
-			"seller" : "LightsChaos",
+			"seller" : "mendor77",
 			"time" : "2018/09/14",
 			"type" : "sell",
 			"volume" : 3.1299999999999999,
@@ -754,14 +754,14 @@
 		},
 		{
 			"amount" : 26,
-			"buyer" : "__Wildfire_",
+			"buyer" : "spfoia",
 			"location" : 
 			{
 				"x" : 1,
 				"y" : 112,
 				"z" : 23
 			},
-			"seller" : "spfoia",
+			"seller" : "__Wildfire_",
 			"time" : "2018/09/27",
 			"type" : "sell",
 			"volume" : 203.13,
@@ -799,14 +799,14 @@
 		},
 		{
 			"amount" : 3444,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/09/28",
 			"type" : "sell",
 			"volume" : 8071.8800000000001,
@@ -814,14 +814,14 @@
 		},
 		{
 			"amount" : 1728,
-			"buyer" : "__Wildfire_",
+			"buyer" : "spfoia",
 			"location" : 
 			{
 				"x" : 1,
 				"y" : 112,
 				"z" : 23
 			},
-			"seller" : "spfoia",
+			"seller" : "__Wildfire_",
 			"time" : "2018/09/28",
 			"type" : "sell",
 			"volume" : 13500,
@@ -829,14 +829,14 @@
 		},
 		{
 			"amount" : 1728,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/09/29",
 			"type" : "sell",
 			"volume" : 4050,
@@ -844,14 +844,14 @@
 		},
 		{
 			"amount" : 1216,
-			"buyer" : "__Starlight_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Starlight_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 2850,
@@ -859,14 +859,14 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 150,
@@ -874,14 +874,14 @@
 		},
 		{
 			"amount" : 128,
-			"buyer" : "__Starlight_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Starlight_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 300,
@@ -889,14 +889,14 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 150,
@@ -904,14 +904,14 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "__Starlight_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Starlight_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 150,
@@ -919,14 +919,14 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 150,
@@ -934,14 +934,14 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "__Starlight_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Starlight_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 150,
@@ -949,14 +949,14 @@
 		},
 		{
 			"amount" : 128,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 300,
@@ -964,14 +964,14 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "__Starlight_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Starlight_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 150,
@@ -979,14 +979,14 @@
 		},
 		{
 			"amount" : 768,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 1800,
@@ -994,14 +994,14 @@
 		},
 		{
 			"amount" : 128,
-			"buyer" : "__Starlight_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Starlight_",
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 300,
@@ -1159,14 +1159,14 @@
 		},
 		{
 			"amount" : 1052,
-			"buyer" : "AteUrC00ki35",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : -271,
 				"y" : 64,
 				"z" : -34
 			},
-			"seller" : "pudzo",
+			"seller" : "AteUrC00ki35",
 			"time" : "2018/10/10",
 			"type" : "sell",
 			"volume" : 1643.75,
@@ -1204,14 +1204,14 @@
 		},
 		{
 			"amount" : 1472,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/10/14",
 			"type" : "sell",
 			"volume" : 3450,
@@ -1219,14 +1219,14 @@
 		},
 		{
 			"amount" : 512,
-			"buyer" : "__Starlight_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Starlight_",
 			"time" : "2018/10/14",
 			"type" : "sell",
 			"volume" : 1200,
@@ -1234,14 +1234,14 @@
 		},
 		{
 			"amount" : 1472,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/10/14",
 			"type" : "sell",
 			"volume" : 3450,
@@ -1279,14 +1279,14 @@
 		},
 		{
 			"amount" : 57,
-			"buyer" : "__Wildfire_",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -59,
 				"y" : 112,
 				"z" : -26
 			},
-			"seller" : "Haksndot",
+			"seller" : "__Wildfire_",
 			"time" : "2018/10/17",
 			"type" : "sell",
 			"volume" : 133.59,
@@ -1309,14 +1309,14 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/10/23",
 			"type" : "sell",
 			"volume" : 150,
@@ -1339,14 +1339,14 @@
 		},
 		{
 			"amount" : 1920,
-			"buyer" : "__Wildfire_",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : 249,
 				"y" : 113,
 				"z" : 6
 			},
-			"seller" : "pudzo",
+			"seller" : "__Wildfire_",
 			"time" : "2018/10/24",
 			"type" : "sell",
 			"volume" : 4500,
@@ -1444,14 +1444,14 @@
 		},
 		{
 			"amount" : 288,
-			"buyer" : "ersi",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -59,
 				"y" : 112,
 				"z" : -26
 			},
-			"seller" : "Haksndot",
+			"seller" : "ersi",
 			"time" : "2018/11/07",
 			"type" : "sell",
 			"volume" : 675,
@@ -1504,14 +1504,14 @@
 		},
 		{
 			"amount" : 128,
-			"buyer" : "ersi",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -59,
 				"y" : 112,
 				"z" : -26
 			},
-			"seller" : "Haksndot",
+			"seller" : "ersi",
 			"time" : "2018/11/10",
 			"type" : "sell",
 			"volume" : 300,
@@ -1534,14 +1534,14 @@
 		},
 		{
 			"amount" : 960,
-			"buyer" : "ersi",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -59,
 				"y" : 112,
 				"z" : -26
 			},
-			"seller" : "Haksndot",
+			"seller" : "ersi",
 			"time" : "2018/11/10",
 			"type" : "sell",
 			"volume" : 2250,
@@ -1564,14 +1564,14 @@
 		},
 		{
 			"amount" : 576,
-			"buyer" : "ersi",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -59,
 				"y" : 112,
 				"z" : -26
 			},
-			"seller" : "Haksndot",
+			"seller" : "ersi",
 			"time" : "2018/11/10",
 			"type" : "sell",
 			"volume" : 1350,
@@ -1609,14 +1609,14 @@
 		},
 		{
 			"amount" : 1241,
-			"buyer" : "ersi",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -59,
 				"y" : 112,
 				"z" : -26
 			},
-			"seller" : "Haksndot",
+			"seller" : "ersi",
 			"time" : "2018/11/10",
 			"type" : "sell",
 			"volume" : 2908.5900000000001,
@@ -1639,14 +1639,14 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "ersi",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -59,
 				"y" : 112,
 				"z" : -26
 			},
-			"seller" : "Haksndot",
+			"seller" : "ersi",
 			"time" : "2018/11/10",
 			"type" : "sell",
 			"volume" : 150,
@@ -1669,14 +1669,14 @@
 		},
 		{
 			"amount" : 38,
-			"buyer" : "ersi",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -59,
 				"y" : 112,
 				"z" : -26
 			},
-			"seller" : "Haksndot",
+			"seller" : "ersi",
 			"time" : "2018/11/10",
 			"type" : "sell",
 			"volume" : 89.060000000000002,
@@ -1684,14 +1684,14 @@
 		},
 		{
 			"amount" : 602,
-			"buyer" : "ersi",
+			"buyer" : "Captain_Handsome",
 			"location" : 
 			{
 				"x" : 22,
 				"y" : 72,
 				"z" : -44
 			},
-			"seller" : "Captain_Handsome",
+			"seller" : "ersi",
 			"time" : "2018/11/10",
 			"type" : "sell",
 			"volume" : 357.44,
@@ -1714,14 +1714,14 @@
 		},
 		{
 			"amount" : 749,
-			"buyer" : "ersi",
+			"buyer" : "Captain_Handsome",
 			"location" : 
 			{
 				"x" : 22,
 				"y" : 72,
 				"z" : -44
 			},
-			"seller" : "Captain_Handsome",
+			"seller" : "ersi",
 			"time" : "2018/11/10",
 			"type" : "sell",
 			"volume" : 444.72000000000003,
@@ -2419,14 +2419,14 @@
 		},
 		{
 			"amount" : 115,
-			"buyer" : "MiChupacabaras",
+			"buyer" : "Captain_Handsome",
 			"location" : 
 			{
 				"x" : 22,
 				"y" : 72,
 				"z" : -44
 			},
-			"seller" : "Captain_Handsome",
+			"seller" : "MiChupacabaras",
 			"time" : "2018/11/26",
 			"type" : "sell",
 			"volume" : 68.280000000000001,
@@ -3094,14 +3094,14 @@
 		},
 		{
 			"amount" : 16,
-			"buyer" : "Colonel_Ruff",
+			"buyer" : "ezrone",
 			"location" : 
 			{
 				"x" : 257,
 				"y" : 79,
 				"z" : 150
 			},
-			"seller" : "ezrone",
+			"seller" : "Colonel_Ruff",
 			"time" : "2019/03/26",
 			"type" : "sell",
 			"volume" : 7.5,
@@ -3319,14 +3319,14 @@
 		},
 		{
 			"amount" : 1308,
-			"buyer" : "Pancen",
+			"buyer" : "pudzo",
 			"location" : 
 			{
 				"x" : -271,
 				"y" : 64,
 				"z" : -34
 			},
-			"seller" : "pudzo",
+			"seller" : "Pancen",
 			"time" : "2019/05/06",
 			"type" : "sell",
 			"volume" : 2043.75,
@@ -3514,14 +3514,14 @@
 		},
 		{
 			"amount" : 15,
-			"buyer" : "sparkXstorm",
+			"buyer" : "ezrone",
 			"location" : 
 			{
 				"x" : 257,
 				"y" : 79,
 				"z" : 150
 			},
-			"seller" : "ezrone",
+			"seller" : "sparkXstorm",
 			"time" : "2019/07/22",
 			"type" : "sell",
 			"volume" : 5.8600000000000003,
@@ -3649,14 +3649,14 @@
 		},
 		{
 			"amount" : 21,
-			"buyer" : "EnDristON",
+			"buyer" : "NullCase",
 			"location" : 
 			{
 				"x" : 1099,
 				"y" : 63,
 				"z" : -476
 			},
-			"seller" : "NullCase",
+			"seller" : "EnDristON",
 			"time" : "2019/11/12",
 			"type" : "sell",
 			"volume" : 105,
@@ -3724,14 +3724,14 @@
 		},
 		{
 			"amount" : 363,
-			"buyer" : "_Adieu",
+			"buyer" : "DoubleAeA",
 			"location" : 
 			{
 				"x" : 1047,
 				"y" : 80,
 				"z" : -2782
 			},
-			"seller" : "DoubleAeA",
+			"seller" : "_Adieu",
 			"time" : "2020/03/27",
 			"type" : "sell",
 			"volume" : 226.88,

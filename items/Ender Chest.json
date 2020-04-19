@@ -2239,14 +2239,14 @@
 		},
 		{
 			"amount" : 20,
-			"buyer" : "NullCase",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 65,
 				"y" : 59,
 				"z" : -23
 			},
-			"seller" : "K9us",
+			"seller" : "NullCase",
 			"time" : "2019/07/16",
 			"type" : "sell",
 			"volume" : 70000,
@@ -2254,14 +2254,14 @@
 		},
 		{
 			"amount" : 19,
-			"buyer" : "Aewheros",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 65,
 				"y" : 59,
 				"z" : -23
 			},
-			"seller" : "K9us",
+			"seller" : "Aewheros",
 			"time" : "2019/07/16",
 			"type" : "sell",
 			"volume" : 66500,
@@ -2524,14 +2524,14 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "Aewheros",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 65,
 				"y" : 59,
 				"z" : -23
 			},
-			"seller" : "K9us",
+			"seller" : "Aewheros",
 			"time" : "2019/10/13",
 			"type" : "sell",
 			"volume" : 3500,

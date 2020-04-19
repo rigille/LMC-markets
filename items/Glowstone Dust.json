@@ -64,14 +64,14 @@
 		},
 		{
 			"amount" : 3,
-			"buyer" : "Colonel_Ruff",
+			"buyer" : "ezrone",
 			"location" : 
 			{
 				"x" : 256,
 				"y" : 80,
 				"z" : 156
 			},
-			"seller" : "ezrone",
+			"seller" : "Colonel_Ruff",
 			"time" : "2019/03/24",
 			"type" : "sell",
 			"volume" : 30,
@@ -139,14 +139,14 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "Pancen",
+			"buyer" : "Phantom_Ark",
 			"location" : 
 			{
 				"x" : -185,
 				"y" : 65,
 				"z" : 330
 			},
-			"seller" : "Phantom_Ark",
+			"seller" : "Pancen",
 			"time" : "2020/02/07",
 			"type" : "sell",
 			"volume" : 60,
@@ -184,14 +184,14 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "Minarchu",
+			"buyer" : "Dioswilson",
 			"location" : 
 			{
 				"x" : 430,
 				"y" : 80,
 				"z" : 47
 			},
-			"seller" : "Dioswilson",
+			"seller" : "Minarchu",
 			"time" : "2020/03/07",
 			"type" : "sell",
 			"volume" : 14,

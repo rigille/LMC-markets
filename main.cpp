@@ -77,11 +77,11 @@ int main()
     {
       const std::string type = "sell";
       const std::string time = sm[1];
-      const std::string buyer = sm[2];
+      const std::string seller = sm[2];
       const int amount = std::stoi(sm[3]);
       const std::string item = sm[4];
       const double volume = std::stod(sm[5]);
-      const std::string seller = sm[7];
+      const std::string buyer = sm[7];
       const std::string world = sm[8];
       const coord location {std::stoi(sm[9]), std::stoi(sm[10]), std::stoi(sm[11])};
       const buy_transaction transaction {type, time, buyer, amount, item, volume, seller, world, location};

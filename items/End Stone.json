@@ -34,14 +34,14 @@
 		},
 		{
 			"amount" : 130,
-			"buyer" : "NullCase",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -53,
 				"y" : 112,
 				"z" : -22
 			},
-			"seller" : "Haksndot",
+			"seller" : "NullCase",
 			"time" : "2018/11/04",
 			"type" : "sell",
 			"volume" : 1828.1300000000001,
@@ -49,14 +49,14 @@
 		},
 		{
 			"amount" : 2,
-			"buyer" : "NullCase",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -53,
 				"y" : 112,
 				"z" : -22
 			},
-			"seller" : "Haksndot",
+			"seller" : "NullCase",
 			"time" : "2018/11/07",
 			"type" : "sell",
 			"volume" : 28.129999999999999,
@@ -79,14 +79,14 @@
 		},
 		{
 			"amount" : 1664,
-			"buyer" : "illdeletethis",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 78,
 				"y" : 67,
 				"z" : -18
 			},
-			"seller" : "K9us",
+			"seller" : "illdeletethis",
 			"time" : "2018/12/21",
 			"type" : "sell",
 			"volume" : 3328,
@@ -124,14 +124,14 @@
 		},
 		{
 			"amount" : 1472,
-			"buyer" : "illdeletethis",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 78,
 				"y" : 67,
 				"z" : -18
 			},
-			"seller" : "K9us",
+			"seller" : "illdeletethis",
 			"time" : "2018/12/23",
 			"type" : "sell",
 			"volume" : 2944,
@@ -169,14 +169,14 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "UnToasted",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 78,
 				"y" : 67,
 				"z" : -18
 			},
-			"seller" : "K9us",
+			"seller" : "UnToasted",
 			"time" : "2019/01/28",
 			"type" : "sell",
 			"volume" : 128,

@@ -4,14 +4,14 @@
 	[
 		{
 			"amount" : 40,
-			"buyer" : "ersi",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -26,
 				"y" : 116,
 				"z" : -51
 			},
-			"seller" : "Haksndot",
+			"seller" : "ersi",
 			"time" : "2018/10/28",
 			"type" : "sell",
 			"volume" : 1320,
@@ -34,14 +34,14 @@
 		},
 		{
 			"amount" : 17,
-			"buyer" : "EnDristON",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 55,
 				"y" : 61,
 				"z" : -63
 			},
-			"seller" : "K9us",
+			"seller" : "EnDristON",
 			"time" : "2019/03/09",
 			"type" : "sell",
 			"volume" : 425,
@@ -49,14 +49,14 @@
 		},
 		{
 			"amount" : 54,
-			"buyer" : "Cesium_Knight",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 55,
 				"y" : 61,
 				"z" : -63
 			},
-			"seller" : "K9us",
+			"seller" : "Cesium_Knight",
 			"time" : "2019/04/06",
 			"type" : "sell",
 			"volume" : 1350,

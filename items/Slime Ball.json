@@ -949,14 +949,14 @@
 		},
 		{
 			"amount" : 14,
-			"buyer" : "ezrone",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : -102,
 				"y" : 6,
 				"z" : -8
 			},
-			"seller" : "K9us",
+			"seller" : "ezrone",
 			"time" : "2019/03/27",
 			"type" : "sell",
 			"volume" : 1.4000000000000004,
@@ -1414,14 +1414,14 @@
 		},
 		{
 			"amount" : 76,
-			"buyer" : "Lego_UOE",
+			"buyer" : "Vallenius",
 			"location" : 
 			{
 				"x" : -177,
 				"y" : 64,
 				"z" : 12
 			},
-			"seller" : "Vallenius",
+			"seller" : "Lego_UOE",
 			"time" : "2019/08/12",
 			"type" : "sell",
 			"volume" : 228,
@@ -1549,14 +1549,14 @@
 		},
 		{
 			"amount" : 43,
-			"buyer" : "vemppasalo",
+			"buyer" : "Vallenius",
 			"location" : 
 			{
 				"x" : -177,
 				"y" : 65,
 				"z" : 12
 			},
-			"seller" : "Vallenius",
+			"seller" : "vemppasalo",
 			"time" : "2019/09/12",
 			"type" : "sell",
 			"volume" : 107.5,
@@ -1579,14 +1579,14 @@
 		},
 		{
 			"amount" : 99,
-			"buyer" : "illdeletethis",
+			"buyer" : "Vallenius",
 			"location" : 
 			{
 				"x" : -177,
 				"y" : 66,
 				"z" : 12
 			},
-			"seller" : "Vallenius",
+			"seller" : "illdeletethis",
 			"time" : "2019/12/01",
 			"type" : "sell",
 			"volume" : 198,
@@ -1669,14 +1669,14 @@
 		},
 		{
 			"amount" : 10,
-			"buyer" : "illdeletethis",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : -102,
 				"y" : 6,
 				"z" : -8
 			},
-			"seller" : "K9us",
+			"seller" : "illdeletethis",
 			"time" : "2020/02/04",
 			"type" : "sell",
 			"volume" : 1,
@@ -1684,14 +1684,14 @@
 		},
 		{
 			"amount" : 6,
-			"buyer" : "illdeletethis",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : -102,
 				"y" : 6,
 				"z" : -8
 			},
-			"seller" : "K9us",
+			"seller" : "illdeletethis",
 			"time" : "2020/02/06",
 			"type" : "sell",
 			"volume" : 0.59999999999999998,

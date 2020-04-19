@@ -124,14 +124,14 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "Alexwirgin",
+			"buyer" : "Captain_Handsome",
 			"location" : 
 			{
 				"x" : 22,
 				"y" : 70,
 				"z" : -46
 			},
-			"seller" : "Captain_Handsome",
+			"seller" : "Alexwirgin",
 			"time" : "2018/11/16",
 			"type" : "sell",
 			"volume" : 0.02,
@@ -139,14 +139,14 @@
 		},
 		{
 			"amount" : 43,
-			"buyer" : "MiChupacabaras",
+			"buyer" : "Captain_Handsome",
 			"location" : 
 			{
 				"x" : 22,
 				"y" : 70,
 				"z" : -46
 			},
-			"seller" : "Captain_Handsome",
+			"seller" : "MiChupacabaras",
 			"time" : "2018/11/17",
 			"type" : "sell",
 			"volume" : 0.67000000000000004,
@@ -154,14 +154,14 @@
 		},
 		{
 			"amount" : 96,
-			"buyer" : "MiChupacabaras",
+			"buyer" : "Captain_Handsome",
 			"location" : 
 			{
 				"x" : 22,
 				"y" : 70,
 				"z" : -46
 			},
-			"seller" : "Captain_Handsome",
+			"seller" : "MiChupacabaras",
 			"time" : "2018/11/26",
 			"type" : "sell",
 			"volume" : 1.5,
@@ -229,14 +229,14 @@
 		},
 		{
 			"amount" : 622,
-			"buyer" : "_Adieu",
+			"buyer" : "DoubleAeA",
 			"location" : 
 			{
 				"x" : 1045,
 				"y" : 81,
 				"z" : -2782
 			},
-			"seller" : "DoubleAeA",
+			"seller" : "_Adieu",
 			"time" : "2020/03/27",
 			"type" : "sell",
 			"volume" : 97.189999999999998,

@@ -19,14 +19,14 @@
 		},
 		{
 			"amount" : 17,
-			"buyer" : "K9us",
+			"buyer" : "sharonclaws",
 			"location" : 
 			{
 				"x" : -5,
 				"y" : 58,
 				"z" : 7
 			},
-			"seller" : "sharonclaws",
+			"seller" : "K9us",
 			"time" : "2018/11/27",
 			"type" : "sell",
 			"volume" : 23800,
@@ -34,14 +34,14 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "Remixster",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 33,
 				"y" : 63,
 				"z" : -50
 			},
-			"seller" : "K9us",
+			"seller" : "Remixster",
 			"time" : "2018/12/15",
 			"type" : "sell",
 			"volume" : 1400,

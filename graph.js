@@ -74,18 +74,29 @@ xhr.onreadystatechange = function() {
       {
         sell_volumes[sell_volumes.length - 1][1] += volume;
         sell_amounts[sell_amounts.length - 1][1] += amount;
-        sell_price_ranges[sell_price_ranges.length - 1][1] = math.min(sell_price_ranges[sell_price_ranges.length - 1][1], volume/amount);
-        sell_price_ranges[sell_price_ranges.length - 1][2] = math.max(sell_price_ranges[sell_price_ranges.length - 1][2], volume/amount);
+        sell_price_ranges[sell_price_ranges.length - 1][1] = Math.min(sell_price_ranges[sell_price_ranges.length - 1][1], volume/amount);
+        sell_price_ranges[sell_price_ranges.length - 1][2] = Math.max(sell_price_ranges[sell_price_ranges.length - 1][2], volume/amount);
       }
     }
   }
+  console.log(buy_volumes);
+  console.log(buy_amounts);
+  console.log(buy_price_ranges);
+  console.log(sell_volumes);
+  console.log(sell_amounts);
+  console.log(sell_price_ranges);
   let buy_prices = [];
   let sell_prices = [];
   for (let i = 0; i < buy_amounts.length; i++)
   {
     buy_prices.push([buy_amounts[i][0], buy_volumes[i][1]/buy_amounts[i][1]]);
+  }
+  for (let i = 0; i < sell_amounts.length; i++)
+  {
     sell_prices.push([sell_amounts[i][0], sell_volumes[i][1]/sell_amounts[i][1]]);
   }
+  console.log(buy_prices);
+  console.log(sell_prices);
 
 
   Highcharts.chart('container', {
@@ -124,7 +135,7 @@ xhr.onreadystatechange = function() {
         opposite: true
       }],
     tooltip: {
-        shared: true
+      shared: true
     },
     series: [{
       name: 'buy volume',
@@ -143,6 +154,23 @@ xhr.onreadystatechange = function() {
         valueSuffix: ' $'
       },
     },
+      {
+        name: 'sell volume',
+        type: 'column',
+        data: sell_volumes,
+        yAxis: 1,
+        zIndex: 0,
+        tooltip: {
+          crosshairs: false,
+          shared: true,
+          dateTimeLabelFormats: {
+            year: "%Y",
+            month: "",
+            day: ""
+          },
+          valueSuffix: ' $'
+        },
+      },
       {
         name: 'buy price',
         data: buy_prices,
@@ -163,36 +191,6 @@ xhr.onreadystatechange = function() {
         marker: {
           enabled: false
         }
-      },
-    {
-        name: 'buy range',
-        data: buy_price_ranges,
-        type: 'arearange',
-        lineWidth: 0,
-        linkedTo: ':previous',
-        color: Highcharts.getOptions().colors[2],
-        fillOpacity: 0.3,
-        zIndex: 0,
-        marker: {
-            enabled: false
-        }
-    },
-      {
-        name: 'sell volume',
-        type: 'column',
-        data: sell_volumes,
-        yAxis: 1,
-        zIndex: 0,
-        tooltip: {
-          crosshairs: false,
-          shared: true,
-          dateTimeLabelFormats: {
-            year: "%Y",
-            month: "",
-            day: ""
-          },
-          valueSuffix: ' $'
-        },
       },
       {
         name: 'sell price',
@@ -216,13 +214,26 @@ xhr.onreadystatechange = function() {
         }
       },
       {
+        name: 'buy range',
+        data: buy_price_ranges,
+        type: 'arearange',
+        lineWidth: 0,
+        linkedTo: ':previous',
+        color: Highcharts.getOptions().colors[2],
+        fillOpacity: 0.2,
+        zIndex: 0,
+        marker: {
+          enabled: false
+        }
+      },
+      {
         name: 'sell range',
         data: sell_price_ranges,
         type: 'arearange',
         lineWidth: 0,
         linkedTo: ':previous',
         color: Highcharts.getOptions().colors[5],
-        fillOpacity: 0.3,
+        fillOpacity: 0.2,
         zIndex: 0,
         marker: {
           enabled: false

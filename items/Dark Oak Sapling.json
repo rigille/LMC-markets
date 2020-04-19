@@ -49,14 +49,14 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "__Tilt",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -130,
 				"y" : 63,
 				"z" : -30
 			},
-			"seller" : "Haksndot",
+			"seller" : "__Tilt",
 			"time" : "2019/01/13",
 			"type" : "sell",
 			"volume" : 90,
@@ -79,14 +79,14 @@
 		},
 		{
 			"amount" : 2,
-			"buyer" : "Aewheros",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -130,
 				"y" : 63,
 				"z" : -30
 			},
-			"seller" : "Haksndot",
+			"seller" : "Aewheros",
 			"time" : "2019/01/27",
 			"type" : "sell",
 			"volume" : 180,
@@ -94,14 +94,14 @@
 		},
 		{
 			"amount" : 11,
-			"buyer" : "Aewheros",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -130,
 				"y" : 63,
 				"z" : -30
 			},
-			"seller" : "Haksndot",
+			"seller" : "Aewheros",
 			"time" : "2019/02/01",
 			"type" : "sell",
 			"volume" : 990,
@@ -124,14 +124,14 @@
 		},
 		{
 			"amount" : 3,
-			"buyer" : "Jupiter_Romulus",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -130,
 				"y" : 63,
 				"z" : -30
 			},
-			"seller" : "Haksndot",
+			"seller" : "Jupiter_Romulus",
 			"time" : "2019/02/14",
 			"type" : "sell",
 			"volume" : 270,
@@ -139,14 +139,14 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "Aewheros",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -130,
 				"y" : 63,
 				"z" : -30
 			},
-			"seller" : "Haksndot",
+			"seller" : "Aewheros",
 			"time" : "2019/02/24",
 			"type" : "sell",
 			"volume" : 90,
@@ -199,14 +199,14 @@
 		},
 		{
 			"amount" : 11,
-			"buyer" : "Cesium_Knight",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 57,
 				"y" : 62,
 				"z" : -42
 			},
-			"seller" : "K9us",
+			"seller" : "Cesium_Knight",
 			"time" : "2019/03/31",
 			"type" : "sell",
 			"volume" : 1760,
@@ -214,14 +214,14 @@
 		},
 		{
 			"amount" : 3,
-			"buyer" : "AshGreninja2579",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 57,
 				"y" : 62,
 				"z" : -42
 			},
-			"seller" : "K9us",
+			"seller" : "AshGreninja2579",
 			"time" : "2019/05/01",
 			"type" : "sell",
 			"volume" : 480,
@@ -259,14 +259,14 @@
 		},
 		{
 			"amount" : 8,
-			"buyer" : "ODPetrus",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -130,
 				"y" : 63,
 				"z" : -30
 			},
-			"seller" : "Haksndot",
+			"seller" : "ODPetrus",
 			"time" : "2019/05/05",
 			"type" : "sell",
 			"volume" : 720,
@@ -274,14 +274,14 @@
 		},
 		{
 			"amount" : 7,
-			"buyer" : "ODPetrus",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -130,
 				"y" : 63,
 				"z" : -30
 			},
-			"seller" : "Haksndot",
+			"seller" : "ODPetrus",
 			"time" : "2019/05/06",
 			"type" : "sell",
 			"volume" : 630,
@@ -289,14 +289,14 @@
 		},
 		{
 			"amount" : 11,
-			"buyer" : "ersi",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 57,
 				"y" : 62,
 				"z" : -42
 			},
-			"seller" : "K9us",
+			"seller" : "ersi",
 			"time" : "2019/07/02",
 			"type" : "sell",
 			"volume" : 3300,
@@ -394,14 +394,14 @@
 		},
 		{
 			"amount" : 7,
-			"buyer" : "Stormrunners",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 57,
 				"y" : 62,
 				"z" : -42
 			},
-			"seller" : "K9us",
+			"seller" : "Stormrunners",
 			"time" : "2019/07/20",
 			"type" : "sell",
 			"volume" : 2100,
@@ -409,14 +409,14 @@
 		},
 		{
 			"amount" : 22,
-			"buyer" : "Stormrunners",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 57,
 				"y" : 62,
 				"z" : -42
 			},
-			"seller" : "K9us",
+			"seller" : "Stormrunners",
 			"time" : "2019/07/24",
 			"type" : "sell",
 			"volume" : 6600,
@@ -499,14 +499,14 @@
 		},
 		{
 			"amount" : 17,
-			"buyer" : "illdeletethis",
+			"buyer" : "K9us",
 			"location" : 
 			{
 				"x" : 57,
 				"y" : 62,
 				"z" : -42
 			},
-			"seller" : "K9us",
+			"seller" : "illdeletethis",
 			"time" : "2019/10/08",
 			"type" : "sell",
 			"volume" : 5100,
@@ -514,14 +514,14 @@
 		},
 		{
 			"amount" : 6,
-			"buyer" : "Minarchu",
+			"buyer" : "Haksndot",
 			"location" : 
 			{
 				"x" : -130,
 				"y" : 63,
 				"z" : -30
 			},
-			"seller" : "Haksndot",
+			"seller" : "Minarchu",
 			"time" : "2020/02/26",
 			"type" : "sell",
 			"volume" : 540,
