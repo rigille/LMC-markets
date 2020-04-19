@@ -13,6 +13,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/01/07",
+			"type" : "buy",
 			"volume" : 7,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/01/09",
+			"type" : "buy",
 			"volume" : 42,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/01/23",
+			"type" : "buy",
 			"volume" : 7,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/02/03",
+			"type" : "buy",
 			"volume" : 448,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/02/23",
+			"type" : "buy",
 			"volume" : 896,
 			"world" : "world"
 		},
@@ -83,6 +88,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/03/13",
+			"type" : "buy",
 			"volume" : 448,
 			"world" : "world"
 		},
@@ -97,6 +103,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/03/21",
+			"type" : "buy",
 			"volume" : 3339,
 			"world" : "world"
 		}

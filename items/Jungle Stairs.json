@@ -3,6 +3,66 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 4,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/14",
+			"type" : "sell",
+			"volume" : 72,
+			"world" : "world"
+		},
+		{
+			"amount" : 3391,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/09",
+			"type" : "sell",
+			"volume" : 61038,
+			"world" : "world"
+		},
+		{
+			"amount" : 3456,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 62,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/09",
+			"type" : "sell",
+			"volume" : 51840,
+			"world" : "world"
+		},
+		{
+			"amount" : 541,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 63,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/09",
+			"type" : "sell",
+			"volume" : 5951,
+			"world" : "world"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,7 +73,68 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 63,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/20",
+			"type" : "sell",
+			"volume" : 54,
+			"world" : "world"
+		},
+		{
+			"amount" : 77,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 63,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/20",
+			"type" : "sell",
+			"volume" : 847,
+			"world" : "world"
+		},
+		{
+			"amount" : 52,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 63,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/08",
+			"type" : "sell",
+			"volume" : 572,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 63,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 44,
 			"world" : "world"
 		}
 	]

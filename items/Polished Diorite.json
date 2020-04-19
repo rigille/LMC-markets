@@ -13,7 +13,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/14",
+			"type" : "buy",
 			"volume" : 492.80000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/14",
+			"type" : "sell",
+			"volume" : 34,
 			"world" : "world"
 		},
 		{
@@ -27,7 +43,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/22",
+			"type" : "buy",
 			"volume" : 6828.1200000000008,
+			"world" : "world"
+		},
+		{
+			"amount" : 45,
+			"buyer" : "Remixster",
+			"location" : 
+			{
+				"x" : 103,
+				"y" : 88,
+				"z" : -13
+			},
+			"seller" : "frozenhammerz",
+			"time" : "2018/09/25",
+			"type" : "sell",
+			"volume" : 35.159999999999997,
+			"world" : "world"
+		},
+		{
+			"amount" : 182,
+			"buyer" : "PizzaJon",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/06",
+			"type" : "sell",
+			"volume" : 291.20000000000005,
 			"world" : "world"
 		},
 		{
@@ -41,6 +88,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/08",
+			"type" : "buy",
 			"volume" : 1228.8,
 			"world" : "world"
 		},
@@ -55,7 +103,68 @@
 			},
 			"seller" : "frozenhammerz",
 			"time" : "2018/10/11",
+			"type" : "buy",
 			"volume" : 593.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 104,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/11",
+			"type" : "sell",
+			"volume" : 166.40000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/15",
+			"type" : "sell",
+			"volume" : 3.2000000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 153,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/17",
+			"type" : "sell",
+			"volume" : 244.80000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 332,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/24",
+			"type" : "sell",
+			"volume" : 531.20000000000005,
 			"world" : "world"
 		},
 		{
@@ -69,7 +178,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/08",
+			"type" : "buy",
 			"volume" : 32,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/12",
+			"type" : "sell",
+			"volume" : 32,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/17",
+			"type" : "sell",
+			"volume" : 102.40000000000001,
 			"world" : "world"
 		},
 		{
@@ -83,7 +223,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/01/01",
+			"type" : "buy",
 			"volume" : 204.80000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Downhilldriver",
+			"location" : 
+			{
+				"x" : 52,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/01",
+			"type" : "sell",
+			"volume" : 102.40000000000001,
 			"world" : "world"
 		},
 		{
@@ -97,6 +253,7 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/06/06",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
 		},
@@ -111,6 +268,7 @@
 			},
 			"seller" : "Colonel_Ruff",
 			"time" : "2020/02/17",
+			"type" : "buy",
 			"volume" : 2160,
 			"world" : "world"
 		}

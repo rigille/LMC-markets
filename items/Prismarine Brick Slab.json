@@ -13,7 +13,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/11/02",
+			"type" : "buy",
 			"volume" : 9,
+			"world" : "world"
+		},
+		{
+			"amount" : 1484,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 17,
+				"y" : 64,
+				"z" : -76
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/28",
+			"type" : "sell",
+			"volume" : 3339,
 			"world" : "world"
 		}
 	]

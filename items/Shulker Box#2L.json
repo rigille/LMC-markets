@@ -3,7 +3,7 @@
 	"transactions" : 
 	[
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "LightsChaos",
 			"location" : 
 			{
@@ -13,7 +13,8 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/16",
-			"volume" : 2,
+			"type" : "buy",
+			"volume" : 1,
 			"world" : "world_nether"
 		},
 		{
@@ -27,6 +28,67 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/16",
+			"type" : "sell",
+			"volume" : 1,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "LightsChaos",
+			"location" : 
+			{
+				"x" : -25,
+				"y" : 114,
+				"z" : -21
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/16",
+			"type" : "buy",
+			"volume" : 1,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "LightsChaos",
+			"location" : 
+			{
+				"x" : -25,
+				"y" : 113,
+				"z" : -21
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/16",
+			"type" : "buy",
+			"volume" : 1,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "LightsChaos",
+			"location" : 
+			{
+				"x" : -25,
+				"y" : 114,
+				"z" : -21
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/16",
+			"type" : "sell",
+			"volume" : 1,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "LightsChaos",
+			"location" : 
+			{
+				"x" : -25,
+				"y" : 113,
+				"z" : -21
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/16",
+			"type" : "sell",
 			"volume" : 1,
 			"world" : "world_nether"
 		}

@@ -13,6 +13,7 @@
 			},
 			"seller" : "Dragonslair7",
 			"time" : "2018/10/14",
+			"type" : "buy",
 			"volume" : 534,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Dragonslair7",
 			"time" : "2018/10/15",
+			"type" : "buy",
 			"volume" : 2053.2999999999997,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/18",
+			"type" : "buy",
 			"volume" : 4608,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/28",
+			"type" : "buy",
 			"volume" : 26112,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/14",
+			"type" : "buy",
 			"volume" : 3096,
 			"world" : "world"
 		},
@@ -83,6 +88,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/15",
+			"type" : "buy",
 			"volume" : 6144,
 			"world" : "world"
 		},
@@ -97,6 +103,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/16",
+			"type" : "buy",
 			"volume" : 18432,
 			"world" : "world"
 		},
@@ -111,11 +118,12 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/14",
+			"type" : "buy",
 			"volume" : 8448,
 			"world" : "world"
 		},
 		{
-			"amount" : 770,
+			"amount" : 642,
 			"buyer" : "kuraudosukei",
 			"location" : 
 			{
@@ -125,7 +133,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/14",
-			"volume" : 23100,
+			"type" : "buy",
+			"volume" : 19260,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : -1877,
+				"y" : 19,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/14",
+			"type" : "sell",
+			"volume" : 54,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : -1877,
+				"y" : 19,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/14",
+			"type" : "buy",
+			"volume" : 3840,
 			"world" : "world"
 		},
 		{
@@ -139,6 +178,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2020/03/03",
+			"type" : "buy",
 			"volume" : 25,
 			"world" : "world"
 		},
@@ -153,6 +193,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2020/03/06",
+			"type" : "buy",
 			"volume" : 27,
 			"world" : "world"
 		},
@@ -167,6 +208,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2020/03/12",
+			"type" : "buy",
 			"volume" : 53,
 			"world" : "world"
 		}

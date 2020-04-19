@@ -13,6 +13,7 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/01",
+			"type" : "buy",
 			"volume" : 20000,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/10/25",
+			"type" : "buy",
 			"volume" : 1250000,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/12/03",
+			"type" : "buy",
 			"volume" : 3800000,
 			"world" : "world_the_end"
 		}

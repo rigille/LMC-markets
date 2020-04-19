@@ -4,6 +4,21 @@
 	[
 		{
 			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/23",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
 			"buyer" : "DIOSWILSON",
 			"location" : 
 			{
@@ -13,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/03",
+			"type" : "buy",
 			"volume" : 900,
 			"world" : "world"
 		},
@@ -27,7 +43,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/10",
+			"type" : "buy",
 			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/19",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/23",
+			"type" : "sell",
+			"volume" : 800,
 			"world" : "world"
 		},
 		{
@@ -41,7 +88,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/27",
+			"type" : "buy",
 			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/08",
+			"type" : "sell",
+			"volume" : 800,
 			"world" : "world"
 		},
 		{
@@ -55,7 +118,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/21",
+			"type" : "buy",
 			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/13",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "bwes",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 63,
+				"z" : -59
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/07",
+			"type" : "sell",
+			"volume" : 2400,
 			"world" : "world"
 		}
 	]

@@ -13,7 +13,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/10/24",
+			"type" : "buy",
 			"volume" : 525,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/10/24",
+			"type" : "sell",
+			"volume" : 50,
 			"world" : "world"
 		},
 		{
@@ -27,6 +43,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/10/24",
+			"type" : "buy",
 			"volume" : 1020,
 			"world" : "world"
 		},
@@ -41,6 +58,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/10/27",
+			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world"
 		},
@@ -55,6 +73,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/10/30",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -69,6 +88,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/11/03",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -83,6 +103,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/03",
+			"type" : "buy",
 			"volume" : 3900,
 			"world" : "world"
 		},
@@ -97,6 +118,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/04",
+			"type" : "buy",
 			"volume" : 2880,
 			"world" : "world"
 		},
@@ -111,6 +133,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/05",
+			"type" : "buy",
 			"volume" : 3600,
 			"world" : "world"
 		},
@@ -125,6 +148,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/06",
+			"type" : "buy",
 			"volume" : 4860,
 			"world" : "world"
 		},
@@ -139,6 +163,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/07",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -153,6 +178,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/07",
+			"type" : "buy",
 			"volume" : 1800,
 			"world" : "world"
 		},
@@ -167,6 +193,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/07",
+			"type" : "buy",
 			"volume" : 3840,
 			"world" : "world"
 		},
@@ -181,6 +208,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/07",
+			"type" : "buy",
 			"volume" : 840,
 			"world" : "world"
 		},
@@ -195,6 +223,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/11/09",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -209,6 +238,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/10",
+			"type" : "buy",
 			"volume" : 2025,
 			"world" : "world"
 		},
@@ -223,6 +253,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/10",
+			"type" : "buy",
 			"volume" : 16395,
 			"world" : "world"
 		},
@@ -237,6 +268,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/10",
+			"type" : "buy",
 			"volume" : 120,
 			"world" : "world"
 		},
@@ -251,6 +283,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/10",
+			"type" : "buy",
 			"volume" : 2160,
 			"world" : "world"
 		},
@@ -265,6 +298,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/11",
+			"type" : "buy",
 			"volume" : 120,
 			"world" : "world"
 		},
@@ -279,6 +313,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/11/11",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -293,6 +328,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/11/12",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -307,6 +343,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/13",
+			"type" : "buy",
 			"volume" : 4740,
 			"world" : "world"
 		},
@@ -321,6 +358,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/13",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -335,6 +373,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/14",
+			"type" : "buy",
 			"volume" : 1320,
 			"world" : "world"
 		},
@@ -349,6 +388,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/11/14",
+			"type" : "buy",
 			"volume" : 4000,
 			"world" : "world"
 		},
@@ -363,7 +403,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/15",
+			"type" : "buy",
 			"volume" : 60,
+			"world" : "world"
+		},
+		{
+			"amount" : 367,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/15",
+			"type" : "sell",
+			"volume" : 4587.5,
 			"world" : "world"
 		},
 		{
@@ -377,6 +433,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/16",
+			"type" : "buy",
 			"volume" : 2700,
 			"world" : "world"
 		},
@@ -391,6 +448,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/17",
+			"type" : "buy",
 			"volume" : 1200,
 			"world" : "world"
 		},
@@ -405,6 +463,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/17",
+			"type" : "buy",
 			"volume" : 14430,
 			"world" : "world"
 		},
@@ -419,6 +478,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/17",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
@@ -433,7 +493,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/19",
+			"type" : "buy",
 			"volume" : 7680,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/19",
+			"type" : "sell",
+			"volume" : 4800,
 			"world" : "world"
 		},
 		{
@@ -447,6 +523,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/11/21",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -461,6 +538,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/21",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -475,6 +553,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/11/23",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -489,6 +568,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/11/24",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -503,6 +583,7 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/11/24",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -517,6 +598,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/26",
+			"type" : "buy",
 			"volume" : 2025,
 			"world" : "world"
 		},
@@ -531,6 +613,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/27",
+			"type" : "buy",
 			"volume" : 1260,
 			"world" : "world"
 		},
@@ -545,7 +628,23 @@
 			},
 			"seller" : "Baskerboss",
 			"time" : "2018/11/28",
+			"type" : "buy",
 			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "TheEzieDawg",
+			"location" : 
+			{
+				"x" : 11,
+				"y" : 59,
+				"z" : 14
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/28",
+			"type" : "sell",
+			"volume" : 700,
 			"world" : "world"
 		},
 		{
@@ -559,6 +658,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/30",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -573,6 +673,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/01",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -587,6 +688,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/03",
+			"type" : "buy",
 			"volume" : 585,
 			"world" : "world"
 		},
@@ -601,6 +703,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/05",
+			"type" : "buy",
 			"volume" : 6800,
 			"world" : "world"
 		},
@@ -615,6 +718,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/07",
+			"type" : "buy",
 			"volume" : 840,
 			"world" : "world"
 		},
@@ -629,6 +733,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/08",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -643,6 +748,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/08",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -657,6 +763,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/09",
+			"type" : "buy",
 			"volume" : 1020,
 			"world" : "world"
 		},
@@ -671,6 +778,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/10",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -685,6 +793,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/10",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -699,6 +808,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/11",
+			"type" : "buy",
 			"volume" : 2880,
 			"world" : "world"
 		},
@@ -713,6 +823,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/11",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -727,6 +838,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/12",
+			"type" : "buy",
 			"volume" : 4250,
 			"world" : "world"
 		},
@@ -741,6 +853,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/12",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -755,6 +868,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/12",
+			"type" : "buy",
 			"volume" : 3400,
 			"world" : "world"
 		},
@@ -769,6 +883,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/14",
+			"type" : "buy",
 			"volume" : 2880,
 			"world" : "world"
 		},
@@ -783,7 +898,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/14",
+			"type" : "buy",
 			"volume" : 1020,
+			"world" : "world"
+		},
+		{
+			"amount" : 189,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 11,
+				"y" : 59,
+				"z" : 14
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/12/14",
+			"type" : "sell",
+			"volume" : 2067.1900000000001,
 			"world" : "world"
 		},
 		{
@@ -797,6 +928,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/16",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -811,6 +943,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/16",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
@@ -825,7 +958,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/17",
+			"type" : "buy",
 			"volume" : 850,
+			"world" : "world"
+		},
+		{
+			"amount" : 1411,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/12/21",
+			"type" : "sell",
+			"volume" : 17637.5,
 			"world" : "world"
 		},
 		{
@@ -839,7 +988,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/21",
+			"type" : "buy",
 			"volume" : 850,
+			"world" : "world"
+		},
+		{
+			"amount" : 1747,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 11,
+				"y" : 59,
+				"z" : 14
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/12/23",
+			"type" : "sell",
+			"volume" : 19107.810000000001,
 			"world" : "world"
 		},
 		{
@@ -853,6 +1018,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/23",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
@@ -867,7 +1033,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/24",
+			"type" : "buy",
 			"volume" : 850,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 11,
+				"y" : 59,
+				"z" : 14
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/12/24",
+			"type" : "sell",
+			"volume" : 1400,
 			"world" : "world"
 		},
 		{
@@ -881,6 +1063,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/24",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -895,6 +1078,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/25",
+			"type" : "buy",
 			"volume" : 3400,
 			"world" : "world"
 		},
@@ -909,6 +1093,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/25",
+			"type" : "buy",
 			"volume" : 1500.78,
 			"world" : "world"
 		},
@@ -923,6 +1108,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/25",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -937,6 +1123,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/25",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
@@ -951,7 +1138,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/25",
+			"type" : "buy",
 			"volume" : 2550,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 11,
+				"y" : 59,
+				"z" : 14
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/12/26",
+			"type" : "sell",
+			"volume" : 700,
 			"world" : "world"
 		},
 		{
@@ -965,6 +1168,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/26",
+			"type" : "buy",
 			"volume" : 4250,
 			"world" : "world"
 		},
@@ -979,6 +1183,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/28",
+			"type" : "buy",
 			"volume" : 1080,
 			"world" : "world"
 		},
@@ -993,6 +1198,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/29",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -1007,6 +1213,7 @@
 			},
 			"seller" : "FatherTime__",
 			"time" : "2019/01/02",
+			"type" : "buy",
 			"volume" : 800,
 			"world" : "world_the_end"
 		},
@@ -1021,6 +1228,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/02",
+			"type" : "buy",
 			"volume" : 2880,
 			"world" : "world"
 		},
@@ -1035,6 +1243,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/04",
+			"type" : "buy",
 			"volume" : 2880,
 			"world" : "world"
 		},
@@ -1049,7 +1258,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/07",
+			"type" : "buy",
 			"volume" : 2880,
+			"world" : "world"
+		},
+		{
+			"amount" : 240,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/01/07",
+			"type" : "sell",
+			"volume" : 3000,
 			"world" : "world"
 		},
 		{
@@ -1063,6 +1288,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/08",
+			"type" : "buy",
 			"volume" : 3840,
 			"world" : "world"
 		},
@@ -1077,6 +1303,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/08",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -1091,6 +1318,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/09",
+			"type" : "buy",
 			"volume" : 4250,
 			"world" : "world"
 		},
@@ -1105,6 +1333,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/09",
+			"type" : "buy",
 			"volume" : 240,
 			"world" : "world"
 		},
@@ -1119,6 +1348,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/09",
+			"type" : "buy",
 			"volume" : 4250,
 			"world" : "world"
 		},
@@ -1133,6 +1363,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/10",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -1147,6 +1378,7 @@
 			},
 			"seller" : "FatherTime__",
 			"time" : "2019/01/11",
+			"type" : "buy",
 			"volume" : 800,
 			"world" : "world_the_end"
 		},
@@ -1161,6 +1393,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/11",
+			"type" : "buy",
 			"volume" : 4250,
 			"world" : "world"
 		},
@@ -1175,6 +1408,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/12",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
@@ -1189,6 +1423,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/12",
+			"type" : "buy",
 			"volume" : 4250,
 			"world" : "world"
 		},
@@ -1203,6 +1438,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/14",
+			"type" : "buy",
 			"volume" : 3400,
 			"world" : "world"
 		},
@@ -1217,6 +1453,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/15",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -1231,6 +1468,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/17",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -1245,6 +1483,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/18",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -1259,6 +1498,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/24",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
@@ -1273,6 +1513,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/26",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -1287,6 +1528,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/26",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -1301,6 +1543,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/27",
+			"type" : "buy",
 			"volume" : 10380,
 			"world" : "world"
 		},
@@ -1315,6 +1558,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/30",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -1329,11 +1573,12 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/31",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
 		{
-			"amount" : 576,
+			"amount" : 256,
 			"buyer" : "P1st0n",
 			"location" : 
 			{
@@ -1343,7 +1588,38 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/31",
-			"volume" : 7650,
+			"type" : "buy",
+			"volume" : 3400,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "P1st0n",
+			"location" : 
+			{
+				"x" : 11,
+				"y" : 59,
+				"z" : 14
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/01/31",
+			"type" : "sell",
+			"volume" : 700,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "P1st0n",
+			"location" : 
+			{
+				"x" : 11,
+				"y" : 59,
+				"z" : 14
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/01/31",
+			"type" : "buy",
+			"volume" : 4250,
 			"world" : "world"
 		},
 		{
@@ -1357,6 +1633,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/01",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
@@ -1371,6 +1648,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/02",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
@@ -1385,6 +1663,7 @@
 			},
 			"seller" : "NorraLigan",
 			"time" : "2019/02/02",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -1399,6 +1678,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/03",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
@@ -1413,6 +1693,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/04",
+			"type" : "buy",
 			"volume" : 2550,
 			"world" : "world"
 		},
@@ -1427,6 +1708,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/05",
+			"type" : "buy",
 			"volume" : 2940,
 			"world" : "world"
 		},
@@ -1441,6 +1723,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/05",
+			"type" : "buy",
 			"volume" : 2550,
 			"world" : "world"
 		},
@@ -1455,6 +1738,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/06",
+			"type" : "buy",
 			"volume" : 15392.969999999999,
 			"world" : "world"
 		},
@@ -1469,6 +1753,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/08",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -1483,6 +1768,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/08",
+			"type" : "buy",
 			"volume" : 5100,
 			"world" : "world"
 		},
@@ -1497,7 +1783,38 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/09",
+			"type" : "buy",
 			"volume" : 1920,
+			"world" : "world"
+		},
+		{
+			"amount" : 389,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 59,
+				"z" : 17
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/09",
+			"type" : "sell",
+			"volume" : 4254.6900000000005,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/09",
+			"type" : "sell",
+			"volume" : 3200,
 			"world" : "world"
 		},
 		{
@@ -1511,6 +1828,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/09",
+			"type" : "buy",
 			"volume" : 3840,
 			"world" : "world"
 		},
@@ -1525,6 +1843,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/09",
+			"type" : "buy",
 			"volume" : 4250,
 			"world" : "world"
 		},
@@ -1539,6 +1858,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/11",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -1553,6 +1873,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/15",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
@@ -1567,7 +1888,38 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/15",
+			"type" : "buy",
 			"volume" : 850,
+			"world" : "world"
+		},
+		{
+			"amount" : 565,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 59,
+				"z" : 17
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/16",
+			"type" : "sell",
+			"volume" : 6179.6900000000005,
+			"world" : "world"
+		},
+		{
+			"amount" : 520,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/16",
+			"type" : "sell",
+			"volume" : 6500,
 			"world" : "world"
 		},
 		{
@@ -1581,6 +1933,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/17",
+			"type" : "buy",
 			"volume" : 1700,
 			"world" : "world"
 		},
@@ -1595,6 +1948,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/17",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -1609,6 +1963,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/17",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
@@ -1623,7 +1978,38 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/19",
+			"type" : "buy",
 			"volume" : 1700,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/20",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 704,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 59,
+				"z" : 17
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/20",
+			"type" : "sell",
+			"volume" : 7700,
 			"world" : "world"
 		},
 		{
@@ -1637,6 +2023,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/21",
+			"type" : "buy",
 			"volume" : 15420,
 			"world" : "world"
 		},
@@ -1651,6 +2038,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/21",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
@@ -1665,6 +2053,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/22",
+			"type" : "buy",
 			"volume" : 5950,
 			"world" : "world"
 		},
@@ -1679,7 +2068,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/23",
+			"type" : "buy",
 			"volume" : 850,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 59,
+				"z" : 17
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/23",
+			"type" : "sell",
+			"volume" : 700,
 			"world" : "world"
 		},
 		{
@@ -1693,6 +2098,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/23",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		},
@@ -1707,6 +2113,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/24",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
@@ -1721,7 +2128,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/24",
+			"type" : "buy",
 			"volume" : 850,
+			"world" : "world"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "Umby99",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/24",
+			"type" : "sell",
+			"volume" : 237.5,
 			"world" : "world"
 		},
 		{
@@ -1735,7 +2158,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/24",
+			"type" : "buy",
 			"volume" : 2880,
+			"world" : "world"
+		},
+		{
+			"amount" : 49,
+			"buyer" : "Umby99",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/24",
+			"type" : "sell",
+			"volume" : 612.5,
 			"world" : "world"
 		},
 		{
@@ -1749,6 +2188,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/24",
+			"type" : "buy",
 			"volume" : 2046,
 			"world" : "world"
 		},
@@ -1763,7 +2203,38 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/24",
+			"type" : "buy",
 			"volume" : 850,
+			"world" : "world"
+		},
+		{
+			"amount" : 140,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 59,
+				"z" : 17
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/27",
+			"type" : "sell",
+			"volume" : 1531.25,
+			"world" : "world"
+		},
+		{
+			"amount" : 275,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/27",
+			"type" : "sell",
+			"volume" : 3850,
 			"world" : "world"
 		},
 		{
@@ -1777,6 +2248,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/02",
+			"type" : "buy",
 			"volume" : 992,
 			"world" : "world"
 		},
@@ -1791,6 +2263,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/02",
+			"type" : "buy",
 			"volume" : 992,
 			"world" : "world"
 		},
@@ -1805,6 +2278,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/03",
+			"type" : "buy",
 			"volume" : 1984,
 			"world" : "world"
 		},
@@ -1819,6 +2293,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/03/04",
+			"type" : "buy",
 			"volume" : 120,
 			"world" : "world"
 		},
@@ -1833,6 +2308,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/05",
+			"type" : "buy",
 			"volume" : 992,
 			"world" : "world"
 		},
@@ -1847,6 +2323,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/08",
+			"type" : "buy",
 			"volume" : 821.5,
 			"world" : "world"
 		},
@@ -1861,6 +2338,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/10",
+			"type" : "buy",
 			"volume" : 1767,
 			"world" : "world"
 		},
@@ -1875,6 +2353,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/11",
+			"type" : "buy",
 			"volume" : 700,
 			"world" : "world"
 		},
@@ -1889,7 +2368,53 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/12",
+			"type" : "buy",
 			"volume" : 1600,
+			"world" : "world"
+		},
+		{
+			"amount" : 326,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/03/12",
+			"type" : "sell",
+			"volume" : 3616.5599999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 289,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 16
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/03/13",
+			"type" : "sell",
+			"volume" : 3206.0900000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 108,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 59,
+				"z" : 17
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/03/13",
+			"type" : "sell",
+			"volume" : 1012.5,
 			"world" : "world"
 		},
 		{
@@ -1903,6 +2428,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/16",
+			"type" : "buy",
 			"volume" : 800,
 			"world" : "world"
 		},
@@ -1917,6 +2443,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/03/16",
+			"type" : "buy",
 			"volume" : 120,
 			"world" : "world"
 		},
@@ -1931,6 +2458,7 @@
 			},
 			"seller" : "FatherTime__",
 			"time" : "2019/03/16",
+			"type" : "buy",
 			"volume" : 800,
 			"world" : "world_the_end"
 		},
@@ -1945,6 +2473,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/17",
+			"type" : "buy",
 			"volume" : 662.5,
 			"world" : "world"
 		},
@@ -1959,6 +2488,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/03/17",
+			"type" : "buy",
 			"volume" : 120,
 			"world" : "world"
 		},
@@ -1973,6 +2503,7 @@
 			},
 			"seller" : "FatherTime__",
 			"time" : "2019/03/17",
+			"type" : "buy",
 			"volume" : 800,
 			"world" : "world_the_end"
 		},
@@ -1987,6 +2518,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/18",
+			"type" : "buy",
 			"volume" : 4800,
 			"world" : "world"
 		},
@@ -2001,6 +2533,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/18",
+			"type" : "buy",
 			"volume" : 2023.4400000000001,
 			"world" : "world"
 		},
@@ -2015,6 +2548,7 @@
 			},
 			"seller" : "FatherTime__",
 			"time" : "2019/03/18",
+			"type" : "buy",
 			"volume" : 800,
 			"world" : "world_the_end"
 		},
@@ -2029,6 +2563,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/19",
+			"type" : "buy",
 			"volume" : 2100,
 			"world" : "world"
 		},
@@ -2043,6 +2578,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/21",
+			"type" : "buy",
 			"volume" : 2100,
 			"world" : "world"
 		},
@@ -2057,6 +2593,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/22",
+			"type" : "buy",
 			"volume" : 1400,
 			"world" : "world"
 		},
@@ -2071,6 +2608,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/24",
+			"type" : "buy",
 			"volume" : 1600,
 			"world" : "world"
 		},
@@ -2085,6 +2623,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/24",
+			"type" : "buy",
 			"volume" : 1600,
 			"world" : "world"
 		},
@@ -2099,6 +2638,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/25",
+			"type" : "buy",
 			"volume" : 700,
 			"world" : "world"
 		},
@@ -2113,6 +2653,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/27",
+			"type" : "buy",
 			"volume" : 2100,
 			"world" : "world"
 		},
@@ -2127,6 +2668,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/03/28",
+			"type" : "buy",
 			"volume" : 3072,
 			"world" : "world"
 		},
@@ -2141,6 +2683,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/03/28",
+			"type" : "buy",
 			"volume" : 720,
 			"world" : "world"
 		},
@@ -2155,6 +2698,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/03/29",
+			"type" : "buy",
 			"volume" : 2904,
 			"world" : "world"
 		},
@@ -2169,6 +2713,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/29",
+			"type" : "buy",
 			"volume" : 1400,
 			"world" : "world"
 		},
@@ -2183,6 +2728,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/30",
+			"type" : "buy",
 			"volume" : 800,
 			"world" : "world"
 		},
@@ -2197,6 +2743,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/30",
+			"type" : "buy",
 			"volume" : 11746.880000000001,
 			"world" : "world"
 		},
@@ -2211,6 +2758,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/31",
+			"type" : "buy",
 			"volume" : 2100,
 			"world" : "world"
 		},
@@ -2225,6 +2773,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/31",
+			"type" : "buy",
 			"volume" : 1600,
 			"world" : "world"
 		}

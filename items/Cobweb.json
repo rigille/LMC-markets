@@ -13,6 +13,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/21",
+			"type" : "buy",
 			"volume" : 60000,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/12/25",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world_the_end"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/01/12",
+			"type" : "buy",
 			"volume" : 600,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/01/29",
+			"type" : "buy",
 			"volume" : 600,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/17",
+			"type" : "buy",
 			"volume" : 900,
 			"world" : "world"
 		},
@@ -83,7 +88,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/07",
+			"type" : "buy",
 			"volume" : 19200,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 70,
+				"z" : -28
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/07",
+			"type" : "sell",
+			"volume" : 9600,
 			"world" : "world"
 		},
 		{
@@ -97,6 +118,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/22",
+			"type" : "buy",
 			"volume" : 300,
 			"world" : "world"
 		},
@@ -111,6 +133,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/05/02",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world_the_end"
 		},
@@ -125,6 +148,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/06/06",
+			"type" : "buy",
 			"volume" : 9600,
 			"world" : "world_the_end"
 		}

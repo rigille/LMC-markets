@@ -13,6 +13,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/10/07",
+			"type" : "buy",
 			"volume" : 1,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/10/21",
+			"type" : "buy",
 			"volume" : 27,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Captain_Handsome",
 			"time" : "2018/10/24",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Captain_Handsome",
 			"time" : "2018/11/04",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -69,7 +73,38 @@
 			},
 			"seller" : "Captain_Handsome",
 			"time" : "2018/11/08",
+			"type" : "buy",
 			"volume" : 64,
+			"world" : "world"
+		},
+		{
+			"amount" : 1108,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 70,
+				"z" : -44
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/10",
+			"type" : "sell",
+			"volume" : 1038.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 70,
+				"z" : -44
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/17",
+			"type" : "sell",
+			"volume" : 1.8799999999999999,
 			"world" : "world"
 		},
 		{
@@ -83,6 +118,7 @@
 			},
 			"seller" : "Captain_Handsome",
 			"time" : "2018/11/25",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -97,6 +133,7 @@
 			},
 			"seller" : "Captain_Handsome",
 			"time" : "2018/12/20",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -111,6 +148,7 @@
 			},
 			"seller" : "Stormrunners",
 			"time" : "2018/12/22",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -125,6 +163,7 @@
 			},
 			"seller" : "Pancen",
 			"time" : "2020/02/13",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -139,6 +178,7 @@
 			},
 			"seller" : "Pancen",
 			"time" : "2020/02/14",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -153,6 +193,7 @@
 			},
 			"seller" : "DoubleAeA",
 			"time" : "2020/03/24",
+			"type" : "buy",
 			"volume" : 20,
 			"world" : "world"
 		},
@@ -167,6 +208,7 @@
 			},
 			"seller" : "DoubleAeA",
 			"time" : "2020/03/27",
+			"type" : "buy",
 			"volume" : 118.13,
 			"world" : "world"
 		}

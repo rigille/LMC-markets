@@ -13,7 +13,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/21",
+			"type" : "buy",
 			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/04/16",
+			"type" : "sell",
+			"volume" : 300,
 			"world" : "world"
 		},
 		{
@@ -27,7 +43,53 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/04/20",
+			"type" : "buy",
 			"volume" : 350,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/01",
+			"type" : "sell",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/03",
+			"type" : "sell",
+			"volume" : 1600,
+			"world" : "world"
+		},
+		{
+			"amount" : 57,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/03",
+			"type" : "sell",
+			"volume" : 18240,
 			"world" : "world"
 		},
 		{
@@ -41,7 +103,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 2400,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/03",
+			"type" : "sell",
+			"volume" : 3200,
 			"world" : "world"
 		},
 		{
@@ -55,7 +133,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/05/04",
+			"type" : "buy",
 			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/04",
+			"type" : "sell",
+			"volume" : 1600,
 			"world" : "world"
 		},
 		{
@@ -69,7 +163,38 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/05/13",
+			"type" : "buy",
 			"volume" : 51200,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/18",
+			"type" : "sell",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/26",
+			"type" : "sell",
+			"volume" : 1280,
 			"world" : "world"
 		},
 		{
@@ -83,7 +208,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/05/28",
+			"type" : "buy",
 			"volume" : 4800,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/06/01",
+			"type" : "sell",
+			"volume" : 640,
 			"world" : "world"
 		},
 		{
@@ -97,7 +238,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/06/12",
+			"type" : "buy",
 			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/07/31",
+			"type" : "sell",
+			"volume" : 320,
 			"world" : "world"
 		},
 		{
@@ -111,6 +268,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/01/18",
+			"type" : "buy",
 			"volume" : 598,
 			"world" : "world"
 		}

@@ -13,6 +13,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2019/02/13",
+			"type" : "buy",
 			"volume" : 2250,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/07/13",
+			"type" : "buy",
 			"volume" : 2400,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2019/09/01",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -55,7 +58,23 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2019/11/18",
+			"type" : "buy",
 			"volume" : 0.40000000000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : 430,
+				"y" : 80,
+				"z" : 35
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/11/18",
+			"type" : "sell",
+			"volume" : 0.20000000000000001,
 			"world" : "world"
 		},
 		{
@@ -69,7 +88,38 @@
 			},
 			"seller" : "Phantom_Ark",
 			"time" : "2020/02/07",
+			"type" : "buy",
 			"volume" : 3,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : -177,
+				"y" : 65,
+				"z" : 338
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2020/02/07",
+			"type" : "sell",
+			"volume" : 4,
+			"world" : "world"
+		},
+		{
+			"amount" : 48,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : -177,
+				"y" : 65,
+				"z" : 338
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2020/02/08",
+			"type" : "sell",
+			"volume" : 96,
 			"world" : "world"
 		}
 	]

@@ -13,6 +13,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2020/02/15",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2020/02/26",
+			"type" : "buy",
 			"volume" : 600,
 			"world" : "world"
 		},
@@ -41,7 +43,23 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2020/03/16",
+			"type" : "buy",
 			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "Shadows_Strike",
+			"location" : 
+			{
+				"x" : 1411,
+				"y" : 71,
+				"z" : 2300
+			},
+			"seller" : "Spectate_Nate",
+			"time" : "2020/03/28",
+			"type" : "sell",
+			"volume" : 16000,
 			"world" : "world"
 		}
 	]

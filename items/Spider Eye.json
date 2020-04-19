@@ -13,6 +13,7 @@
 			},
 			"seller" : "pudzo",
 			"time" : "2018/10/05",
+			"type" : "buy",
 			"volume" : 16,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "frozenhammerz",
 			"time" : "2018/10/26",
+			"type" : "buy",
 			"volume" : 1,
 			"world" : "world"
 		},
@@ -41,7 +43,23 @@
 			},
 			"seller" : "pudzo",
 			"time" : "2018/12/17",
+			"type" : "buy",
 			"volume" : 160,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : -2493,
+				"y" : 11,
+				"z" : 1254
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/07",
+			"type" : "sell",
+			"volume" : 44,
 			"world" : "world"
 		},
 		{
@@ -55,6 +73,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2019/01/11",
+			"type" : "buy",
 			"volume" : 200,
 			"world" : "world"
 		},
@@ -69,6 +88,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2019/01/22",
+			"type" : "buy",
 			"volume" : 400,
 			"world" : "world"
 		},
@@ -83,6 +103,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/07/13",
+			"type" : "buy",
 			"volume" : 825,
 			"world" : "world"
 		},
@@ -97,6 +118,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2019/08/07",
+			"type" : "buy",
 			"volume" : 5,
 			"world" : "world"
 		},
@@ -111,6 +133,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2020/01/16",
+			"type" : "buy",
 			"volume" : 23,
 			"world" : "world"
 		},
@@ -125,7 +148,53 @@
 			},
 			"seller" : "Phantom_Ark",
 			"time" : "2020/02/06",
+			"type" : "buy",
 			"volume" : 8,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : -179,
+				"y" : 65,
+				"z" : 338
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2020/02/06",
+			"type" : "sell",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : -179,
+				"y" : 65,
+				"z" : 338
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2020/02/07",
+			"type" : "sell",
+			"volume" : 35,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : -179,
+				"y" : 65,
+				"z" : 338
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2020/02/08",
+			"type" : "sell",
+			"volume" : 5,
 			"world" : "world"
 		}
 	]

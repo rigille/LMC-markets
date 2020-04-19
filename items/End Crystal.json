@@ -13,6 +13,7 @@
 			},
 			"seller" : "daboogaoogaman",
 			"time" : "2020/01/22",
+			"type" : "buy",
 			"volume" : 8500,
 			"world" : "world"
 		},
@@ -27,7 +28,23 @@
 			},
 			"seller" : "daboogaoogaman",
 			"time" : "2020/02/27",
+			"type" : "buy",
 			"volume" : 425,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Miss_Animator",
+			"location" : 
+			{
+				"x" : 119,
+				"y" : 67,
+				"z" : 29
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2020/02/27",
+			"type" : "sell",
+			"volume" : 280,
 			"world" : "world"
 		},
 		{
@@ -41,6 +58,7 @@
 			},
 			"seller" : "daboogaoogaman",
 			"time" : "2020/03/12",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
@@ -55,6 +73,7 @@
 			},
 			"seller" : "daboogaoogaman",
 			"time" : "2020/03/13",
+			"type" : "buy",
 			"volume" : 850,
 			"world" : "world"
 		},
@@ -69,6 +88,7 @@
 			},
 			"seller" : "daboogaoogaman",
 			"time" : "2020/03/13",
+			"type" : "buy",
 			"volume" : 425,
 			"world" : "world"
 		}

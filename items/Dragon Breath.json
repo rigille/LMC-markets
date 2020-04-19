@@ -13,11 +13,27 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/08/12",
+			"type" : "buy",
 			"volume" : 500,
 			"world" : "world"
 		},
 		{
-			"amount" : 635,
+			"amount" : 64,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 80,
+				"z" : 79
+			},
+			"seller" : "Lego_UOE",
+			"time" : "2019/10/30",
+			"type" : "sell",
+			"volume" : 12160,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
 			"buyer" : "TheMotherBrayne",
 			"location" : 
 			{
@@ -27,7 +43,113 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2020/03/29",
-			"volume" : 317500,
+			"type" : "buy",
+			"volume" : 500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 362,
+				"y" : 80,
+				"z" : 28
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2020/03/29",
+			"type" : "sell",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 258,
+				"y" : 79,
+				"z" : 157
+			},
+			"seller" : "ezrone",
+			"time" : "2020/03/29",
+			"type" : "buy",
+			"volume" : 64000,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 362,
+				"y" : 80,
+				"z" : 28
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2020/03/29",
+			"type" : "sell",
+			"volume" : 128000,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 258,
+				"y" : 79,
+				"z" : 157
+			},
+			"seller" : "ezrone",
+			"time" : "2020/03/29",
+			"type" : "buy",
+			"volume" : 160000,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 362,
+				"y" : 80,
+				"z" : 28
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2020/03/29",
+			"type" : "sell",
+			"volume" : 320000,
+			"world" : "world"
+		},
+		{
+			"amount" : 186,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 258,
+				"y" : 79,
+				"z" : 157
+			},
+			"seller" : "ezrone",
+			"time" : "2020/03/29",
+			"type" : "buy",
+			"volume" : 93000,
+			"world" : "world"
+		},
+		{
+			"amount" : 186,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 362,
+				"y" : 80,
+				"z" : 28
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2020/03/29",
+			"type" : "sell",
+			"volume" : 186000,
 			"world" : "world"
 		}
 	]

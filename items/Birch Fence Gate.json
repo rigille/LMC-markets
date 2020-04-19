@@ -13,7 +13,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 114,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -75
+			},
+			"seller" : "K9us",
+			"time" : "2020/03/27",
+			"type" : "sell",
+			"volume" : 192,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 62,
+				"z" : -75
+			},
+			"seller" : "K9us",
+			"time" : "2020/03/27",
+			"type" : "sell",
+			"volume" : 25,
 			"world" : "world"
 		}
 	]

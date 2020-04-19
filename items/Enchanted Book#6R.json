@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/11/24",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/02/15",
+			"type" : "buy",
 			"volume" : 5700,
 			"world" : "world"
 		},
@@ -41,6 +43,22 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/03/14",
+			"type" : "buy",
+			"volume" : 1900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -67
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/17",
+			"type" : "sell",
 			"volume" : 1900,
 			"world" : "world"
 		},
@@ -55,6 +73,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/04",
+			"type" : "buy",
 			"volume" : 3800,
 			"world" : "world"
 		},
@@ -69,6 +88,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/23",
+			"type" : "buy",
 			"volume" : 1900,
 			"world" : "world"
 		},
@@ -83,6 +103,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/06/05",
+			"type" : "buy",
 			"volume" : 1900,
 			"world" : "world"
 		},
@@ -97,6 +118,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/06/12",
+			"type" : "buy",
 			"volume" : 1900,
 			"world" : "world"
 		},
@@ -111,6 +133,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/07/13",
+			"type" : "buy",
 			"volume" : 1900,
 			"world" : "world"
 		},
@@ -125,6 +148,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2019/08/14",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world_the_end"
 		},
@@ -139,6 +163,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2020/03/08",
+			"type" : "buy",
 			"volume" : 1900,
 			"world" : "world"
 		},
@@ -153,6 +178,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2020/03/18",
+			"type" : "buy",
 			"volume" : 1900,
 			"world" : "world"
 		}

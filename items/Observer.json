@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/10",
+			"type" : "buy",
 			"volume" : 2046,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/29",
+			"type" : "buy",
 			"volume" : 372,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Minarchu",
 			"time" : "2020/03/03",
+			"type" : "buy",
 			"volume" : 12800,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Minarchu",
 			"time" : "2020/03/10",
+			"type" : "buy",
 			"volume" : 16000,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "Minarchu",
 			"time" : "2020/03/15",
+			"type" : "buy",
 			"volume" : 250,
 			"world" : "world"
 		}

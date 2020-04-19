@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/14",
+			"type" : "buy",
 			"volume" : 96,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/21",
+			"type" : "buy",
 			"volume" : 88,
 			"world" : "world"
 		},
@@ -41,7 +43,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/24",
+			"type" : "buy",
 			"volume" : 134.40000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Remixster",
+			"location" : 
+			{
+				"x" : 106,
+				"y" : 88,
+				"z" : -13
+			},
+			"seller" : "frozenhammerz",
+			"time" : "2018/09/25",
+			"type" : "sell",
+			"volume" : 6.25,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Rehns",
+			"location" : 
+			{
+				"x" : 51,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/26",
+			"type" : "sell",
+			"volume" : 1.2,
 			"world" : "world"
 		},
 		{
@@ -55,7 +88,53 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/26",
+			"type" : "buy",
 			"volume" : 160,
+			"world" : "world"
+		},
+		{
+			"amount" : 184,
+			"buyer" : "PizzaJon",
+			"location" : 
+			{
+				"x" : 51,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/06",
+			"type" : "sell",
+			"volume" : 73.599999999999994,
+			"world" : "world"
+		},
+		{
+			"amount" : 252,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 51,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/23",
+			"type" : "sell",
+			"volume" : 100.80000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 28,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 51,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/12",
+			"type" : "sell",
+			"volume" : 11.199999999999999,
 			"world" : "world"
 		},
 		{
@@ -69,6 +148,7 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/04/06",
+			"type" : "buy",
 			"volume" : 3200,
 			"world" : "world"
 		},
@@ -83,6 +163,7 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/06/06",
+			"type" : "buy",
 			"volume" : 4750,
 			"world" : "world"
 		},
@@ -97,6 +178,7 @@
 			},
 			"seller" : "AspenGamgee",
 			"time" : "2019/06/11",
+			"type" : "buy",
 			"volume" : 33.5,
 			"world" : "world"
 		},
@@ -111,6 +193,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/01/06",
+			"type" : "buy",
 			"volume" : 10,
 			"world" : "world"
 		},
@@ -125,6 +208,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/01/06",
+			"type" : "buy",
 			"volume" : 34560,
 			"world" : "world"
 		},
@@ -139,6 +223,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/01/07",
+			"type" : "buy",
 			"volume" : 9600,
 			"world" : "world"
 		}

@@ -13,6 +13,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2018/10/01",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2019/02/05",
+			"type" : "buy",
 			"volume" : 8000,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/03/15",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/06/12",
+			"type" : "buy",
 			"volume" : 12000,
 			"world" : "world"
 		}

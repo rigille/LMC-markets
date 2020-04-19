@@ -13,7 +13,23 @@
 			},
 			"seller" : "JacobSterling",
 			"time" : "2019/03/06",
+			"type" : "buy",
 			"volume" : 60.5,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 98,
+				"z" : -138
+			},
+			"seller" : "JacobSterling",
+			"time" : "2019/03/06",
+			"type" : "sell",
+			"volume" : 0.5,
 			"world" : "world_nether"
 		},
 		{
@@ -27,7 +43,23 @@
 			},
 			"seller" : "JacobSterling",
 			"time" : "2019/03/17",
+			"type" : "buy",
 			"volume" : 60.5,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 98,
+				"z" : -138
+			},
+			"seller" : "JacobSterling",
+			"time" : "2019/03/17",
+			"type" : "sell",
+			"volume" : 0.5,
 			"world" : "world_nether"
 		},
 		{
@@ -41,11 +73,12 @@
 			},
 			"seller" : "JacobSterling",
 			"time" : "2019/06/05",
+			"type" : "buy",
 			"volume" : 60.5,
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "daboogaoogaman",
 			"location" : 
 			{
@@ -55,7 +88,53 @@
 			},
 			"seller" : "JacobSterling",
 			"time" : "2019/08/07",
-			"volume" : 121,
+			"type" : "buy",
+			"volume" : 60.5,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 98,
+				"z" : -138
+			},
+			"seller" : "JacobSterling",
+			"time" : "2019/08/07",
+			"type" : "sell",
+			"volume" : 0.5,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 65,
+				"y" : 97,
+				"z" : -136
+			},
+			"seller" : "JacobSterling",
+			"time" : "2019/08/07",
+			"type" : "buy",
+			"volume" : 60.5,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 98,
+				"z" : -138
+			},
+			"seller" : "JacobSterling",
+			"time" : "2019/08/07",
+			"type" : "sell",
+			"volume" : 0.5,
 			"world" : "world_nether"
 		},
 		{
@@ -69,7 +148,23 @@
 			},
 			"seller" : "JacobSterling",
 			"time" : "2019/09/08",
+			"type" : "buy",
 			"volume" : 60.5,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 98,
+				"z" : -138
+			},
+			"seller" : "JacobSterling",
+			"time" : "2019/09/08",
+			"type" : "sell",
+			"volume" : 0.5,
 			"world" : "world_nether"
 		}
 	]

@@ -13,6 +13,7 @@
 			},
 			"seller" : "NorraLigan",
 			"time" : "2018/11/14",
+			"type" : "buy",
 			"volume" : 0.10000000000000001,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2018/11/29",
+			"type" : "buy",
 			"volume" : 0.10000000000000001,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/12/05",
+			"type" : "buy",
 			"volume" : 25,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/01/03",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/23",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -83,6 +88,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/01/30",
+			"type" : "buy",
 			"volume" : 20,
 			"world" : "world"
 		},
@@ -97,6 +103,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2020/02/27",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -111,6 +118,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2020/03/15",
+			"type" : "buy",
 			"volume" : 5,
 			"world" : "world"
 		},
@@ -125,6 +133,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2020/03/26",
+			"type" : "buy",
 			"volume" : 20,
 			"world" : "world"
 		},
@@ -139,6 +148,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2020/03/27",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world_the_end"
 		}

@@ -4,6 +4,21 @@
 	[
 		{
 			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 44,
+				"y" : 72,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/27",
+			"type" : "sell",
+			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
 			"buyer" : "AshGreninja2579",
 			"location" : 
 			{
@@ -13,7 +28,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/10/24",
+			"type" : "buy",
 			"volume" : 27,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : 45,
+				"y" : 69,
+				"z" : -49
+			},
+			"seller" : "K9us",
+			"time" : "2019/10/24",
+			"type" : "sell",
+			"volume" : 24,
+			"world" : "world"
+		},
+		{
+			"amount" : 28,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 45,
+				"y" : 69,
+				"z" : -49
+			},
+			"seller" : "K9us",
+			"time" : "2019/10/29",
+			"type" : "sell",
+			"volume" : 672,
 			"world" : "world"
 		},
 		{
@@ -27,6 +73,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/10/29",
+			"type" : "buy",
 			"volume" : 783,
 			"world" : "world"
 		},
@@ -41,6 +88,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2020/03/19",
+			"type" : "buy",
 			"volume" : 10000,
 			"world" : "world"
 		}

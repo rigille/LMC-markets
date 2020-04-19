@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/05",
+			"type" : "buy",
 			"volume" : 1820,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "freakdown",
 			"time" : "2019/02/07",
+			"type" : "buy",
 			"volume" : 48750,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "freakdown",
 			"time" : "2019/02/07",
+			"type" : "buy",
 			"volume" : 71500,
 			"world" : "world"
 		},
@@ -55,7 +58,23 @@
 			},
 			"seller" : "freakdown",
 			"time" : "2019/02/08",
+			"type" : "buy",
 			"volume" : 25492.189999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 1041,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/11",
+			"type" : "sell",
+			"volume" : 62460,
 			"world" : "world"
 		},
 		{
@@ -69,7 +88,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/15",
+			"type" : "buy",
 			"volume" : 16384,
+			"world" : "world"
+		},
+		{
+			"amount" : 49,
+			"buyer" : "JacobSterling",
+			"location" : 
+			{
+				"x" : -102,
+				"y" : 6,
+				"z" : -10
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/04",
+			"type" : "sell",
+			"volume" : 1715,
 			"world" : "world"
 		},
 		{
@@ -83,6 +118,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/03/12",
+			"type" : "buy",
 			"volume" : 32578.130000000001,
 			"world" : "world"
 		},
@@ -97,6 +133,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/03/17",
+			"type" : "buy",
 			"volume" : 30000,
 			"world" : "world"
 		},
@@ -111,11 +148,27 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/19",
+			"type" : "sell",
+			"volume" : 6,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 15,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/19",
+			"type" : "buy",
 			"volume" : 12,
 			"world" : "world"
 		},
 		{
-			"amount" : 1220,
+			"amount" : 897,
 			"buyer" : "dandenoth",
 			"location" : 
 			{
@@ -125,7 +178,128 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/19",
-			"volume" : 78080,
+			"type" : "buy",
+			"volume" : 57408,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/19",
+			"type" : "sell",
+			"volume" : 60,
+			"world" : "world"
+		},
+		{
+			"amount" : 323,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/19",
+			"type" : "buy",
+			"volume" : 20672,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "QwubHanoj",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/03/29",
+			"type" : "sell",
+			"volume" : 1718.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 46,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/29",
+			"type" : "sell",
+			"volume" : 2760,
+			"world" : "world"
+		},
+		{
+			"amount" : 33,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/31",
+			"type" : "sell",
+			"volume" : 1980,
+			"world" : "world"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "QwubHanoj",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/02",
+			"type" : "sell",
+			"volume" : 1328.1300000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "QwubHanoj",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/03",
+			"type" : "sell",
+			"volume" : 1250,
+			"world" : "world"
+		},
+		{
+			"amount" : 15,
+			"buyer" : "QwubHanoj",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/04",
+			"type" : "sell",
+			"volume" : 1171.8800000000001,
 			"world" : "world"
 		},
 		{
@@ -139,7 +313,53 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/06",
+			"type" : "buy",
 			"volume" : 40960,
+			"world" : "world"
+		},
+		{
+			"amount" : 385,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/07",
+			"type" : "sell",
+			"volume" : 30078.130000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 93,
+			"buyer" : "QwubHanoj",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/11",
+			"type" : "sell",
+			"volume" : 7265.6300000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 29,
+			"buyer" : "QwubHanoj",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/04/14",
+			"type" : "sell",
+			"volume" : 2265.6300000000001,
 			"world" : "world"
 		},
 		{
@@ -153,6 +373,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/27",
+			"type" : "buy",
 			"volume" : 87168,
 			"world" : "world"
 		},
@@ -167,7 +388,203 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/04/27",
+			"type" : "buy",
 			"volume" : 84375,
+			"world" : "world"
+		},
+		{
+			"amount" : 226,
+			"buyer" : "Dioswilson",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/09",
+			"type" : "sell",
+			"volume" : 13560,
+			"world" : "world"
+		},
+		{
+			"amount" : 2746,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/02",
+			"type" : "sell",
+			"volume" : 214531.26000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 2905,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/05",
+			"type" : "sell",
+			"volume" : 174300,
+			"world" : "world"
+		},
+		{
+			"amount" : 355,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/06",
+			"type" : "sell",
+			"volume" : 27734.380000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 512,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/06",
+			"type" : "sell",
+			"volume" : 30720,
+			"world" : "world"
+		},
+		{
+			"amount" : 39,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/07",
+			"type" : "sell",
+			"volume" : 2340,
+			"world" : "world"
+		},
+		{
+			"amount" : 3102,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 7,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/07",
+			"type" : "sell",
+			"volume" : 167508,
+			"world" : "world"
+		},
+		{
+			"amount" : 167,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/07",
+			"type" : "sell",
+			"volume" : 13046.880000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 126,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 80,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/07",
+			"type" : "sell",
+			"volume" : 7875,
+			"world" : "world"
+		},
+		{
+			"amount" : 354,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 7,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/10",
+			"type" : "sell",
+			"volume" : 19116,
+			"world" : "world"
+		},
+		{
+			"amount" : 2519,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 8,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/10",
+			"type" : "sell",
+			"volume" : 120912,
+			"world" : "world"
+		},
+		{
+			"amount" : 937,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 8,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/13",
+			"type" : "sell",
+			"volume" : 44976,
+			"world" : "world"
+		},
+		{
+			"amount" : 1919,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 9,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/13",
+			"type" : "sell",
+			"volume" : 80598,
 			"world" : "world"
 		},
 		{
@@ -181,7 +598,428 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/14",
+			"type" : "buy",
 			"volume" : 1248,
+			"world" : "world"
+		},
+		{
+			"amount" : 1563,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 9,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/15",
+			"type" : "sell",
+			"volume" : 65646,
+			"world" : "world"
+		},
+		{
+			"amount" : 1366,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 10,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/15",
+			"type" : "sell",
+			"volume" : 49176,
+			"world" : "world"
+		},
+		{
+			"amount" : 1867,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 10,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/16",
+			"type" : "sell",
+			"volume" : 67212,
+			"world" : "world"
+		},
+		{
+			"amount" : 223,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 10,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/17",
+			"type" : "sell",
+			"volume" : 8028,
+			"world" : "world"
+		},
+		{
+			"amount" : 1034,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 11,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/17",
+			"type" : "sell",
+			"volume" : 31020,
+			"world" : "world"
+		},
+		{
+			"amount" : 2295,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 11,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/18",
+			"type" : "sell",
+			"volume" : 68850,
+			"world" : "world"
+		},
+		{
+			"amount" : 638,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/19",
+			"type" : "sell",
+			"volume" : 49843.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 127,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 11,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/20",
+			"type" : "sell",
+			"volume" : 3810,
+			"world" : "world"
+		},
+		{
+			"amount" : 1554,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 12,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/20",
+			"type" : "sell",
+			"volume" : 37296,
+			"world" : "world"
+		},
+		{
+			"amount" : 117,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 79,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/21",
+			"type" : "sell",
+			"volume" : 9140.630000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 805,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 80,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/21",
+			"type" : "sell",
+			"volume" : 50312.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 1022,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 80,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/22",
+			"type" : "sell",
+			"volume" : 63875,
+			"world" : "world"
+		},
+		{
+			"amount" : 1902,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 12,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/24",
+			"type" : "sell",
+			"volume" : 45648,
+			"world" : "world"
+		},
+		{
+			"amount" : 1335,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 13,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/24",
+			"type" : "sell",
+			"volume" : 24030,
+			"world" : "world"
+		},
+		{
+			"amount" : 449,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 80,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/24",
+			"type" : "sell",
+			"volume" : 28062.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 1824,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 13,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/25",
+			"type" : "sell",
+			"volume" : 32832,
+			"world" : "world"
+		},
+		{
+			"amount" : 777,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 80,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/26",
+			"type" : "sell",
+			"volume" : 48562.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 297,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 13,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/28",
+			"type" : "sell",
+			"volume" : 5346,
+			"world" : "world"
+		},
+		{
+			"amount" : 1789,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 14,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/28",
+			"type" : "sell",
+			"volume" : 21468,
+			"world" : "world"
+		},
+		{
+			"amount" : 849,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 80,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/29",
+			"type" : "sell",
+			"volume" : 53062.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 817,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 14,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/30",
+			"type" : "sell",
+			"volume" : 9804,
+			"world" : "world"
+		},
+		{
+			"amount" : 176,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 80,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/06/30",
+			"type" : "sell",
+			"volume" : 11000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 80,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/01",
+			"type" : "sell",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 110,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 80,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/02",
+			"type" : "sell",
+			"volume" : 6875,
+			"world" : "world"
+		},
+		{
+			"amount" : 226,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 80,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/04",
+			"type" : "sell",
+			"volume" : 14125,
+			"world" : "world"
+		},
+		{
+			"amount" : 130,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 81,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/04",
+			"type" : "sell",
+			"volume" : 6093.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 606,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 81,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/12",
+			"type" : "sell",
+			"volume" : 28406.260000000002,
+			"world" : "world"
+		},
+		{
+			"amount" : 750,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 81,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/13",
+			"type" : "sell",
+			"volume" : 35156.260000000002,
 			"world" : "world"
 		},
 		{
@@ -195,7 +1033,83 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/14",
+			"type" : "buy",
 			"volume" : 5376,
+			"world" : "world"
+		},
+		{
+			"amount" : 371,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 81,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/14",
+			"type" : "sell",
+			"volume" : 17390.630000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 49,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 81,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/15",
+			"type" : "sell",
+			"volume" : 2296.8800000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 270,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 81,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/22",
+			"type" : "sell",
+			"volume" : 10125,
+			"world" : "world"
+		},
+		{
+			"amount" : 98,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 82,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/22",
+			"type" : "sell",
+			"volume" : 2296.8800000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 1472,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 82,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/23",
+			"type" : "sell",
+			"volume" : 34500,
 			"world" : "world"
 		},
 		{
@@ -209,6 +1123,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/20",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -223,6 +1138,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/20",
+			"type" : "buy",
 			"volume" : 18270,
 			"world" : "world"
 		},
@@ -237,7 +1153,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/20",
+			"type" : "buy",
 			"volume" : 94464,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "TheNormalToast",
+			"location" : 
+			{
+				"x" : -1879,
+				"y" : 12,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/29",
+			"type" : "sell",
+			"volume" : 96,
 			"world" : "world"
 		},
 		{
@@ -251,6 +1183,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/09/13",
+			"type" : "buy",
 			"volume" : 2600,
 			"world" : "world"
 		},
@@ -265,6 +1198,7 @@
 			},
 			"seller" : "PXshadow",
 			"time" : "2019/09/14",
+			"type" : "buy",
 			"volume" : 4400,
 			"world" : "world"
 		},
@@ -279,7 +1213,83 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/10/05",
+			"type" : "buy",
 			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 640,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : 252,
+				"y" : 82,
+				"z" : 127
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/12/17",
+			"type" : "sell",
+			"volume" : 15000,
+			"world" : "world"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : -102,
+				"y" : 6,
+				"z" : -10
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/17",
+			"type" : "sell",
+			"volume" : 490,
+			"world" : "world"
+		},
+		{
+			"amount" : 13,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : -102,
+				"y" : 6,
+				"z" : -10
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/19",
+			"type" : "sell",
+			"volume" : 455,
+			"world" : "world"
+		},
+		{
+			"amount" : 440,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : -102,
+				"y" : 6,
+				"z" : -10
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/22",
+			"type" : "sell",
+			"volume" : 15400,
+			"world" : "world"
+		},
+		{
+			"amount" : 408,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : -102,
+				"y" : 6,
+				"z" : -10
+			},
+			"seller" : "K9us",
+			"time" : "2020/02/04",
+			"type" : "sell",
+			"volume" : 14280,
 			"world" : "world"
 		},
 		{
@@ -293,6 +1303,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/02/15",
+			"type" : "buy",
 			"volume" : 10400,
 			"world" : "world"
 		},
@@ -307,6 +1318,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/03/27",
+			"type" : "buy",
 			"volume" : 2600,
 			"world" : "world"
 		}

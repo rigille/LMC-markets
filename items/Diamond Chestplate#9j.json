@@ -13,6 +13,7 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/04/20",
+			"type" : "buy",
 			"volume" : 4500,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/06/20",
+			"type" : "buy",
 			"volume" : 4500,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/07/18",
+			"type" : "buy",
 			"volume" : 13500,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/07/31",
+			"type" : "buy",
 			"volume" : 4500,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/08/08",
+			"type" : "buy",
 			"volume" : 1200,
 			"world" : "world"
 		},
@@ -83,6 +88,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/01/24",
+			"type" : "buy",
 			"volume" : 29999,
 			"world" : "world"
 		},
@@ -97,6 +103,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/03/26",
+			"type" : "buy",
 			"volume" : 21999,
 			"world" : "world"
 		}

@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 1593,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 16,
+				"y" : 74,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/23",
+			"type" : "sell",
+			"volume" : 41418,
+			"world" : "world"
+		},
+		{
 			"amount" : 192,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,7 +28,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/06",
+			"type" : "buy",
 			"volume" : 6720,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Rille3000",
+			"location" : 
+			{
+				"x" : 16,
+				"y" : 74,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/13",
+			"type" : "sell",
+			"volume" : 21,
 			"world" : "world"
 		},
 		{
@@ -27,7 +58,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/11/17",
+			"type" : "buy",
 			"volume" : 4500,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/13",
+			"type" : "sell",
+			"volume" : 256,
 			"world" : "world"
 		},
 		{
@@ -41,7 +88,83 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/01/15",
+			"type" : "buy",
 			"volume" : 69,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "Miljanee",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/13",
+			"type" : "sell",
+			"volume" : 88,
+			"world" : "world"
+		},
+		{
+			"amount" : 2824,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/10",
+			"type" : "sell",
+			"volume" : 50832,
+			"world" : "world"
+		},
+		{
+			"amount" : 625,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/11",
+			"type" : "sell",
+			"volume" : 11250,
+			"world" : "world"
+		},
+		{
+			"amount" : 3456,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 62,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/11",
+			"type" : "sell",
+			"volume" : 51840,
+			"world" : "world"
+		},
+		{
+			"amount" : 3456,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/11",
+			"type" : "sell",
+			"volume" : 38016,
 			"world" : "world"
 		},
 		{
@@ -55,7 +178,98 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 63,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/05",
+			"type" : "sell",
+			"volume" : 11,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "SrHenriquee",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/13",
+			"type" : "sell",
+			"volume" : 54,
+			"world" : "world"
+		},
+		{
+			"amount" : 115,
+			"buyer" : "SrHenriquee",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/13",
+			"type" : "sell",
+			"volume" : 1265,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/30",
+			"type" : "sell",
+			"volume" : 1408,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/01",
+			"type" : "sell",
+			"volume" : 132,
+			"world" : "world"
+		},
+		{
+			"amount" : 44,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 63,
+				"z" : -57
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/20",
+			"type" : "sell",
+			"volume" : 484,
 			"world" : "world"
 		}
 	]

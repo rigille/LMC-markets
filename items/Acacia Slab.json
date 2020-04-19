@@ -13,7 +13,53 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/26",
+			"type" : "buy",
 			"volume" : 43,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 116,
+				"z" : -54
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/20",
+			"type" : "sell",
+			"volume" : 132,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 3356,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 61,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/16",
+			"type" : "sell",
+			"volume" : 53696,
+			"world" : "world"
+		},
+		{
+			"amount" : 1828,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 62,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/16",
+			"type" : "sell",
+			"volume" : 23764,
 			"world" : "world"
 		},
 		{
@@ -27,6 +73,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/29",
+			"type" : "buy",
 			"volume" : 5440,
 			"world" : "world"
 		},
@@ -41,7 +88,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 57,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 62,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/06",
+			"type" : "sell",
+			"volume" : 78,
 			"world" : "world"
 		},
 		{
@@ -55,6 +118,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/20",
+			"type" : "buy",
 			"volume" : 34,
 			"world" : "world"
 		}

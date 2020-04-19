@@ -13,6 +13,7 @@
 			},
 			"seller" : "Mr_Digs",
 			"time" : "2019/01/11",
+			"type" : "buy",
 			"volume" : 250000,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Mr_Digs",
 			"time" : "2019/01/17",
+			"type" : "buy",
 			"volume" : 250000,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Mr_Digs",
 			"time" : "2019/01/19",
+			"type" : "buy",
 			"volume" : 250000,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Mr_Digs",
 			"time" : "2019/01/21",
+			"type" : "buy",
 			"volume" : 250000,
 			"world" : "world"
 		}

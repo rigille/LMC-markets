@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/01",
+			"type" : "buy",
 			"volume" : 16900,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/05",
+			"type" : "buy",
 			"volume" : 15900,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/09",
+			"type" : "buy",
 			"volume" : 7500,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/14",
+			"type" : "buy",
 			"volume" : 22500,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/10/18",
+			"type" : "buy",
 			"volume" : 21000,
 			"world" : "world"
 		},
@@ -83,6 +88,22 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/06",
+			"type" : "buy",
+			"volume" : 5000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -47
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/06",
+			"type" : "sell",
 			"volume" : 5000,
 			"world" : "world"
 		},
@@ -97,6 +118,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/20",
+			"type" : "buy",
 			"volume" : 7500,
 			"world" : "world"
 		},
@@ -111,6 +133,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/21",
+			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world"
 		},
@@ -125,6 +148,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/26",
+			"type" : "buy",
 			"volume" : 2600,
 			"world" : "world"
 		},
@@ -139,6 +163,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/28",
+			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world"
 		},
@@ -153,6 +178,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/29",
+			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world"
 		},
@@ -167,6 +193,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/29",
+			"type" : "buy",
 			"volume" : 2500,
 			"world" : "world"
 		},
@@ -181,6 +208,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world"
 		},
@@ -195,6 +223,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/05/06",
+			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world"
 		},
@@ -209,7 +238,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/05/27",
+			"type" : "buy",
 			"volume" : 12000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -7,
+				"y" : 58,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/27",
+			"type" : "sell",
+			"volume" : 5000,
 			"world" : "world"
 		},
 		{
@@ -223,6 +268,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/31",
+			"type" : "buy",
 			"volume" : 2600,
 			"world" : "world"
 		},
@@ -237,6 +283,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/03",
+			"type" : "buy",
 			"volume" : 2600,
 			"world" : "world"
 		},
@@ -251,6 +298,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/06/03",
+			"type" : "buy",
 			"volume" : 40000,
 			"world" : "world"
 		},
@@ -265,7 +313,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/10",
+			"type" : "buy",
 			"volume" : 7800,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "NiCe69",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -47
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/10",
+			"type" : "sell",
+			"volume" : 7500,
 			"world" : "world"
 		},
 		{
@@ -279,6 +343,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/15",
+			"type" : "buy",
 			"volume" : 2600,
 			"world" : "world"
 		},
@@ -293,6 +358,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/17",
+			"type" : "buy",
 			"volume" : 4000,
 			"world" : "world"
 		},
@@ -307,6 +373,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/06/17",
+			"type" : "buy",
 			"volume" : 6000,
 			"world" : "world"
 		},
@@ -321,6 +388,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/06/20",
+			"type" : "buy",
 			"volume" : 12000,
 			"world" : "world"
 		},
@@ -335,6 +403,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/30",
+			"type" : "buy",
 			"volume" : 1680,
 			"world" : "world"
 		},
@@ -349,6 +418,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/07/01",
+			"type" : "buy",
 			"volume" : 2500,
 			"world" : "world"
 		},
@@ -363,6 +433,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/01",
+			"type" : "buy",
 			"volume" : 560,
 			"world" : "world"
 		},
@@ -377,6 +448,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/01",
+			"type" : "buy",
 			"volume" : 4480,
 			"world" : "world"
 		},
@@ -391,6 +463,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/06",
+			"type" : "buy",
 			"volume" : 560,
 			"world" : "world"
 		},
@@ -405,6 +478,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/07/08",
+			"type" : "buy",
 			"volume" : 2500,
 			"world" : "world"
 		},
@@ -419,6 +493,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/07/14",
+			"type" : "buy",
 			"volume" : 6000,
 			"world" : "world"
 		},
@@ -433,6 +508,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/07/30",
+			"type" : "buy",
 			"volume" : 2500,
 			"world" : "world"
 		},
@@ -447,6 +523,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2019/08/14",
+			"type" : "buy",
 			"volume" : 1200,
 			"world" : "world_the_end"
 		},
@@ -461,6 +538,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/08/25",
+			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world"
 		},
@@ -475,6 +553,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/11/30",
+			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world"
 		},
@@ -489,6 +568,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2020/03/13",
+			"type" : "buy",
 			"volume" : 1200,
 			"world" : "world_the_end"
 		},
@@ -503,6 +583,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/03/29",
+			"type" : "buy",
 			"volume" : 799,
 			"world" : "world"
 		}

@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 23,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 71,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/09",
+			"type" : "sell",
+			"volume" : 575,
+			"world" : "world"
+		},
+		{
 			"amount" : 128,
 			"buyer" : "Vallenius",
 			"location" : 
@@ -13,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/28",
+			"type" : "buy",
 			"volume" : 6400,
 			"world" : "world"
 		}

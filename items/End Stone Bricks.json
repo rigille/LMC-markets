@@ -3,6 +3,36 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 5,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -53,
+				"y" : 116,
+				"z" : -22
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/04",
+			"type" : "sell",
+			"volume" : 70.310000000000002,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -53,
+				"y" : 116,
+				"z" : -22
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 309.37,
+			"world" : "world_nether"
+		},
+		{
 			"amount" : 192,
 			"buyer" : "ezrone",
 			"location" : 
@@ -13,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/08",
+			"type" : "buy",
 			"volume" : 1536,
 			"world" : "world"
 		}

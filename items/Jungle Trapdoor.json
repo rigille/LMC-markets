@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 22,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -81
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/09",
+			"type" : "sell",
+			"volume" : 616,
+			"world" : "world"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,7 +28,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 102,
+			"world" : "world"
+		},
+		{
+			"amount" : 50,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -81
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 1400,
 			"world" : "world"
 		}
 	]

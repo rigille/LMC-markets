@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 2,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 63,
+				"z" : -29
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/07",
+			"type" : "sell",
+			"volume" : 2800,
+			"world" : "world"
+		},
+		{
 			"amount" : 4,
 			"buyer" : "Shahayhay",
 			"location" : 
@@ -13,7 +28,83 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/01",
+			"type" : "buy",
 			"volume" : 6000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 63,
+				"z" : -29
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/29",
+			"type" : "sell",
+			"volume" : 1400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 63,
+				"z" : -29
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/15",
+			"type" : "sell",
+			"volume" : 1400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 63,
+				"z" : -29
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/24",
+			"type" : "sell",
+			"volume" : 1400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 63,
+				"z" : -29
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/28",
+			"type" : "sell",
+			"volume" : 1400,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "bwes",
+			"location" : 
+			{
+				"x" : 39,
+				"y" : 63,
+				"z" : -29
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/07",
+			"type" : "sell",
+			"volume" : 2800,
 			"world" : "world"
 		}
 	]

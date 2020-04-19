@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 6,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 116,
+				"z" : -37
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/20",
+			"type" : "sell",
+			"volume" : 210,
+			"world" : "world_nether"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,7 +28,53 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 63,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -72
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/18",
+			"type" : "sell",
+			"volume" : 72,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 62,
+				"z" : -72
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/18",
+			"type" : "sell",
+			"volume" : 56,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -72
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/18",
+			"type" : "sell",
+			"volume" : 72,
 			"world" : "world"
 		}
 	]

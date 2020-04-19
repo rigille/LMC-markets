@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 1,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/02",
+			"type" : "sell",
+			"volume" : 75,
+			"world" : "world"
+		},
+		{
 			"amount" : 63,
 			"buyer" : "FatherTime__",
 			"location" : 
@@ -13,7 +28,83 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/06",
+			"type" : "buy",
 			"volume" : 5229,
+			"world" : "world"
+		},
+		{
+			"amount" : 30,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/14",
+			"type" : "sell",
+			"volume" : 2250,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/28",
+			"type" : "sell",
+			"volume" : 450,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/04",
+			"type" : "sell",
+			"volume" : 1650,
+			"world" : "world"
+		},
+		{
+			"amount" : 101,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"type" : "sell",
+			"volume" : 7575,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Cinderace2578",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/19",
+			"type" : "sell",
+			"volume" : 150,
 			"world" : "world"
 		},
 		{
@@ -27,7 +118,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2020/01/25",
+			"type" : "buy",
 			"volume" : 83,
+			"world" : "world"
+		},
+		{
+			"amount" : 46,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -48
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/25",
+			"type" : "sell",
+			"volume" : 3450,
 			"world" : "world"
 		}
 	]

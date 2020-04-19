@@ -4,6 +4,51 @@
 	[
 		{
 			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/02",
+			"type" : "sell",
+			"volume" : 88000,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/26",
+			"type" : "sell",
+			"volume" : 440000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/01",
+			"type" : "sell",
+			"volume" : 88000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
 			"buyer" : "Nocturna12",
 			"location" : 
 			{
@@ -13,7 +58,53 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/01",
+			"type" : "buy",
 			"volume" : 92000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Nocturna12",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/01",
+			"type" : "sell",
+			"volume" : 88000,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/07",
+			"type" : "sell",
+			"volume" : 440000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/08",
+			"type" : "sell",
+			"volume" : 264000,
 			"world" : "world"
 		},
 		{
@@ -27,6 +118,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/16",
+			"type" : "buy",
 			"volume" : 592500,
 			"world" : "world"
 		},
@@ -41,6 +133,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/18",
+			"type" : "buy",
 			"volume" : 197500,
 			"world" : "world"
 		}

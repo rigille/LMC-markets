@@ -6,206 +6,229 @@
  */
 
 var getParams = function (url) {
-	var params = {};
-	var parser = document.createElement('a');
-	parser.href = url;
-	var query = parser.search.substring(1);
-	var vars = query.split('&');
-	for (var i = 0; i < vars.length; i++) {
-		var pair = vars[i].split('=');
-		params[pair[0]] = decodeURIComponent(pair[1]);
-	}
-	return params;
+  var params = {};
+  var parser = document.createElement('a');
+  parser.href = url;
+  var query = parser.search.substring(1);
+  var vars = query.split('&');
+  for (var i = 0; i < vars.length; i++) {
+    var pair = vars[i].split('=');
+    params[pair[0]] = decodeURIComponent(pair[1]);
+  }
+  return params;
 };
-
 var item = getParams(window.location.href).item;
-function makeplot() {
- 	Plotly.d3.tsv("https://raw.githubusercontent.com/impression28/LMC-markets/master/items/" + item + ".tsv", function(data){ processData(data) } );
 
+var xhr = new XMLHttpRequest();
+xhr.onreadystatechange = function() {
+  let x = JSON.parse(xhr.responseText);
+  let buy_volumes = [];
+  let buy_amounts = [];
+  let buy_price_ranges = [];
+  let sell_volumes = [];
+  let sell_amounts = [];
+  let sell_price_ranges = [];
+  for (let i = 0; i < x.transactions.length; i++)
+  {
+    let d = new Date(x.transactions[i].time.substring(0, 8)+'01');
+    d = d.getTime();
+    let volume = x.transactions[i].volume;
+    let amount = x.transactions[i].amount;
+    if (x.transactions[i].type === "buy")
+    {
+      if (buy_volumes.length === 0)
+      {
+        buy_volumes.push([d, volume]);
+        buy_amounts.push([d, amount]);
+        buy_price_ranges.push([d, volume/amount, volume/amount]);
+      }
+      else if (d !== buy_volumes[buy_volumes.length - 1][0])
+      {
+        buy_volumes.push([d, volume]);
+        buy_amounts.push([d, amount]);
+        buy_price_ranges.push([d, volume/amount, volume/amount]);
+      }
+      else
+      {
+        buy_volumes[buy_volumes.length - 1][1] += volume;
+        buy_amounts[buy_amounts.length - 1][1] += amount;
+        buy_price_ranges[buy_price_ranges.length - 1][1] = Math.min(buy_price_ranges[buy_price_ranges.length - 1][1], volume/amount);
+        buy_price_ranges[buy_price_ranges.length - 1][2] = Math.max(buy_price_ranges[buy_price_ranges.length - 1][2], volume/amount);
+      }
+    }
+    else if (x.transactions[i].type === "sell")
+    {
+      if (sell_volumes.length === 0)
+      {
+        sell_volumes.push([d, volume]);
+        sell_amounts.push([d, amount]);
+        sell_price_ranges.push([d, volume/amount, volume/amount]);
+      }
+      else if (d !== sell_volumes[sell_volumes.length - 1][0])
+      {
+        sell_volumes.push([d, volume]);
+        sell_amounts.push([d, amount]);
+        sell_price_ranges.push([d, volume/amount, volume/amount]);
+      }
+      else
+      {
+        sell_volumes[sell_volumes.length - 1][1] += volume;
+        sell_amounts[sell_amounts.length - 1][1] += amount;
+        sell_price_ranges[sell_price_ranges.length - 1][1] = math.min(sell_price_ranges[sell_price_ranges.length - 1][1], volume/amount);
+        sell_price_ranges[sell_price_ranges.length - 1][2] = math.max(sell_price_ranges[sell_price_ranges.length - 1][2], volume/amount);
+      }
+    }
+  }
+  let buy_prices = [];
+  let sell_prices = [];
+  for (let i = 0; i < buy_amounts.length; i++)
+  {
+    buy_prices.push([buy_amounts[i][0], buy_volumes[i][1]/buy_amounts[i][1]]);
+    sell_prices.push([sell_amounts[i][0], sell_volumes[i][1]/sell_amounts[i][1]]);
+  }
+
+
+  Highcharts.chart('container', {
+    chart: {
+      zoomType: 'x',
+      scrollablePlotArea: {
+        scrollPositionX: 1
+      }
+    },
+    title: {
+      text: item 
+    },
+
+    xAxis: {
+      type: 'datetime',
+      accessibility: {
+        rangeDescription: 'Range: Jul 1st 2009 to Jul 31st 2009.'
+      },
+      dateTimeLabelFormats: {
+        month: "%y' %b"
+      }
+    },
+
+    yAxis: [{
+      title: {
+        text: 'price'
+      },
+      type: 'logarithmic',
+      allowNegativeLog: true
+    }, 
+      {
+        title: {
+          text: 'volume'
+        },
+        gridLineColor: null,
+        opposite: true
+      }],
+    tooltip: {
+        shared: true
+    },
+    series: [{
+      name: 'buy volume',
+      type: 'column',
+      data: buy_volumes,
+      yAxis: 1,
+      zIndex: 0,
+      tooltip: {
+        crosshairs: false,
+        shared: true,
+        dateTimeLabelFormats: {
+          year: "%Y",
+          month: "",
+          day: ""
+        },
+        valueSuffix: ' $'
+      },
+    },
+      {
+        name: 'buy price',
+        data: buy_prices,
+        type: 'line',
+        color: Highcharts.getOptions().colors[2],
+        yAxis: 0,
+        zIndex: 1,
+        tooltip: {
+          crosshairs: false,
+          shared: true,
+          dateTimeLabelFormats: {
+            year: "%Y",
+            month: "",
+            day: ""
+          },
+          valueSuffix: ' $'
+        },
+        marker: {
+          enabled: false
+        }
+      },
+    {
+        name: 'buy range',
+        data: buy_price_ranges,
+        type: 'arearange',
+        lineWidth: 0,
+        linkedTo: ':previous',
+        color: Highcharts.getOptions().colors[2],
+        fillOpacity: 0.3,
+        zIndex: 0,
+        marker: {
+            enabled: false
+        }
+    },
+      {
+        name: 'sell volume',
+        type: 'column',
+        data: sell_volumes,
+        yAxis: 1,
+        zIndex: 0,
+        tooltip: {
+          crosshairs: false,
+          shared: true,
+          dateTimeLabelFormats: {
+            year: "%Y",
+            month: "",
+            day: ""
+          },
+          valueSuffix: ' $'
+        },
+      },
+      {
+        name: 'sell price',
+        data: sell_prices,
+        type: 'line',
+        color: Highcharts.getOptions().colors[5],
+        yAxis: 0,
+        zIndex: 1,
+        tooltip: {
+          crosshairs: false,
+          shared: true,
+          dateTimeLabelFormats: {
+            year: "%Y",
+            month: "",
+            day: ""
+          },
+          valueSuffix: ' $'
+        },
+        marker: {
+          enabled: false
+        }
+      },
+      {
+        name: 'sell range',
+        data: sell_price_ranges,
+        type: 'arearange',
+        lineWidth: 0,
+        linkedTo: ':previous',
+        color: Highcharts.getOptions().colors[5],
+        fillOpacity: 0.3,
+        zIndex: 0,
+        marker: {
+          enabled: false
+        }
+      }]
+  });
 };
-	
-function processData(allRows) {
-
-	var date = [], item_amount = [], cash_amount = [], price = [];
-
-	for (var i=0; i< allRows.length; i++) {
-		row = allRows[i];
-		date.push( new Date( row['year'], row['month'] - 1, row['day'], row['hour'], row['minute'], row['second']) );
-		item_amount.push( row['item_amount'] );
-		cash_amount.push( row['cash_amount'] );
-		price.push( row['price'] );
-	}
-
-	var start = new Date(date[0].getTime());
-
-	//Week sized bins for a start
-	var binsize = 7*24*60*60*1000;
-
-	var min_price = [],
-	    max_price = [];
-	[bin_date, aggregated_item_amount, aggregated_cash_amount, min_price, max_price] = aggregate(date, start, binsize, item_amount, cash_amount, price);
-
-	makePlotly(bin_date, aggregated_item_amount, aggregated_cash_amount, min_price, max_price);
-}
-
-function aggregate(date, start, binsize, item_amount, cash_amount, price) {
-
-	var start_time = start.getTime();
-	var bin_inf_date = new Date(start_time);
-	var bin_inf = bin_inf_date.getTime();
-
-	var bins = [bin_inf_date.toDateString()];
-	var aggregated_item_amount = [parseFloat(item_amount[0])];
-	var aggregated_cash_amount = [parseFloat(cash_amount[0])];
-	var min_price = [price[0]];
-	var max_price = [price[0]];
-
-	for (var i = 1; i < date.length; i++) {
-		date_time = date[i].getTime();
-		if ( date_time - bin_inf <= binsize ) {
-			aggregated_item_amount[aggregated_item_amount.length - 1] += parseFloat(item_amount[i]);
-			aggregated_cash_amount[aggregated_cash_amount.length - 1] += parseFloat(cash_amount[i]);
-			min_price[min_price.length - 1] = Math.min( min_price[min_price.length - 1], price[i]);
-			max_price[max_price.length - 1] = Math.max( max_price[max_price.length - 1], price[i]);
-		} else {
-			while (date_time - bin_inf > 2*binsize) {
-				bin_inf += binsize;
-				bin_inf_date = new Date(bin_inf);
-				bins.push(bin_inf_date.toDateString());
-				aggregated_item_amount.push(0);
-				aggregated_cash_amount.push(0);
-				min_price.push(min_price[min_price.length - 1]);
-				max_price.push(max_price[max_price.length - 1]);
-			}
-			bin_inf += binsize;
-			bin_inf_date = new Date(bin_inf);
-			bins.push(bin_inf_date.toDateString());
-			aggregated_item_amount.push(parseFloat(item_amount[i]));
-			aggregated_cash_amount.push(parseFloat(cash_amount[i]));
-			min_price.push(parseFloat(price[i]));
-			max_price.push(parseFloat(price[i]));
-		}
-	}
-	return [bins, aggregated_item_amount, aggregated_cash_amount, min_price, max_price];
-}
-
-function calculateAvgPrice(item_amount, cash_amount) {
-	var last_price = 0;
-	var price = [];
-	for (var i = 0; i < item_amount.length; i++) {
-		if (cash_amount[i]/item_amount[i]) {
-			last_price = cash_amount[i]/item_amount[i];
-			price.push(last_price);
-
-		} else {
-			price.push(last_price);
-		}
-	}
-
-	return price;
-}
-
-function makePlotly(date, item_amount, cash_amount, min_price, max_price){
-	var price = calculateAvgPrice(item_amount, cash_amount);
-	var plotDiv = document.getElementById("plot");
-	var price_data = {
-		x: date, 
-		y: price,
-		name: 'Average Price',
-		type: 'scatter',
-		mode: 'lines',
-		line: {color: 'rgb(0, 255, 255)',}
-		/*transforms: [{
-			type: 'aggregate',
-			groups: cash_amount,
-			aggregations: [
-				{target: 'y',
-				 func: 'avg',
-				 enabled: true},
-			]
-		}]*/
-	};
-
-	var min_price_data = {
-		name: 'Min price',
-		showlegend: false,
-		x: date, 
-		y: min_price,
-		type: 'scatter',
-		mode: 'lines',
-		line: {color: 'rgb(255, 255, 255)'},
-		hoverlabel: { bgcolor: 'rgb(0, 255, 255)',
-			font: {color: 'rgb(0,0,0)',},},
-		textfont: { color: 'rgb(0, 255, 255)', },
-		/*transforms: [{
-			type: 'aggregate',
-			groups: cash_amount,
-			aggregations: [
-				{target: 'y',
-				 func: 'avg',
-				 enabled: true},
-			]
-		}]*/
-	};
-	
-	var max_price_data = {
-		x: date, 
-		y: max_price,
-		name: 'Max Price',
-		showlegend: false,
-		type: 'scatter',
-		mode: 'none',
-		fill: 'tonexty',
-		fillcolor: 'rgb(230, 255, 255)',
-		hoverlabel: { bgcolor: 'rgb(0, 255, 255)',},
-		/*transforms: [{
-			type: 'aggregate',
-			groups: cash_amount,
-			aggregations: [
-				{target: 'y',
-				 func: 'avg',
-				 enabled: true},
-			]
-		}]*/
-	};
-
-	var volume_data = {
-		type: 'bar',
-		x: date,
-		y: cash_amount,
-		name: 'Volume',
-		yaxis: 'y2',
-		mode: 'markers',
-		opacity: 0.2,
-		marker: {color: 'rgb(255, 0, 255)',},
-		/*transforms: [{
-			type: 'aggregate',
-			groups: cash_amount,
-			aggregations: [
-				{target: 'y', func: 'sum', enabled: true},
-			]
-		}]*/
-	}
-
-	data = [min_price_data, max_price_data, price_data, volume_data];
-
-	layout = { title: item,
-		   yaxis:  { title: 'Price',
-			     type: 'log',
-                 showgrid: false,},
-		   yaxis2: { title: 'volume',
-			     type: 'linear',
-			     overlaying: 'y',
-			     side: 'right',
-                 showgrid: false,},
-		   yaxis3:  { title: 'Price',
-			     type: 'log',
-                 showgrid: false,},
-		   yaxis4:  { title: 'Price',
-			     type: 'log',
-                 showgrid: false,},
-		 };
-
-	Plotly.newPlot('my_plot', data, layout);
-};
-makeplot();
+xhr.open('GET', 'https://raw.githubusercontent.com/impression28/LMC-markets/develop/items/' + item + '.json');
+xhr.send()

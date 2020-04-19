@@ -13,6 +13,7 @@
 			},
 			"seller" : "Combat_Biscuit",
 			"time" : "2018/09/03",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -27,7 +28,23 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/10/05",
+			"type" : "buy",
 			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : -348,
+				"y" : 72,
+				"z" : 83
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/10/05",
+			"type" : "sell",
+			"volume" : 50,
 			"world" : "world"
 		},
 		{
@@ -41,6 +58,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/12/07",
+			"type" : "buy",
 			"volume" : 10000,
 			"world" : "world"
 		},
@@ -55,6 +73,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2019/01/14",
+			"type" : "buy",
 			"volume" : 6000,
 			"world" : "world"
 		},
@@ -69,6 +88,7 @@
 			},
 			"seller" : "coconewell92",
 			"time" : "2019/03/23",
+			"type" : "buy",
 			"volume" : 3750,
 			"world" : "world"
 		},
@@ -83,6 +103,7 @@
 			},
 			"seller" : "coconewell92",
 			"time" : "2019/03/23",
+			"type" : "buy",
 			"volume" : 3750,
 			"world" : "world"
 		},
@@ -97,6 +118,7 @@
 			},
 			"seller" : "coconewell92",
 			"time" : "2019/04/14",
+			"type" : "buy",
 			"volume" : 27000,
 			"world" : "world"
 		},
@@ -111,6 +133,7 @@
 			},
 			"seller" : "coconewell92",
 			"time" : "2019/04/30",
+			"type" : "buy",
 			"volume" : 9750,
 			"world" : "world"
 		},
@@ -125,6 +148,7 @@
 			},
 			"seller" : "AspenGamgee",
 			"time" : "2019/06/11",
+			"type" : "buy",
 			"volume" : 20,
 			"world" : "world"
 		},
@@ -139,6 +163,7 @@
 			},
 			"seller" : "sparkXstorm",
 			"time" : "2019/08/03",
+			"type" : "buy",
 			"volume" : 49.990000000000002,
 			"world" : "world"
 		},
@@ -153,6 +178,7 @@
 			},
 			"seller" : "sparkXstorm",
 			"time" : "2019/08/06",
+			"type" : "buy",
 			"volume" : 99.980000000000004,
 			"world" : "world"
 		},
@@ -167,6 +193,7 @@
 			},
 			"seller" : "PXshadow",
 			"time" : "2019/08/20",
+			"type" : "buy",
 			"volume" : 210,
 			"world" : "world"
 		},
@@ -181,6 +208,7 @@
 			},
 			"seller" : "sparkXstorm",
 			"time" : "2019/09/12",
+			"type" : "buy",
 			"volume" : 999.80000000000007,
 			"world" : "world"
 		},
@@ -195,6 +223,7 @@
 			},
 			"seller" : "sparkXstorm",
 			"time" : "2019/10/26",
+			"type" : "buy",
 			"volume" : 49.990000000000002,
 			"world" : "world"
 		},
@@ -209,6 +238,7 @@
 			},
 			"seller" : "coconewell92",
 			"time" : "2020/01/31",
+			"type" : "buy",
 			"volume" : 750,
 			"world" : "world"
 		},
@@ -223,6 +253,7 @@
 			},
 			"seller" : "sparkXstorm",
 			"time" : "2020/02/15",
+			"type" : "buy",
 			"volume" : 6398.7200000000003,
 			"world" : "world"
 		},
@@ -237,6 +268,7 @@
 			},
 			"seller" : "coconewell92",
 			"time" : "2020/03/30",
+			"type" : "buy",
 			"volume" : 11250,
 			"world" : "world"
 		}

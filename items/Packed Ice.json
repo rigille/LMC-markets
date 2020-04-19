@@ -13,6 +13,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/09/11",
+			"type" : "buy",
 			"volume" : 3200,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/09/14",
+			"type" : "buy",
 			"volume" : 9100,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/09",
+			"type" : "buy",
 			"volume" : 10000,
 			"world" : "world_the_end"
 		},
@@ -55,6 +58,37 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/24",
+			"type" : "buy",
+			"volume" : 5000,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1805,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 117,
+				"y" : 57,
+				"z" : -74
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/12/28",
+			"type" : "sell",
+			"volume" : 84609.380000000005,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 117,
+				"y" : 57,
+				"z" : -74
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/12/28",
+			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world_the_end"
 		},
@@ -69,7 +103,8 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/12/28",
-			"volume" : 5000,
+			"type" : "sell",
+			"volume" : 3000,
 			"world" : "world_the_end"
 		},
 		{
@@ -83,6 +118,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/24",
+			"type" : "buy",
 			"volume" : 11000,
 			"world" : "world_the_end"
 		},
@@ -97,6 +133,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2020/03/18",
+			"type" : "buy",
 			"volume" : 1955,
 			"world" : "world"
 		}

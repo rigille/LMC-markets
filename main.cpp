@@ -21,6 +21,7 @@ bool operator==(coord a, coord b)
 
 struct buy_transaction
 {
+  std::string type;
   std::string time;
   std::string buyer;
   int amount;
@@ -46,6 +47,7 @@ bool operator==(buy_transaction a, buy_transaction b)
 int main()
 {
   std::regex buy_grammar("(\\d{4}/\\d{2}/\\d{2} \\d{2}:\\d{2}:\\d{2}) (.*) bought (\\d+) (.*) for (\\d+(.\\d*)?) from (.*) at \\[(.*)\\] (-?\\d+), (-?\\d+), (-?\\d+)");
+  std::regex sell_grammar("(\\d{4}/\\d{2}/\\d{2} \\d{2}:\\d{2}:\\d{2}) (.*) sold (\\d+) (.*) for (\\d+(.\\d*)?) to (.*) at \\[(.*)\\] (-?\\d+), (-?\\d+), (-?\\d+)");
   std::ifstream transactions("ChestShop.log");
   if(!transactions.is_open())
   {
@@ -59,6 +61,7 @@ int main()
     std::smatch sm;
     if (std::regex_match(transaction_log, sm, buy_grammar))
     {
+      const std::string type = "buy";
       const std::string time = sm[1];
       const std::string buyer = sm[2];
       const int amount = std::stoi(sm[3]);
@@ -67,7 +70,21 @@ int main()
       const std::string seller = sm[7];
       const std::string world = sm[8];
       const coord location {std::stoi(sm[9]), std::stoi(sm[10]), std::stoi(sm[11])};
-      const buy_transaction transaction {time, buyer, amount, item, volume, seller, world, location};
+      const buy_transaction transaction {type, time, buyer, amount, item, volume, seller, world, location};
+      buy_transactions.push_back(transaction);
+    }
+    else if (std::regex_match(transaction_log, sm, sell_grammar))
+    {
+      const std::string type = "sell";
+      const std::string time = sm[1];
+      const std::string buyer = sm[2];
+      const int amount = std::stoi(sm[3]);
+      const std::string item = sm[4];
+      const double volume = std::stod(sm[5]);
+      const std::string seller = sm[7];
+      const std::string world = sm[8];
+      const coord location {std::stoi(sm[9]), std::stoi(sm[10]), std::stoi(sm[11])};
+      const buy_transaction transaction {type, time, buyer, amount, item, volume, seller, world, location};
       buy_transactions.push_back(transaction);
     }
   }
@@ -99,6 +116,7 @@ int main()
   {
     const buy_transaction curr_transaction = buy_transactions[i];
     if (   curr_transaction.time.substr(0, 10) == condensed_buy_transactions.back().time
+        && curr_transaction.type == condensed_buy_transactions.back().type
         && curr_transaction.buyer == condensed_buy_transactions.back().buyer
         && curr_transaction.item == condensed_buy_transactions.back().item
         && curr_transaction.seller == condensed_buy_transactions.back().seller
@@ -132,6 +150,7 @@ int main()
   {
     if (t.item == curr_item)
     {
+      transaction_json["type"] = t.type;
       transaction_json["time"] = t.time;
       transaction_json["buyer"] = t.buyer;
       transaction_json["amount"] = t.amount;
@@ -156,6 +175,7 @@ int main()
       items_json["item name"] = curr_item;
 
       items_json["transactions"] = Json::Value(Json::arrayValue);
+      transaction_json["type"] = t.type;
       transaction_json["time"] = t.time;
       transaction_json["buyer"] = t.buyer;
       transaction_json["amount"] = t.amount;

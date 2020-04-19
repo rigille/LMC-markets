@@ -3,6 +3,141 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 8,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 112,
+				"z" : -39
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/17",
+			"type" : "sell",
+			"volume" : 400,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 56,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 112,
+				"z" : -39
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 2800,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 74,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 112,
+				"z" : -39
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 3700,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 112,
+				"z" : -39
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/28",
+			"type" : "sell",
+			"volume" : 3200,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 18,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 112,
+				"z" : -39
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/29",
+			"type" : "sell",
+			"volume" : 900,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 90,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 112,
+				"z" : -39
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/03",
+			"type" : "sell",
+			"volume" : 4500,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 130,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 112,
+				"z" : -39
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/03",
+			"type" : "sell",
+			"volume" : 6500,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 303,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 112,
+				"z" : -39
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/24",
+			"type" : "sell",
+			"volume" : 15150,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 15,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 78,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/06",
+			"type" : "sell",
+			"volume" : 90,
+			"world" : "world"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,6 +148,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 21,
 			"world" : "world"
 		}

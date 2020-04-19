@@ -13,6 +13,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/12/04",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -27,11 +28,12 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/12/05",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
 		{
-			"amount" : 63,
+			"amount" : 1,
 			"buyer" : "ersi",
 			"location" : 
 			{
@@ -41,6 +43,82 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/01/26",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 64,
+				"z" : -251
+			},
+			"seller" : "Shahayhay",
+			"time" : "2019/01/26",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 64,
+				"z" : -251
+			},
+			"seller" : "Shahayhay",
+			"time" : "2019/01/26",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 64,
+				"z" : -251
+			},
+			"seller" : "Shahayhay",
+			"time" : "2019/01/26",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 61,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 64,
+				"z" : -251
+			},
+			"seller" : "Shahayhay",
+			"time" : "2019/01/26",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 61,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 64,
+				"z" : -251
+			},
+			"seller" : "Shahayhay",
+			"time" : "2019/01/26",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		}

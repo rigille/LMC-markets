@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/01/11",
+			"type" : "buy",
 			"volume" : 180,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/26",
+			"type" : "buy",
 			"volume" : 11520,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2019/04/06",
+			"type" : "buy",
 			"volume" : 9600,
 			"world" : "world"
 		},
@@ -55,7 +58,53 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2019/04/11",
+			"type" : "buy",
 			"volume" : 96000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/04/12",
+			"type" : "sell",
+			"volume" : 7000,
+			"world" : "world"
+		},
+		{
+			"amount" : 105,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/05/22",
+			"type" : "sell",
+			"volume" : 11484.379999999999,
+			"world" : "world"
+		},
+		{
+			"amount" : 51,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/05/25",
+			"type" : "sell",
+			"volume" : 5578.1300000000001,
 			"world" : "world"
 		},
 		{
@@ -69,6 +118,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2019/05/31",
+			"type" : "buy",
 			"volume" : 9600,
 			"world" : "world"
 		},
@@ -83,6 +133,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2019/06/14",
+			"type" : "buy",
 			"volume" : 9600,
 			"world" : "world"
 		},
@@ -97,6 +148,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2019/07/20",
+			"type" : "buy",
 			"volume" : 19200,
 			"world" : "world"
 		},
@@ -111,6 +163,67 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2019/09/16",
+			"type" : "buy",
+			"volume" : 9600,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/09/16",
+			"type" : "sell",
+			"volume" : 7000,
+			"world" : "world"
+		},
+		{
+			"amount" : 240,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/12/23",
+			"type" : "sell",
+			"volume" : 26250,
+			"world" : "world"
+		},
+		{
+			"amount" : 784,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2019/12/27",
+			"type" : "sell",
+			"volume" : 85750,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/01/16",
+			"type" : "buy",
 			"volume" : 9600,
 			"world" : "world"
 		},
@@ -125,7 +238,8 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2020/01/16",
-			"volume" : 9600,
+			"type" : "sell",
+			"volume" : 7000,
 			"world" : "world"
 		}
 	]

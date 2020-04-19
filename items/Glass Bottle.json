@@ -3,6 +3,141 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 4,
+			"buyer" : "Remix_D_Miner",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/03/24",
+			"type" : "sell",
+			"volume" : 80,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/03/24",
+			"type" : "sell",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "Remix_D_Miner",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/03/25",
+			"type" : "sell",
+			"volume" : 340,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/03/26",
+			"type" : "sell",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/03/27",
+			"type" : "sell",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/03/27",
+			"type" : "sell",
+			"volume" : 40,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/03/29",
+			"type" : "sell",
+			"volume" : 40,
+			"world" : "world"
+		},
+		{
+			"amount" : 55,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/04/06",
+			"type" : "sell",
+			"volume" : 1100,
+			"world" : "world"
+		},
+		{
+			"amount" : 1501,
+			"buyer" : "Dioswilson",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/05/31",
+			"type" : "sell",
+			"volume" : 30020,
+			"world" : "world"
+		},
+		{
 			"amount" : 84,
 			"buyer" : "K9us",
 			"location" : 
@@ -13,7 +148,128 @@
 			},
 			"seller" : "Phantom_Ark",
 			"time" : "2019/05/31",
+			"type" : "buy",
 			"volume" : 420,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 357,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2019/06/05",
+			"type" : "sell",
+			"volume" : 1250,
+			"world" : "world"
+		},
+		{
+			"amount" : 997,
+			"buyer" : "Dioswilson",
+			"location" : 
+			{
+				"x" : 357,
+				"y" : 80,
+				"z" : 33
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2019/06/05",
+			"type" : "sell",
+			"volume" : 19472.66,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/08/09",
+			"type" : "sell",
+			"volume" : 60,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 174
+			},
+			"seller" : "coconewell92",
+			"time" : "2019/08/22",
+			"type" : "sell",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 72,
+				"z" : 5
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/05",
+			"type" : "sell",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 72,
+				"z" : 5
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/09",
+			"type" : "sell",
+			"volume" : 90,
+			"world" : "world"
+		},
+		{
+			"amount" : 1728,
+			"buyer" : "Dioswilson",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 72,
+				"z" : 5
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/02/12",
+			"type" : "sell",
+			"volume" : 25920,
+			"world" : "world"
+		},
+		{
+			"amount" : 48,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 72,
+				"z" : 5
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/03/13",
+			"type" : "sell",
+			"volume" : 720,
 			"world" : "world"
 		},
 		{
@@ -27,7 +283,23 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2020/03/23",
+			"type" : "buy",
 			"volume" : 13824,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Growwwwwwwlll",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 72,
+				"z" : 5
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/03/27",
+			"type" : "sell",
+			"volume" : 45,
 			"world" : "world"
 		}
 	]

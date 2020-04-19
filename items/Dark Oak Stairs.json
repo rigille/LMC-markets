@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 40,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 116,
+				"z" : -51
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/28",
+			"type" : "sell",
+			"volume" : 1320,
+			"world" : "world_nether"
+		},
+		{
 			"amount" : 209,
 			"buyer" : "EnDristON",
 			"location" : 
@@ -13,7 +28,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/09",
+			"type" : "buy",
 			"volume" : 5852,
+			"world" : "world"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/09",
+			"type" : "sell",
+			"volume" : 425,
+			"world" : "world"
+		},
+		{
+			"amount" : 54,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/06",
+			"type" : "sell",
+			"volume" : 1350,
 			"world" : "world"
 		},
 		{
@@ -27,6 +73,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 84,
 			"world" : "world"
 		},
@@ -41,6 +88,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/05",
+			"type" : "buy",
 			"volume" : 9128,
 			"world" : "world"
 		}

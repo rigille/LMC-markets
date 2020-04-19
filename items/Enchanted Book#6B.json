@@ -4,6 +4,36 @@
 	[
 		{
 			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/23",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/14",
+			"type" : "sell",
+			"volume" : 1600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
 			"buyer" : "EnDristON",
 			"location" : 
 			{
@@ -13,7 +43,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/15",
+			"type" : "buy",
 			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/15",
+			"type" : "sell",
+			"volume" : 800,
 			"world" : "world"
 		}
 	]

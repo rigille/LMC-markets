@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/09",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -27,11 +28,12 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/10",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
 		{
-			"amount" : 8,
+			"amount" : 5,
 			"buyer" : "kuraudosukei",
 			"location" : 
 			{
@@ -41,7 +43,68 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/10",
-			"volume" : 32,
+			"type" : "buy",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 60,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/10",
+			"type" : "sell",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 61,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/10",
+			"type" : "buy",
+			"volume" : 4,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 60,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/10",
+			"type" : "sell",
+			"volume" : 6,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 61,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/10",
+			"type" : "buy",
+			"volume" : 8,
 			"world" : "world"
 		},
 		{
@@ -55,6 +118,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/10",
+			"type" : "buy",
 			"volume" : 816,
 			"world" : "world"
 		},
@@ -69,6 +133,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/07",
+			"type" : "buy",
 			"volume" : 196,
 			"world" : "world"
 		},
@@ -83,11 +148,12 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/08",
+			"type" : "buy",
 			"volume" : 1152,
 			"world" : "world"
 		},
 		{
-			"amount" : 130,
+			"amount" : 2,
 			"buyer" : "Lego_UOE",
 			"location" : 
 			{
@@ -97,7 +163,53 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/12",
-			"volume" : 1040,
+			"type" : "buy",
+			"volume" : 16,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Lego_UOE",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 59,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/12",
+			"type" : "sell",
+			"volume" : 8,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Lego_UOE",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 59,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/12",
+			"type" : "buy",
+			"volume" : 1024,
+			"world" : "world"
+		},
+		{
+			"amount" : 80,
+			"buyer" : "Lego_UOE",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 59,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/12",
+			"type" : "sell",
+			"volume" : 320,
 			"world" : "world"
 		},
 		{
@@ -111,6 +223,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/17",
+			"type" : "buy",
 			"volume" : 1536,
 			"world" : "world"
 		},
@@ -125,6 +238,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/17",
+			"type" : "buy",
 			"volume" : 3456,
 			"world" : "world"
 		},
@@ -139,6 +253,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/09/20",
+			"type" : "buy",
 			"volume" : 30,
 			"world" : "world"
 		},
@@ -153,6 +268,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/10/29",
+			"type" : "buy",
 			"volume" : 3072,
 			"world" : "world"
 		},
@@ -167,6 +283,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/11/12",
+			"type" : "buy",
 			"volume" : 6,
 			"world" : "world"
 		},
@@ -181,6 +298,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2020/02/05",
+			"type" : "buy",
 			"volume" : 6,
 			"world" : "world"
 		},
@@ -195,6 +313,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2020/02/15",
+			"type" : "buy",
 			"volume" : 2048,
 			"world" : "world"
 		},
@@ -209,6 +328,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2020/02/15",
+			"type" : "buy",
 			"volume" : 4224,
 			"world" : "world"
 		},
@@ -223,6 +343,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2020/03/28",
+			"type" : "buy",
 			"volume" : 6,
 			"world" : "world"
 		}

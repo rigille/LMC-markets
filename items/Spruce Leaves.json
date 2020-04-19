@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 1065,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -30,
+				"y" : 116,
+				"z" : -22
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/09",
+			"type" : "sell",
+			"volume" : 49921.880000000005,
+			"world" : "world_nether"
+		},
+		{
 			"amount" : 1,
 			"buyer" : "K9us",
 			"location" : 
@@ -13,6 +28,127 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/17",
+			"type" : "buy",
+			"volume" : 60,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 817,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/17",
+			"type" : "sell",
+			"volume" : 40850,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1508,
+			"buyer" : "Magnavox",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/22",
+			"type" : "sell",
+			"volume" : 75400,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "Magnavox",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/23",
+			"type" : "sell",
+			"volume" : 8000,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 640,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 32000,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 131,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/28",
+			"type" : "sell",
+			"volume" : 6550,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1088,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/28",
+			"type" : "sell",
+			"volume" : 54400,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 251,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/03",
+			"type" : "sell",
+			"volume" : 12550,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Jesper1972",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/04",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world_nether"
 		},
@@ -27,7 +163,23 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/04",
-			"volume" : 60,
+			"type" : "sell",
+			"volume" : 50,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 114,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -46
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/24",
+			"type" : "sell",
+			"volume" : 1026,
 			"world" : "world_nether"
 		},
 		{
@@ -41,7 +193,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 18,
+			"world" : "world"
+		},
+		{
+			"amount" : 224,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/30",
+			"type" : "sell",
+			"volume" : 1120,
+			"world" : "world"
+		},
+		{
+			"amount" : 33,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/01",
+			"type" : "sell",
+			"volume" : 165,
 			"world" : "world"
 		},
 		{
@@ -55,6 +238,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/12",
+			"type" : "buy",
 			"volume" : 1152,
 			"world" : "world"
 		},
@@ -69,7 +253,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/14",
+			"type" : "buy",
 			"volume" : 390,
+			"world" : "world"
+		},
+		{
+			"amount" : 65,
+			"buyer" : "Dredhounds",
+			"location" : 
+			{
+				"x" : 79,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/14",
+			"type" : "sell",
+			"volume" : 325,
 			"world" : "world"
 		}
 	]

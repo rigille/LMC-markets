@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 563,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/09",
+			"type" : "sell",
+			"volume" : 5067,
+			"world" : "world"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 33,
 			"world" : "world"
 		},
@@ -27,7 +43,68 @@
 			},
 			"seller" : "K9us",
 			"time" : "2020/01/20",
+			"type" : "buy",
 			"volume" : 11,
+			"world" : "world"
+		},
+		{
+			"amount" : 2851,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 25659,
+			"world" : "world"
+		},
+		{
+			"amount" : 1502,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 62,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 10514,
+			"world" : "world"
+		},
+		{
+			"amount" : 1028,
+			"buyer" : "Freeaboo",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 62,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 7196,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 62,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 448,
 			"world" : "world"
 		}
 	]

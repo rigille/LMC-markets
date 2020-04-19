@@ -3,6 +3,36 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 6,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/15",
+			"type" : "sell",
+			"volume" : 4800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/23",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
 			"amount" : 1,
 			"buyer" : "NorraLigan",
 			"location" : 
@@ -13,7 +43,83 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/27",
+			"type" : "buy",
 			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/07",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/14",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/13",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/24",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "bwes",
+			"location" : 
+			{
+				"x" : 40,
+				"y" : 63,
+				"z" : -46
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/07",
+			"type" : "sell",
+			"volume" : 1600,
 			"world" : "world"
 		}
 	]

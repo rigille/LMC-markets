@@ -13,6 +13,7 @@
 			},
 			"seller" : "spfoia",
 			"time" : "2018/09/07",
+			"type" : "buy",
 			"volume" : 25000,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "spfoia",
 			"time" : "2018/09/08",
+			"type" : "buy",
 			"volume" : 13337,
 			"world" : "world_nether"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "spfoia",
 			"time" : "2018/09/08",
+			"type" : "buy",
 			"volume" : 13337,
 			"world" : "world_nether"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "spfoia",
 			"time" : "2018/09/09",
+			"type" : "buy",
 			"volume" : 13337,
 			"world" : "world_nether"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "spfoia",
 			"time" : "2018/09/15",
+			"type" : "buy",
 			"volume" : 13337,
 			"world" : "world_nether"
 		}

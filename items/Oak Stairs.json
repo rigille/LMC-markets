@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 49,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -14
+			},
+			"seller" : "K9us",
+			"time" : "2018/09/19",
+			"type" : "sell",
+			"volume" : 1274,
+			"world" : "world"
+		},
+		{
 			"amount" : 4,
 			"buyer" : "Butokuden",
 			"location" : 
@@ -13,7 +28,83 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/24",
+			"type" : "buy",
 			"volume" : 120,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/09",
+			"type" : "sell",
+			"volume" : 24,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/10",
+			"type" : "sell",
+			"volume" : 384,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/03",
+			"type" : "sell",
+			"volume" : 48,
+			"world" : "world"
+		},
+		{
+			"amount" : 156,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/24",
+			"type" : "sell",
+			"volume" : 1872,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/28",
+			"type" : "sell",
+			"volume" : 24,
 			"world" : "world"
 		},
 		{
@@ -27,6 +118,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 42,
 			"world" : "world"
 		},
@@ -41,7 +133,53 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/05",
+			"type" : "buy",
 			"volume" : 896,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 62,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/30",
+			"type" : "sell",
+			"volume" : 120,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "hvick255",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 63,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/06",
+			"type" : "sell",
+			"volume" : 7,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "hvick255",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 62,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/06",
+			"type" : "sell",
+			"volume" : 110,
 			"world" : "world"
 		}
 	]

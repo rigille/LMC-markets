@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/21",
+			"type" : "buy",
 			"volume" : 500,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/26",
+			"type" : "buy",
 			"volume" : 350,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/30",
+			"type" : "buy",
 			"volume" : 700,
 			"world" : "world"
 		},
@@ -55,6 +58,52 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/04/04",
+			"type" : "buy",
+			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -5,
+				"y" : 58,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/04/04",
+			"type" : "sell",
+			"volume" : 1400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : -5,
+				"y" : 58,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/26",
+			"type" : "sell",
+			"volume" : 1400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -5,
+				"y" : 58,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/05/27",
+			"type" : "buy",
 			"volume" : 1500,
 			"world" : "world"
 		},
@@ -69,7 +118,8 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/05/27",
-			"volume" : 1500,
+			"type" : "sell",
+			"volume" : 1400,
 			"world" : "world"
 		},
 		{
@@ -83,6 +133,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/25",
+			"type" : "buy",
 			"volume" : 300,
 			"world" : "world"
 		},
@@ -97,6 +148,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/10",
+			"type" : "buy",
 			"volume" : 600,
 			"world" : "world"
 		},
@@ -111,6 +163,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/19",
+			"type" : "buy",
 			"volume" : 600,
 			"world" : "world"
 		},
@@ -125,6 +178,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/20",
+			"type" : "buy",
 			"volume" : 1800,
 			"world" : "world"
 		}

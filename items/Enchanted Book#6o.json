@@ -13,7 +13,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/11/23",
+			"type" : "buy",
 			"volume" : 3000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 63,
+				"z" : -60
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/22",
+			"type" : "sell",
+			"volume" : 1400,
 			"world" : "world"
 		},
 		{
@@ -27,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/06",
+			"type" : "buy",
 			"volume" : 960,
 			"world" : "world"
 		}

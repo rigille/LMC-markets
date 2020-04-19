@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 160,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -53
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 8000,
+			"world" : "world_nether"
+		},
+		{
 			"amount" : 128,
 			"buyer" : "coconewell92",
 			"location" : 
@@ -13,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/10",
+			"type" : "buy",
 			"volume" : 1408,
 			"world" : "world"
 		},
@@ -27,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/03",
+			"type" : "buy",
 			"volume" : 220,
 			"world" : "world"
 		}

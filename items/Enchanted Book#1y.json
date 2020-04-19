@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/15",
+			"type" : "buy",
 			"volume" : 25000,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/16",
+			"type" : "buy",
 			"volume" : 25000,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/06",
+			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/09",
+			"type" : "buy",
 			"volume" : 2500,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/06/02",
+			"type" : "buy",
 			"volume" : 2500,
 			"world" : "world"
 		},
@@ -83,6 +88,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/07/12",
+			"type" : "buy",
 			"volume" : 2500,
 			"world" : "world"
 		},
@@ -97,6 +103,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2019/08/19",
+			"type" : "buy",
 			"volume" : 2400,
 			"world" : "world_the_end"
 		},
@@ -111,6 +118,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/01/29",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -125,6 +133,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2020/03/06",
+			"type" : "buy",
 			"volume" : 1200,
 			"world" : "world_the_end"
 		},
@@ -139,6 +148,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2020/03/09",
+			"type" : "buy",
 			"volume" : 1200,
 			"world" : "world_the_end"
 		}

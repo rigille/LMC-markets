@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/15",
+			"type" : "buy",
 			"volume" : 3000,
 			"world" : "world"
 		},
@@ -27,7 +28,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/22",
+			"type" : "buy",
 			"volume" : 1500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 63,
+				"z" : -67
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/22",
+			"type" : "sell",
+			"volume" : 1400,
 			"world" : "world"
 		}
 	]

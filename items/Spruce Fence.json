@@ -3,6 +3,66 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 46,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 116,
+				"z" : -48
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/17",
+			"type" : "sell",
+			"volume" : 1610,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 39,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 116,
+				"z" : -48
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/20",
+			"type" : "sell",
+			"volume" : 1365,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -72
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/03",
+			"type" : "sell",
+			"volume" : 160,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -72
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/09",
+			"type" : "sell",
+			"volume" : 352,
+			"world" : "world"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,7 +73,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 57,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -72
+			},
+			"seller" : "K9us",
+			"time" : "2020/03/08",
+			"type" : "sell",
+			"volume" : 9,
 			"world" : "world"
 		}
 	]

@@ -13,6 +13,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/07",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/16",
+			"type" : "buy",
 			"volume" : 128,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/16",
+			"type" : "buy",
 			"volume" : 1024,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "AshGreninja2579",
 			"time" : "2019/04/24",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "Colonel_Ruff",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 6,
 			"world" : "world"
 		},
@@ -83,6 +88,7 @@
 			},
 			"seller" : "Colonel_Ruff",
 			"time" : "2019/05/11",
+			"type" : "buy",
 			"volume" : 126,
 			"world" : "world"
 		},
@@ -97,6 +103,7 @@
 			},
 			"seller" : "Colonel_Ruff",
 			"time" : "2019/05/12",
+			"type" : "buy",
 			"volume" : 146,
 			"world" : "world"
 		},
@@ -111,6 +118,7 @@
 			},
 			"seller" : "Colonel_Ruff",
 			"time" : "2019/05/31",
+			"type" : "buy",
 			"volume" : 384,
 			"world" : "world"
 		},
@@ -125,6 +133,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/06/16",
+			"type" : "buy",
 			"volume" : 192,
 			"world" : "world"
 		},
@@ -139,6 +148,7 @@
 			},
 			"seller" : "Colonel_Ruff",
 			"time" : "2019/06/19",
+			"type" : "buy",
 			"volume" : 8,
 			"world" : "world"
 		},
@@ -153,6 +163,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/07/26",
+			"type" : "buy",
 			"volume" : 300,
 			"world" : "world"
 		},
@@ -167,6 +178,7 @@
 			},
 			"seller" : "Colonel_Ruff",
 			"time" : "2019/08/02",
+			"type" : "buy",
 			"volume" : 2,
 			"world" : "world"
 		},
@@ -181,6 +193,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/08/12",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -195,6 +208,7 @@
 			},
 			"seller" : "Colonel_Ruff",
 			"time" : "2019/09/12",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		},
@@ -209,6 +223,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/09/22",
+			"type" : "buy",
 			"volume" : 512,
 			"world" : "world"
 		},
@@ -223,6 +238,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/10/27",
+			"type" : "buy",
 			"volume" : 300,
 			"world" : "world"
 		},
@@ -237,7 +253,23 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/10/29",
+			"type" : "buy",
 			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 94,
+				"y" : 74,
+				"z" : 15
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/10/29",
+			"type" : "sell",
+			"volume" : 100,
 			"world" : "world"
 		},
 		{
@@ -251,6 +283,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/11/12",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -265,6 +298,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/11/18",
+			"type" : "buy",
 			"volume" : 1,
 			"world" : "world"
 		},
@@ -279,6 +313,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/01/07",
+			"type" : "buy",
 			"volume" : 1920,
 			"world" : "world"
 		},
@@ -293,6 +328,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/02/13",
+			"type" : "buy",
 			"volume" : 810,
 			"world" : "world"
 		}

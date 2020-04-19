@@ -13,6 +13,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/04/20",
+			"type" : "buy",
 			"volume" : 3100,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/07/01",
+			"type" : "buy",
 			"volume" : 3100,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Talrinion",
 			"time" : "2019/08/19",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world_the_end"
 		}

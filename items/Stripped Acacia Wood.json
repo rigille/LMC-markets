@@ -13,7 +13,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 220,
+			"world" : "world"
+		},
+		{
+			"amount" : 144,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 61,
+				"z" : -54
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/31",
+			"type" : "sell",
+			"volume" : 21600,
 			"world" : "world"
 		}
 	]

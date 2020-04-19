@@ -13,7 +13,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 45,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -84
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/01",
+			"type" : "sell",
+			"volume" : 52,
 			"world" : "world"
 		}
 	]

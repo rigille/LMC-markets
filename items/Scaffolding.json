@@ -13,6 +13,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2020/02/20",
+			"type" : "buy",
 			"volume" : 16,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2020/03/04",
+			"type" : "buy",
 			"volume" : 4,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2020/03/12",
+			"type" : "buy",
 			"volume" : 80,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2020/03/12",
+			"type" : "buy",
 			"volume" : 3.5,
 			"world" : "world"
 		}

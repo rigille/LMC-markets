@@ -13,11 +13,27 @@
 			},
 			"seller" : "TheScrubJay",
 			"time" : "2018/09/06",
+			"type" : "buy",
 			"volume" : 10000,
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 426,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 64,
+				"z" : 11
+			},
+			"seller" : "TheScrubJay",
+			"time" : "2018/09/06",
+			"type" : "sell",
+			"volume" : 6656.25,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
 			"buyer" : "ersi",
 			"location" : 
 			{
@@ -27,6 +43,37 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/20",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/09/20",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/09/20",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -41,6 +88,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/20",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/09/20",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -55,6 +118,7 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2018/09/20",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world_the_end"
 		},
@@ -69,6 +133,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/21",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/09/21",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -83,6 +163,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/21",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -97,6 +178,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/21",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -111,6 +193,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/21",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "3thanat0r",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/09/21",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -125,6 +223,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/21",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "3thanat0r",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/09/21",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -139,6 +253,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/21",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -153,6 +268,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/22",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -167,6 +283,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/22",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -181,6 +298,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/23",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 28,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/09/23",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -195,6 +328,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/23",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/09/23",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -209,6 +358,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/24",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "3thanat0r",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/09/26",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -223,6 +388,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/26",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -237,6 +403,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/27",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 34,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/09/28",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -251,8 +433,24 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/09/29",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 592,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/09/30",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 1,
@@ -265,8 +463,24 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/01",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 16,
@@ -279,7 +493,53 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/02",
+			"type" : "buy",
 			"volume" : 2500,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 115,
+			"buyer" : "Vrael1",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 350,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 45,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/03",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -293,6 +553,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/03",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/03",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -307,11 +583,57 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/04",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
 		{
-			"amount" : 37,
+			"amount" : 123,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/04",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 115,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/04",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 43,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/05",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 24,
 			"buyer" : "pudzo",
 			"location" : 
 			{
@@ -321,11 +643,102 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2018/10/05",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 16,
+			"amount" : 20,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/05",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/05",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/05",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/05",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 91,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 13,
 			"buyer" : "Dragonslair7",
 			"location" : 
 			{
@@ -335,8 +748,54 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/06",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/06",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 84,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -349,6 +808,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/07",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -363,8 +823,39 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/07",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 421,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/08",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 331,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/08",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -377,8 +868,69 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/10",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 127,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 249,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 180,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 64,
@@ -391,8 +943,39 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/12",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 41,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 114,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 6,
@@ -405,11 +988,72 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2018/10/13",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 193,
+			"amount" : 38,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 512,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 163,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 591,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 49,
 			"buyer" : "pudzo",
 			"location" : 
 			{
@@ -419,6 +1063,172 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2018/10/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 44,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 44,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 42,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 42,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 40,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 40,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 36,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 36,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 31,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 31,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 61,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/16",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -433,8 +1243,24 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/16",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 224,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 48,
@@ -447,7 +1273,38 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/17",
+			"type" : "buy",
 			"volume" : 7500,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 455,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 38,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/18",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -461,8 +1318,24 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/19",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 15,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/19",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 430,
@@ -475,8 +1348,54 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/20",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/20",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "Vrael1",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/20",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 132,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/20",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 3,
@@ -489,8 +1408,69 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/20",
+			"type" : "buy",
 			"volume" : 3,
 			"world" : "world"
+		},
+		{
+			"amount" : 278,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/20",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 58,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 356,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 61,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 16,
@@ -503,7 +1483,293 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/21",
+			"type" : "buy",
 			"volume" : 500,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/22",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 219,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/23",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/24",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 773,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/24",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 97,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/25",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/26",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 96,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/26",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 120,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 91,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 40,
+			"buyer" : "danielcxt",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 126,
+			"buyer" : "cmanley1981",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 75,
+			"buyer" : "danielcxt",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 210,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 368,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 176,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 138,
+			"buyer" : "Magnavox",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 145,
+			"buyer" : "Butokuden",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/29",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/30",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -517,6 +1783,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/31",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -531,11 +1798,27 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/10/31",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
 		{
-			"amount" : 363,
+			"amount" : 21,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 15,
 			"buyer" : "Dragonslair7",
 			"location" : 
 			{
@@ -545,6 +1828,247 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2018/10/31",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 13,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 36,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 29,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 166,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 34,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 103,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 137,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 169,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 45,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 514,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 420,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 240,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 561,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 3500,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/01",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 448,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/02",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -559,8 +2083,39 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/02",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 270,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 60,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 16,
@@ -573,8 +2128,69 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/03",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 227,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 125,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 104,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 1,
@@ -587,6 +2203,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/04",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -601,11 +2218,27 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/04",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
 		{
-			"amount" : 88,
+			"amount" : 123,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/05",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 54,
 			"buyer" : "Captain_Handsome",
 			"location" : 
 			{
@@ -615,11 +2248,102 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/06",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
 		{
-			"amount" : 179,
+			"amount" : 1,
+			"buyer" : "Captain_Handsome",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 34,
+			"buyer" : "Captain_Handsome",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/06",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 176,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 93,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 60,
 			"buyer" : "Meiloorun",
 			"location" : 
 			{
@@ -629,6 +2353,517 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 26,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 89,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 37,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 30,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 43,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 31,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 27,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 27,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 21,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 21,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 15,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 15,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 13,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 65,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -643,8 +2878,24 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/07",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 98,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 16,
@@ -657,8 +2908,84 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/08",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 125,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/08",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 396,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/09",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 28,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/09",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 174,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/09",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 683,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 407,
@@ -671,6 +2998,82 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2018/11/10",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 821,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 36,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 362,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 13,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 176,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/10",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -685,8 +3088,99 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/10",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 67,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 41,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 167,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 316,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 68,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 64,
@@ -699,11 +3193,177 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/11/11",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 4,
+			"amount" : 361,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 224,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 108,
+			"buyer" : "ersi",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 83,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 116,
+			"buyer" : "daggvad",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 80,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 75,
+			"buyer" : "daggvad",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 44,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 59,
+			"buyer" : "daggvad",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 94,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2562,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2,
 			"buyer" : "Stormrunners",
 			"location" : 
 			{
@@ -713,8 +3373,84 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/15",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 227,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 1,
@@ -727,11 +3463,87 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/16",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
 		{
-			"amount" : 202,
+			"amount" : 377,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/16",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2925,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/16",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 23,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 96,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 50,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 21,
 			"buyer" : "The_Dodobro",
 			"location" : 
 			{
@@ -741,6 +3553,67 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/19",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 21,
+			"buyer" : "The_Dodobro",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/19",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 131,
+			"buyer" : "The_Dodobro",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/19",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "The_Dodobro",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/19",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 50,
+			"buyer" : "The_Dodobro",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/19",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -755,8 +3628,39 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/19",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 87,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/19",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 26,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 63,
@@ -769,8 +3673,24 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/22",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 100,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/22",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 33,
@@ -783,8 +3703,39 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/22",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 370,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/22",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 188,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/23",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 40,
@@ -797,8 +3748,39 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2018/11/23",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world_the_end"
+		},
+		{
+			"amount" : 63,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/23",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 255,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/24",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
 		},
 		{
 			"amount" : 64,
@@ -811,6 +3793,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/11/24",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world_the_end"
 		},
@@ -825,8 +3808,39 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/24",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "rubez",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/24",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 377,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/24",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 20,
@@ -839,6 +3853,37 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/25",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 135,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/25",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/26",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -853,8 +3898,54 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/26",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 159,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/26",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 773,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 227,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 128,
@@ -867,6 +3958,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/11/28",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world_the_end"
 		},
@@ -881,8 +3973,69 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/28",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 119,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 437,
+			"buyer" : "Remixster",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 18,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/29",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 17,
@@ -895,8 +4048,39 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/29",
+			"type" : "buy",
 			"volume" : 17,
 			"world" : "world"
+		},
+		{
+			"amount" : 39,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/30",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 194,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/30",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 350,
@@ -909,6 +4093,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/30",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -923,8 +4108,24 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/30",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
+		},
+		{
+			"amount" : 662,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/30",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 426,
@@ -937,8 +4138,69 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/01",
+			"type" : "buy",
 			"volume" : 426,
 			"world" : "world"
+		},
+		{
+			"amount" : 45,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/01",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 965,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 96,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/05",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 864,
@@ -951,6 +4213,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/06",
+			"type" : "buy",
 			"volume" : 864,
 			"world" : "world"
 		},
@@ -965,8 +4228,69 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/08",
+			"type" : "buy",
 			"volume" : 16,
 			"world" : "world"
+		},
+		{
+			"amount" : 176,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/09",
+			"type" : "sell",
+			"volume" : 176,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/10",
+			"type" : "sell",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 579,
+			"buyer" : "cmanley1981",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/16",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 222,
@@ -979,11 +4303,42 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2018/12/16",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 3,
+			"amount" : 688,
+			"buyer" : "cmanley1981",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/16",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 367,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
 			"buyer" : "G4t1t4M1m0s4",
 			"location" : 
 			{
@@ -993,7 +4348,203 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/12/21",
+			"type" : "sell",
 			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/12/21",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/12/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/12/21",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1299,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 709,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/22",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/23",
+			"type" : "sell",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/23",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/24",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 240,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/24",
+			"type" : "sell",
+			"volume" : 240,
+			"world" : "world"
+		},
+		{
+			"amount" : 258,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/24",
+			"type" : "sell",
+			"volume" : 258,
+			"world" : "world"
+		},
+		{
+			"amount" : 150,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/24",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 141,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/12/25",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 419,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/25",
+			"type" : "sell",
+			"volume" : 419,
 			"world" : "world"
 		},
 		{
@@ -1007,7 +4558,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/25",
+			"type" : "buy",
 			"volume" : 635,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/28",
+			"type" : "sell",
+			"volume" : 3,
 			"world" : "world"
 		},
 		{
@@ -1021,6 +4588,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/12/28",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world_the_end"
 		},
@@ -1035,6 +4603,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/01/01",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world_the_end"
 		},
@@ -1049,7 +4618,38 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/02",
+			"type" : "buy",
 			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 181,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/01/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 123,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/02",
+			"type" : "sell",
+			"volume" : 123,
 			"world" : "world"
 		},
 		{
@@ -1063,11 +4663,12 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/01/02",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "__Tilt",
 			"location" : 
 			{
@@ -1077,6 +4678,97 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/03",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/03",
+			"type" : "sell",
+			"volume" : 16,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/03",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 82,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/04",
+			"type" : "sell",
+			"volume" : 82,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/04",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -1091,8 +4783,39 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/04",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 367,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/05",
+			"type" : "sell",
+			"volume" : 367,
+			"world" : "world"
+		},
+		{
+			"amount" : 577,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/01/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 246,
@@ -1105,6 +4828,7 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2019/01/07",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -1119,8 +4843,69 @@
 			},
 			"seller" : "FatherTime__",
 			"time" : "2019/01/09",
+			"type" : "buy",
 			"volume" : 35,
 			"world" : "world_the_end"
+		},
+		{
+			"amount" : 272,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/01/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 176,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/15",
+			"type" : "sell",
+			"volume" : 176,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/15",
+			"type" : "sell",
+			"volume" : 192,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
 		},
 		{
 			"amount" : 1,
@@ -1133,6 +4918,67 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/16",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/16",
+			"type" : "sell",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/17",
+			"type" : "sell",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 96,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/20",
+			"type" : "sell",
+			"volume" : 96,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "FatherTime__",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/21",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -1147,7 +4993,38 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/21",
+			"type" : "buy",
 			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "FatherTime__",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 31,
+			"buyer" : "JackAttack1597",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/22",
+			"type" : "sell",
+			"volume" : 31,
 			"world" : "world"
 		},
 		{
@@ -1161,11 +5038,27 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/24",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
 		{
-			"amount" : 35,
+			"amount" : 215,
+			"buyer" : "DIOSWILSON",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/26",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 18,
 			"buyer" : "aether_Design",
 			"location" : 
 			{
@@ -1175,6 +5068,67 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/27",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 18,
+			"buyer" : "aether_Design",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "aether_Design",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/27",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "aether_Design",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "aether_Design",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/27",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -1189,6 +5143,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/27",
+			"type" : "buy",
 			"volume" : 17,
 			"world" : "world"
 		},
@@ -1203,6 +5158,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/27",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/01/27",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -1217,8 +5188,39 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/27",
+			"type" : "buy",
 			"volume" : 4,
 			"world" : "world"
+		},
+		{
+			"amount" : 106,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/01/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/01/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 256,
@@ -1231,6 +5233,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/30",
+			"type" : "buy",
 			"volume" : 256,
 			"world" : "world"
 		},
@@ -1245,6 +5248,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/30",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -1259,6 +5263,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/30",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -1273,6 +5278,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/31",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -1287,8 +5293,24 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/31",
+			"type" : "buy",
 			"volume" : 3,
 			"world" : "world"
+		},
+		{
+			"amount" : 1439,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/01/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 1,
@@ -1301,8 +5323,114 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/01/31",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 446,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/01",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 164,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 379,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 56,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 561,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 144,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 2,
@@ -1315,11 +5443,42 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/03",
+			"type" : "buy",
 			"volume" : 2,
 			"world" : "world"
 		},
 		{
-			"amount" : 432,
+			"amount" : 125,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/02/04",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 338,
 			"buyer" : "__Tilt",
 			"location" : 
 			{
@@ -1329,7 +5488,53 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/02/04",
+			"type" : "buy",
 			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 338,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/04",
+			"type" : "sell",
+			"volume" : 338,
+			"world" : "world"
+		},
+		{
+			"amount" : 94,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/02/04",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 94,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/04",
+			"type" : "sell",
+			"volume" : 94,
 			"world" : "world"
 		},
 		{
@@ -1343,8 +5548,54 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/05",
+			"type" : "buy",
 			"volume" : 5,
 			"world" : "world"
+		},
+		{
+			"amount" : 271,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/05",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 48,
+			"buyer" : "Mr_Digs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 86,
+			"buyer" : "nilssssss",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 6,
@@ -1357,8 +5608,39 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/11",
+			"type" : "buy",
 			"volume" : 6,
 			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 92,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 20,
@@ -1371,8 +5653,54 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/15",
+			"type" : "buy",
 			"volume" : 20,
 			"world" : "world"
+		},
+		{
+			"amount" : 1421,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 109,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/16",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 193,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 16,
@@ -1385,8 +5713,39 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/20",
+			"type" : "buy",
 			"volume" : 16,
 			"world" : "world"
+		},
+		{
+			"amount" : 89,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/21",
+			"type" : "sell",
+			"volume" : 89,
+			"world" : "world"
+		},
+		{
+			"amount" : 169,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 14,
@@ -1399,6 +5758,22 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2019/02/21",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 360,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/21",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -1413,8 +5788,69 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/22",
+			"type" : "buy",
 			"volume" : 8,
 			"world" : "world"
+		},
+		{
+			"amount" : 550,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/23",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 62,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/23",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1244,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/25",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 252,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/26",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 1,
@@ -1427,7 +5863,23 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/02/26",
+			"type" : "buy",
 			"volume" : 5,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 370,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/27",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1441,8 +5893,84 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/27",
+			"type" : "buy",
 			"volume" : 80,
 			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "FatherTime__",
+			"location" : 
+			{
+				"x" : 80,
+				"y" : 67,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/27",
+			"type" : "sell",
+			"volume" : 16,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "FatherTime__",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/02/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 266,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 212,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 71,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 8,
@@ -1455,8 +5983,39 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/02/28",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/02/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 197,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/01",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 1,
@@ -1469,6 +6028,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/03/01",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -1483,7 +6043,38 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/01",
+			"type" : "buy",
 			"volume" : 150,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 395,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 334,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/04",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1497,6 +6088,22 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/03/04",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 49,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/03/04",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -1511,8 +6118,54 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2019/03/04",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
+		},
+		{
+			"amount" : 38,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/04",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2019/03/04",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 33,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/04",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 1,
@@ -1525,7 +6178,38 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/05",
+			"type" : "buy",
 			"volume" : 5,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 105,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 276,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/07",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1539,6 +6223,22 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2019/03/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 288,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/07",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -1553,7 +6253,38 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/08",
+			"type" : "buy",
 			"volume" : 5,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 285,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/08",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 99,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/09",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1567,7 +6298,113 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/09",
+			"type" : "buy",
 			"volume" : 50,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 200,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 362,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 330,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 259,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 343,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 450,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 260,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/14",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1581,7 +6418,38 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/16",
+			"type" : "buy",
 			"volume" : 85,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 102,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 159,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/17",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1595,7 +6463,53 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/17",
+			"type" : "buy",
 			"volume" : 50,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 127,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 158,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 221,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/19",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1609,6 +6523,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/19",
+			"type" : "buy",
 			"volume" : 5,
 			"world" : "world_the_end"
 		},
@@ -1623,7 +6538,23 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/19",
+			"type" : "buy",
 			"volume" : 50,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 464,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/19",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1637,6 +6568,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/20",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world_the_end"
 		},
@@ -1651,6 +6583,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/20",
+			"type" : "buy",
 			"volume" : 720,
 			"world" : "world"
 		},
@@ -1665,6 +6598,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/22",
+			"type" : "buy",
 			"volume" : 1040,
 			"world" : "world"
 		},
@@ -1679,6 +6613,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/22",
+			"type" : "buy",
 			"volume" : 180,
 			"world" : "world_the_end"
 		},
@@ -1693,6 +6628,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/23",
+			"type" : "buy",
 			"volume" : 5,
 			"world" : "world_the_end"
 		},
@@ -1707,7 +6643,53 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/23",
+			"type" : "buy",
 			"volume" : 5,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 323,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/23",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 60,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/23",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 403,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/25",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1721,8 +6703,24 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/25",
+			"type" : "buy",
 			"volume" : 17,
 			"world" : "world"
+		},
+		{
+			"amount" : 499,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/26",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 176,
@@ -1735,8 +6733,54 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/28",
+			"type" : "buy",
 			"volume" : 176,
 			"world" : "world"
+		},
+		{
+			"amount" : 83,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 777,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/30",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 16,
@@ -1749,7 +6793,23 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/30",
+			"type" : "buy",
 			"volume" : 12.5,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 47,
+			"buyer" : "TheScrubJay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/03/31",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1763,7 +6823,98 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/31",
+			"type" : "buy",
 			"volume" : 37.5,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 51,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 43,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/04",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 154,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/05",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 89,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/05",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 78,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 169,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/06",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1777,6 +6928,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/06",
+			"type" : "buy",
 			"volume" : 1200,
 			"world" : "world"
 		},
@@ -1791,6 +6943,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/04/06",
+			"type" : "buy",
 			"volume" : 165,
 			"world" : "world_the_end"
 		},
@@ -1805,7 +6958,53 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/04/06",
+			"type" : "buy",
 			"volume" : 175,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 121,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 87,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/08",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1819,6 +7018,67 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2019/04/08",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/08",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 321,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/09",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 144,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 497,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/13",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -1833,6 +7093,82 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2019/04/13",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 272,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 29,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 352,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 151,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 110,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/14",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -1847,8 +7183,39 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/04/16",
+			"type" : "buy",
 			"volume" : 288,
 			"world" : "world"
+		},
+		{
+			"amount" : 140,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/16",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 309,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/16",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 48,
@@ -1861,8 +7228,24 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/04/17",
+			"type" : "buy",
 			"volume" : 48,
 			"world" : "world"
+		},
+		{
+			"amount" : 163,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -1875,8 +7258,84 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/04/18",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
+		},
+		{
+			"amount" : 457,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/20",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 48,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/20",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 196,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/22",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 86,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 64,
@@ -1889,6 +7348,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/04/29",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world_the_end"
 		},
@@ -1903,7 +7363,23 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/04/29",
+			"type" : "buy",
 			"volume" : 50,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 109,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/04/29",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -1917,6 +7393,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/04/30",
+			"type" : "buy",
 			"volume" : 4,
 			"world" : "world"
 		},
@@ -1931,6 +7408,7 @@
 			},
 			"seller" : "coconewell92",
 			"time" : "2019/04/30",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		},
@@ -1945,6 +7423,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/04/30",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world_the_end"
 		},
@@ -1959,6 +7438,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/04/30",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world_the_end"
 		},
@@ -1973,6 +7453,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/04/30",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world_the_end"
 		},
@@ -1987,8 +7468,69 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/04/30",
+			"type" : "buy",
 			"volume" : 16,
 			"world" : "world"
+		},
+		{
+			"amount" : 89,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/01",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 25,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/01",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "dandenoth",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 73,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -2001,6 +7543,7 @@
 			},
 			"seller" : "coconewell92",
 			"time" : "2019/05/02",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -2015,7 +7558,173 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/05/02",
+			"type" : "buy",
 			"volume" : 5,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1468,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 209,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 100,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 625,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 107,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/04",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 34,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/04",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 47,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/05",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 90,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/05",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 107,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 573,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/06",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -2029,8 +7738,84 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/05/09",
+			"type" : "buy",
 			"volume" : 2,
 			"world" : "world"
+		},
+		{
+			"amount" : 92,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/09",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "sharonclaws",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 28,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 84,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 97,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 2,
@@ -2043,8 +7828,24 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/05/14",
+			"type" : "buy",
 			"volume" : 2,
 			"world" : "world"
+		},
+		{
+			"amount" : 228,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 16,
@@ -2057,8 +7858,39 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/05/15",
+			"type" : "buy",
 			"volume" : 16,
 			"world" : "world"
+		},
+		{
+			"amount" : 29,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 108,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/16",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -2071,7 +7903,113 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/05/17",
+			"type" : "buy",
 			"volume" : 25,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 68,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 15,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 58,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/19",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 129,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 80,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/24",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 129,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/25",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 78,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/26",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -2085,8 +8023,69 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/05/26",
+			"type" : "buy",
 			"volume" : 333,
 			"world" : "world"
+		},
+		{
+			"amount" : 175,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 189,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 195,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/29",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 62,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/30",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 64,
@@ -2099,7 +8098,23 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/05/31",
+			"type" : "buy",
 			"volume" : 100,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/05/31",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -2113,6 +8128,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/06/06",
+			"type" : "buy",
 			"volume" : 114.06,
 			"world" : "world_the_end"
 		},
@@ -2127,7 +8143,23 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/06/06",
+			"type" : "buy",
 			"volume" : 471.88,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 59,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/06/08",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -2141,6 +8173,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/06/11",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -2155,8 +8188,24 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/06/14",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
+		},
+		{
+			"amount" : 76,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/06/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 16,
@@ -2169,8 +8218,54 @@
 			},
 			"seller" : "Stormrunners",
 			"time" : "2019/06/15",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world"
+		},
+		{
+			"amount" : 962,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/06/16",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 431,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/06/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 373,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/06/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -2183,8 +8278,99 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/06/19",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
+		},
+		{
+			"amount" : 65,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/06/19",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/06/20",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 376,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/06/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 250,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/06/22",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 257,
+			"buyer" : "SilverBearClaw",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/07/02",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 133,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/07/03",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 28,
@@ -2197,6 +8383,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/08",
+			"type" : "buy",
 			"volume" : 28,
 			"world" : "world"
 		},
@@ -2211,11 +8398,12 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/10",
+			"type" : "buy",
 			"volume" : 10,
 			"world" : "world"
 		},
 		{
-			"amount" : 65,
+			"amount" : 1,
 			"buyer" : "Mathemagician4",
 			"location" : 
 			{
@@ -2225,7 +8413,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/11",
-			"volume" : 65,
+			"type" : "buy",
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mathemagician4",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 61,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/11",
+			"type" : "sell",
+			"volume" : 0.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Mathemagician4",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 61,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/11",
+			"type" : "buy",
+			"volume" : 64,
 			"world" : "world"
 		},
 		{
@@ -2239,6 +8458,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/11",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		},
@@ -2253,6 +8473,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/11",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		},
@@ -2267,8 +8488,39 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/14",
+			"type" : "buy",
 			"volume" : 208,
 			"world" : "world"
+		},
+		{
+			"amount" : 240,
+			"buyer" : "Dredhounds",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 61,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/14",
+			"type" : "sell",
+			"volume" : 120,
+			"world" : "world"
+		},
+		{
+			"amount" : 29,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/07/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 20,
@@ -2281,6 +8533,37 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2019/07/17",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 36,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/07/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 533,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/07/18",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -2295,6 +8578,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/21",
+			"type" : "buy",
 			"volume" : 4,
 			"world" : "world"
 		},
@@ -2309,6 +8593,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/22",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		},
@@ -2323,8 +8608,69 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/24",
+			"type" : "buy",
 			"volume" : 16,
 			"world" : "world"
+		},
+		{
+			"amount" : 96,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 61,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/26",
+			"type" : "sell",
+			"volume" : 48,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 60,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/26",
+			"type" : "sell",
+			"volume" : 16,
+			"world" : "world"
+		},
+		{
+			"amount" : 58,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 61,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/26",
+			"type" : "sell",
+			"volume" : 29,
+			"world" : "world"
+		},
+		{
+			"amount" : 54,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/07/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -2337,6 +8683,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/07/27",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
 		},
@@ -2351,20 +8698,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/29",
-			"volume" : 64,
-			"world" : "world"
-		},
-		{
-			"amount" : 16,
-			"buyer" : "daboogaoogaman",
-			"location" : 
-			{
-				"x" : 54,
-				"y" : 59,
-				"z" : -15
-			},
-			"seller" : "K9us",
-			"time" : "2019/07/29",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -2379,7 +8713,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/29",
+			"type" : "buy",
 			"volume" : 32,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 59,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/29",
+			"type" : "buy",
+			"volume" : 64,
 			"world" : "world"
 		},
 		{
@@ -2393,6 +8743,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/29",
+			"type" : "buy",
 			"volume" : 33,
 			"world" : "world"
 		},
@@ -2407,6 +8758,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/29",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		},
@@ -2421,6 +8773,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/07/29",
+			"type" : "buy",
 			"volume" : 300,
 			"world" : "world_the_end"
 		},
@@ -2435,6 +8788,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/07/29",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
 		},
@@ -2449,6 +8803,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/07/30",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world_the_end"
 		},
@@ -2463,6 +8818,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/30",
+			"type" : "buy",
 			"volume" : 1,
 			"world" : "world"
 		},
@@ -2477,6 +8833,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/30",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -2491,7 +8848,23 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/07/30",
+			"type" : "buy",
 			"volume" : 100,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 359,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/07/30",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -2505,6 +8878,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/30",
+			"type" : "buy",
 			"volume" : 3,
 			"world" : "world"
 		},
@@ -2519,6 +8893,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/31",
+			"type" : "buy",
 			"volume" : 3,
 			"world" : "world"
 		},
@@ -2533,6 +8908,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/07/31",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world_the_end"
 		},
@@ -2547,6 +8923,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/31",
+			"type" : "buy",
 			"volume" : 1,
 			"world" : "world"
 		},
@@ -2561,8 +8938,24 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/31",
+			"type" : "buy",
 			"volume" : 2,
 			"world" : "world"
+		},
+		{
+			"amount" : 448,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/07/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -2575,6 +8968,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/08/01",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
 		},
@@ -2589,6 +8983,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/08/04",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
 		},
@@ -2603,8 +8998,24 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/07",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
+		},
+		{
+			"amount" : 144,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 16,
@@ -2617,8 +9028,24 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/08/08",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world"
+		},
+		{
+			"amount" : 403,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/09",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 8,
@@ -2631,8 +9058,24 @@
 			},
 			"seller" : "Stormrunners",
 			"time" : "2019/08/10",
+			"type" : "buy",
 			"volume" : 25,
 			"world" : "world"
+		},
+		{
+			"amount" : 493,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 1,
@@ -2645,8 +9088,24 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/11",
+			"type" : "buy",
 			"volume" : 1,
 			"world" : "world"
+		},
+		{
+			"amount" : 87,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 37,
@@ -2659,6 +9118,52 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2019/08/11",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1406,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1082,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 207,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/12",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -2673,8 +9178,24 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/13",
+			"type" : "buy",
 			"volume" : 2,
 			"world" : "world"
+		},
+		{
+			"amount" : 51,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 16,
@@ -2687,11 +9208,72 @@
 			},
 			"seller" : "coconewell92",
 			"time" : "2019/08/13",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		},
 		{
-			"amount" : 192,
+			"amount" : 220,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 35,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 118,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 72,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 310,
 			"buyer" : "ezrone",
 			"location" : 
 			{
@@ -2701,6 +9283,142 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2019/08/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 45,
+			"buyer" : "AC391694",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 86,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 69,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/18",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 69,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 63,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/18",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 63,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 60,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/18",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 60,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/18",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 21,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "Vallenius",
+			"time" : "2019/08/19",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -2715,8 +9433,24 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/08/19",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "ezrone",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 48,
@@ -2729,6 +9463,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/22",
+			"type" : "buy",
 			"volume" : 48,
 			"world" : "world"
 		},
@@ -2743,11 +9478,27 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/08/22",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 310,
+			"amount" : 432,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/23",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 61,
 			"buyer" : "johsjohsjohs",
 			"location" : 
 			{
@@ -2757,6 +9508,52 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2019/08/23",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 505,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/23",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 249,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/23",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 309,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/23",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -2771,6 +9568,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/24",
+			"type" : "buy",
 			"volume" : 4,
 			"world" : "world"
 		},
@@ -2785,8 +9583,84 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/24",
+			"type" : "buy",
 			"volume" : 2,
 			"world" : "world"
+		},
+		{
+			"amount" : 1284,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/30",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 555,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/08/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 293,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 218,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "Vallenius",
+			"time" : "2019/09/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 47,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 194,
@@ -2799,7 +9673,68 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/09/08",
+			"type" : "buy",
 			"volume" : 303.13,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "Vallenius",
+			"time" : "2019/09/08",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 179,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/09",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 304,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 463,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/11",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -2813,8 +9748,54 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/09/13",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
+		},
+		{
+			"amount" : 129,
+			"buyer" : "Thoreu",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 369,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 165,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/16",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 2,
@@ -2827,8 +9808,54 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/09/20",
+			"type" : "buy",
 			"volume" : 2,
 			"world" : "world"
+		},
+		{
+			"amount" : 1571,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/25",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 244,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/26",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 618,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/09/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 40,
@@ -2841,6 +9868,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/10/10",
+			"type" : "buy",
 			"volume" : 40,
 			"world" : "world"
 		},
@@ -2855,8 +9883,24 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/10/12",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
+		},
+		{
+			"amount" : 358,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/10/19",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 35,
@@ -2869,6 +9913,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/10/27",
+			"type" : "buy",
 			"volume" : 35,
 			"world" : "world"
 		},
@@ -2883,6 +9928,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/10/29",
+			"type" : "buy",
 			"volume" : 128,
 			"world" : "world"
 		},
@@ -2897,8 +9943,54 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/10/29",
+			"type" : "buy",
 			"volume" : 244,
 			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 61,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2019/10/29",
+			"type" : "sell",
+			"volume" : 8,
+			"world" : "world"
+		},
+		{
+			"amount" : 730,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/10/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 714,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/11/08",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -2911,6 +10003,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/11/13",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
 		},
@@ -2925,6 +10018,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/11/14",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
 		},
@@ -2939,8 +10033,24 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/11/25",
+			"type" : "buy",
 			"volume" : 225,
 			"world" : "world"
+		},
+		{
+			"amount" : 169,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/12/04",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 1,
@@ -2953,7 +10063,173 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/12/06",
+			"type" : "buy",
 			"volume" : 5,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1410,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/12/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 3815,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/12/08",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2425,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/12/09",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2403,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/12/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1018,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/12/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 513,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2019/12/21",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1297,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/01/19",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 65,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 59,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 130,
+			"world" : "world"
+		},
+		{
+			"amount" : 33,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 60,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 33,
+			"world" : "world"
+		},
+		{
+			"amount" : 179,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 61,
+				"z" : -15
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 89.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 1040,
+			"buyer" : "_mrpuggy_",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/01/29",
+			"type" : "sell",
+			"volume" : 0,
 			"world" : "world_the_end"
 		},
 		{
@@ -2967,6 +10243,37 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2020/01/29",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 361,
+			"buyer" : "_mrpuggy_",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/01/29",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "_mrpuggy_",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/01/30",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -2981,8 +10288,69 @@
 			},
 			"seller" : "_mrpuggy_",
 			"time" : "2020/02/01",
+			"type" : "buy",
 			"volume" : 2.5,
 			"world" : "world"
+		},
+		{
+			"amount" : 311,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/02/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 150,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/02/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1722,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/03/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 671,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/03/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -2995,8 +10363,69 @@
 			},
 			"seller" : "_mrpuggy_",
 			"time" : "2020/03/08",
+			"type" : "buy",
 			"volume" : 5,
 			"world" : "world"
+		},
+		{
+			"amount" : 588,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/03/09",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/03/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 53,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/03/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1157,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/03/17",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 32,
@@ -3009,6 +10438,7 @@
 			},
 			"seller" : "ZeroGDucks",
 			"time" : "2020/03/17",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world"
 		},
@@ -3023,8 +10453,24 @@
 			},
 			"seller" : "ZeroGDucks",
 			"time" : "2020/03/18",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world"
+		},
+		{
+			"amount" : 121,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/03/19",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		},
 		{
 			"amount" : 117,
@@ -3037,6 +10483,7 @@
 			},
 			"seller" : "Cardano_ff",
 			"time" : "2020/03/19",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world_the_end"
 		},
@@ -3051,6 +10498,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/03/21",
+			"type" : "buy",
 			"volume" : 75,
 			"world" : "world"
 		},
@@ -3065,6 +10513,7 @@
 			},
 			"seller" : "_mrpuggy_",
 			"time" : "2020/03/26",
+			"type" : "buy",
 			"volume" : 7.5,
 			"world" : "world"
 		},
@@ -3079,8 +10528,39 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/03/26",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
+		},
+		{
+			"amount" : 400,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/03/27",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "Spectate_Nate",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/03/28",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
 		}
 	]
 }

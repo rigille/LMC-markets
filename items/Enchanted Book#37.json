@@ -13,6 +13,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/01",
+			"type" : "buy",
 			"volume" : 32000,
 			"world" : "world"
 		},
@@ -27,7 +28,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/04",
+			"type" : "buy",
 			"volume" : 25000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -15,
+				"y" : 66,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2018/11/05",
+			"type" : "sell",
+			"volume" : 8000,
 			"world" : "world"
 		},
 		{
@@ -41,6 +58,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/11/10",
+			"type" : "buy",
 			"volume" : 9000,
 			"world" : "world"
 		},
@@ -55,6 +73,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/11/20",
+			"type" : "buy",
 			"volume" : 9000,
 			"world" : "world"
 		},
@@ -69,6 +88,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/11/28",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -83,6 +103,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/11/28",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -97,6 +118,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/04",
+			"type" : "buy",
 			"volume" : 5500,
 			"world" : "world"
 		},
@@ -111,7 +133,53 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/04",
+			"type" : "buy",
 			"volume" : 2000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/19",
+			"type" : "sell",
+			"volume" : 1900,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "G4t1t4M1m0s4",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/24",
+			"type" : "sell",
+			"volume" : 3800,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 51,
+				"y" : 73,
+				"z" : -17
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/02",
+			"type" : "sell",
+			"volume" : 1900,
 			"world" : "world"
 		},
 		{
@@ -125,6 +193,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/02",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -139,6 +208,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/04",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -153,6 +223,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/05",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -167,6 +238,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/09",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -181,6 +253,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/16",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -195,6 +268,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/17",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -209,6 +283,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/17",
+			"type" : "buy",
 			"volume" : 3300,
 			"world" : "world"
 		},
@@ -223,7 +298,38 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/02/22",
+			"type" : "buy",
 			"volume" : 1900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 63,
+				"z" : -63
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/23",
+			"type" : "sell",
+			"volume" : 1900,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : -9,
+				"y" : 59,
+				"z" : 7
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/02/25",
+			"type" : "sell",
+			"volume" : 3800,
 			"world" : "world"
 		},
 		{
@@ -237,6 +343,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/05",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -251,6 +358,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/18",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -265,6 +373,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/19",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		},
@@ -279,6 +388,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/03/25",
+			"type" : "buy",
 			"volume" : 1900,
 			"world" : "world"
 		},
@@ -293,6 +403,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2019/03/30",
+			"type" : "buy",
 			"volume" : 1900,
 			"world" : "world"
 		}

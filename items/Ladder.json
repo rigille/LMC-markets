@@ -3,6 +3,51 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 6,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : 16,
+				"y" : 72,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/19",
+			"type" : "sell",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 21,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 16,
+				"y" : 72,
+				"z" : -19
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/27",
+			"type" : "sell",
+			"volume" : 105,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 83,
+				"y" : 61,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/09",
+			"type" : "sell",
+			"volume" : 36,
+			"world" : "world"
+		},
+		{
 			"amount" : 64,
 			"buyer" : "ersi",
 			"location" : 
@@ -13,6 +58,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/02",
+			"type" : "buy",
 			"volume" : 704,
 			"world" : "world"
 		}

@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/19",
+			"type" : "buy",
 			"volume" : 9000,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/04",
+			"type" : "buy",
 			"volume" : 1120,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/10/31",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world"
 		}

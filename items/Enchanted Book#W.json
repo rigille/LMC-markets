@@ -13,7 +13,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2020/01/10",
+			"type" : "buy",
 			"volume" : 560,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Threethan",
+			"location" : 
+			{
+				"x" : 58,
+				"y" : 51,
+				"z" : -53
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/10",
+			"type" : "sell",
+			"volume" : 460,
 			"world" : "world"
 		}
 	]

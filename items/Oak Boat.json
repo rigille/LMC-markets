@@ -13,6 +13,7 @@
 			},
 			"seller" : "Heronproject",
 			"time" : "2018/09/10",
+			"type" : "buy",
 			"volume" : 20,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Heronproject",
 			"time" : "2018/11/10",
+			"type" : "buy",
 			"volume" : 10,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/21",
+			"type" : "buy",
 			"volume" : 35,
 			"world" : "world"
 		},
@@ -55,7 +58,23 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/04/15",
+			"type" : "buy",
 			"volume" : 250,
+			"world" : "world"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "FireCube",
+			"location" : 
+			{
+				"x" : -534,
+				"y" : 69,
+				"z" : -1000
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/04/26",
+			"type" : "sell",
+			"volume" : 700,
 			"world" : "world"
 		},
 		{
@@ -69,7 +88,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 70,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -534,
+				"y" : 69,
+				"z" : -1000
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/05/10",
+			"type" : "sell",
+			"volume" : 50,
 			"world" : "world"
 		},
 		{
@@ -83,6 +118,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/06/19",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -97,7 +133,38 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/06/22",
+			"type" : "buy",
 			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -93
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/31",
+			"type" : "sell",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 0,
+				"y" : 63,
+				"z" : -473
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/09/12",
+			"type" : "sell",
+			"volume" : 900,
 			"world" : "world"
 		},
 		{
@@ -111,6 +178,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/09/24",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -125,7 +193,23 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/10/22",
+			"type" : "buy",
 			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Smithgift",
+			"location" : 
+			{
+				"x" : -997,
+				"y" : 63,
+				"z" : -1010
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/11/16",
+			"type" : "sell",
+			"volume" : 200,
 			"world" : "world"
 		},
 		{
@@ -139,7 +223,23 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/11/26",
+			"type" : "buy",
 			"volume" : 300,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 1992,
+				"y" : 65,
+				"z" : -2001
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2019/11/26",
+			"type" : "sell",
+			"volume" : 100,
 			"world" : "world"
 		},
 		{
@@ -153,6 +253,7 @@
 			},
 			"seller" : "illdeletethis",
 			"time" : "2019/12/25",
+			"type" : "buy",
 			"volume" : 90,
 			"world" : "world"
 		},
@@ -167,7 +268,23 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/01/04",
+			"type" : "buy",
 			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : -534,
+				"y" : 69,
+				"z" : -1000
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/11",
+			"type" : "sell",
+			"volume" : 50,
 			"world" : "world"
 		},
 		{
@@ -181,7 +298,38 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/01/12",
+			"type" : "buy",
 			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : -997,
+				"y" : 63,
+				"z" : -1010
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/19",
+			"type" : "sell",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -19,
+				"y" : 69,
+				"z" : -151
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/25",
+			"type" : "sell",
+			"volume" : 100,
 			"world" : "world"
 		},
 		{
@@ -195,7 +343,23 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/01/31",
+			"type" : "buy",
 			"volume" : 125,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Cinderace2578",
+			"location" : 
+			{
+				"x" : -1661,
+				"y" : 64,
+				"z" : 2048
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/31",
+			"type" : "sell",
+			"volume" : 50,
 			"world" : "world"
 		},
 		{
@@ -209,6 +373,7 @@
 			},
 			"seller" : "illdeletethis",
 			"time" : "2020/02/18",
+			"type" : "buy",
 			"volume" : 90,
 			"world" : "world"
 		},
@@ -223,6 +388,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/02/29",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -237,6 +403,7 @@
 			},
 			"seller" : "illdeletethis",
 			"time" : "2020/03/26",
+			"type" : "buy",
 			"volume" : 90,
 			"world" : "world"
 		},
@@ -251,6 +418,7 @@
 			},
 			"seller" : "illdeletethis",
 			"time" : "2020/03/26",
+			"type" : "buy",
 			"volume" : 90,
 			"world" : "world"
 		},
@@ -265,6 +433,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/03/26",
+			"type" : "buy",
 			"volume" : 400,
 			"world" : "world"
 		},
@@ -279,6 +448,7 @@
 			},
 			"seller" : "illdeletethis",
 			"time" : "2020/03/27",
+			"type" : "buy",
 			"volume" : 90,
 			"world" : "world"
 		}

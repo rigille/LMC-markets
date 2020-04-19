@@ -13,6 +13,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/09/27",
+			"type" : "buy",
 			"volume" : 1,
 			"world" : "world"
 		},
@@ -26,8 +27,39 @@
 				"z" : 83
 			},
 			"seller" : "AteUrC00ki35",
+			"time" : "2018/09/27",
+			"type" : "sell",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : -346,
+				"y" : 70,
+				"z" : 83
+			},
+			"seller" : "AteUrC00ki35",
 			"time" : "2018/09/29",
+			"type" : "buy",
 			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : -346,
+				"y" : 70,
+				"z" : 83
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/09/29",
+			"type" : "sell",
+			"volume" : 10,
 			"world" : "world"
 		},
 		{
@@ -41,6 +73,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/11/10",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -55,6 +88,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/11/26",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -69,6 +103,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/12/22",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world"
 		},
@@ -83,6 +118,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2019/01/31",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -97,6 +133,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2019/07/09",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world"
 		},
@@ -111,6 +148,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2019/11/03",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world"
 		}

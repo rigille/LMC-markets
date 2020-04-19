@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/01",
+			"type" : "buy",
 			"volume" : 250000,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/04",
+			"type" : "buy",
 			"volume" : 260000,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/06",
+			"type" : "buy",
 			"volume" : 270000,
 			"world" : "world"
 		}

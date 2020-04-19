@@ -13,6 +13,22 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/06",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Ostafrikasaurus",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -299
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/10/06",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -27,11 +43,27 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/06",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		},
 		{
-			"amount" : 3,
+			"amount" : 1,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -299
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/10/06",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
 			"buyer" : "mendor77",
 			"location" : 
 			{
@@ -41,6 +73,52 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/08",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -299
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/10/08",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -299
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/10/08",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "mendor77",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -299
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/10/08",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -55,6 +133,22 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/11",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 114,
+				"y" : 66,
+				"z" : -299
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/10/11",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -69,6 +163,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/04/16",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		}

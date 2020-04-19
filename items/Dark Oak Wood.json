@@ -3,6 +3,36 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 765,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -51
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/15",
+			"type" : "sell",
+			"volume" : 91800,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 912,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 112,
+				"z" : -51
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/16",
+			"type" : "sell",
+			"volume" : 109440,
+			"world" : "world_nether"
+		},
+		{
 			"amount" : 1677,
 			"buyer" : "__Wildfire_",
 			"location" : 
@@ -13,6 +43,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/12/02",
+			"type" : "buy",
 			"volume" : 48633,
 			"world" : "world_nether"
 		},
@@ -27,7 +58,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/10",
+			"type" : "buy",
 			"volume" : 1176,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "coconewell92",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/10",
+			"type" : "sell",
+			"volume" : 800,
 			"world" : "world"
 		},
 		{
@@ -41,6 +88,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 441,
 			"world" : "world"
 		},
@@ -55,6 +103,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/19",
+			"type" : "buy",
 			"volume" : 735,
 			"world" : "world"
 		}

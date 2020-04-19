@@ -3,6 +3,36 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 667,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 112,
+				"z" : -53
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 33350,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 75,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/29",
+			"type" : "sell",
+			"volume" : 1125,
+			"world" : "world"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,7 +43,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 51,
+			"world" : "world"
+		},
+		{
+			"amount" : 563,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/30",
+			"type" : "sell",
+			"volume" : 8445,
+			"world" : "world"
+		},
+		{
+			"amount" : 111,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 62,
+				"z" : -42
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/01",
+			"type" : "sell",
+			"volume" : 1665,
 			"world" : "world"
 		},
 		{
@@ -27,6 +88,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/29",
+			"type" : "buy",
 			"volume" : 5440,
 			"world" : "world"
 		}

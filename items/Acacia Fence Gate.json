@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 1,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 61,
+				"z" : -75
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/06",
+			"type" : "sell",
+			"volume" : 63,
+			"world" : "world"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,7 +28,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 213,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "monkeyboy448",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 61,
+				"z" : -75
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/08",
+			"type" : "sell",
+			"volume" : 1386,
 			"world" : "world"
 		}
 	]

@@ -13,7 +13,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/11/02",
+			"type" : "buy",
 			"volume" : 18,
+			"world" : "world"
+		},
+		{
+			"amount" : 1142,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 14,
+				"y" : 63,
+				"z" : -76
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/28",
+			"type" : "sell",
+			"volume" : 10278,
+			"world" : "world"
+		},
+		{
+			"amount" : 1920,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 14,
+				"y" : 64,
+				"z" : -76
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/28",
+			"type" : "sell",
+			"volume" : 8640,
 			"world" : "world"
 		},
 		{
@@ -27,7 +58,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/12/28",
+			"type" : "buy",
 			"volume" : 576,
+			"world" : "world"
+		},
+		{
+			"amount" : 458,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 14,
+				"y" : 64,
+				"z" : -76
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/28",
+			"type" : "sell",
+			"volume" : 2061,
 			"world" : "world"
 		}
 	]

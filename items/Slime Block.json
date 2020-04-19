@@ -13,6 +13,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/08",
+			"type" : "buy",
 			"volume" : 72,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/12",
+			"type" : "buy",
 			"volume" : 288,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/13",
+			"type" : "buy",
 			"volume" : 72,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/23",
+			"type" : "buy",
 			"volume" : 72,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/12/27",
+			"type" : "buy",
 			"volume" : 72,
 			"world" : "world"
 		},
@@ -83,6 +88,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/29",
+			"type" : "buy",
 			"volume" : 6.5999999999999996,
 			"world" : "world"
 		},
@@ -97,6 +103,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/12",
+			"type" : "buy",
 			"volume" : 144,
 			"world" : "world"
 		},
@@ -111,6 +118,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/12",
+			"type" : "buy",
 			"volume" : 720,
 			"world" : "world"
 		},
@@ -125,6 +133,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/14",
+			"type" : "buy",
 			"volume" : 288,
 			"world" : "world"
 		},
@@ -139,6 +148,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/01/14",
+			"type" : "buy",
 			"volume" : 72,
 			"world" : "world"
 		},
@@ -153,6 +163,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/01/24",
+			"type" : "buy",
 			"volume" : 1.1000000000000001,
 			"world" : "world"
 		},
@@ -167,6 +178,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/01",
+			"type" : "buy",
 			"volume" : 72,
 			"world" : "world"
 		},
@@ -181,6 +193,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/12",
+			"type" : "buy",
 			"volume" : 216,
 			"world" : "world"
 		},
@@ -195,6 +208,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/18",
+			"type" : "buy",
 			"volume" : 72,
 			"world" : "world"
 		},
@@ -209,6 +223,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/05",
+			"type" : "buy",
 			"volume" : 5.5,
 			"world" : "world"
 		},
@@ -223,6 +238,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 1.1000000000000001,
 			"world" : "world"
 		},
@@ -237,6 +253,7 @@
 			},
 			"seller" : "Stormrunners",
 			"time" : "2019/06/07",
+			"type" : "buy",
 			"volume" : 320,
 			"world" : "world"
 		},
@@ -251,7 +268,23 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/06/23",
+			"type" : "buy",
 			"volume" : 5,
+			"world" : "world"
+		},
+		{
+			"amount" : 37,
+			"buyer" : "Dioswilson",
+			"location" : 
+			{
+				"x" : -1871,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/10/10",
+			"type" : "sell",
+			"volume" : 37,
 			"world" : "world"
 		},
 		{
@@ -265,6 +298,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/01/13",
+			"type" : "buy",
 			"volume" : 15,
 			"world" : "world"
 		},
@@ -279,6 +313,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/01/19",
+			"type" : "buy",
 			"volume" : 10,
 			"world" : "world"
 		},
@@ -293,6 +328,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/02/11",
+			"type" : "buy",
 			"volume" : 10,
 			"world" : "world"
 		},
@@ -307,6 +343,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/02/12",
+			"type" : "buy",
 			"volume" : 10,
 			"world" : "world"
 		},
@@ -321,6 +358,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/02/15",
+			"type" : "buy",
 			"volume" : 95,
 			"world" : "world"
 		},
@@ -335,6 +373,7 @@
 			},
 			"seller" : "Minarchu",
 			"time" : "2020/03/22",
+			"type" : "buy",
 			"volume" : 3025,
 			"world" : "world"
 		}

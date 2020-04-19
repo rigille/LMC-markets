@@ -3,6 +3,96 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 1488,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 116,
+				"z" : -38
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/16",
+			"type" : "sell",
+			"volume" : 33480,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 353,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 116,
+				"z" : -38
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/17",
+			"type" : "sell",
+			"volume" : 7942.5,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 561,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 116,
+				"z" : -38
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/19",
+			"type" : "sell",
+			"volume" : 12622.5,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 141,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -22,
+				"y" : 116,
+				"z" : -38
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/23",
+			"type" : "sell",
+			"volume" : 3172.5,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/28",
+			"type" : "sell",
+			"volume" : 7,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/09",
+			"type" : "sell",
+			"volume" : 14,
+			"world" : "world"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,7 +103,53 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 27,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/18",
+			"type" : "sell",
+			"volume" : 21,
+			"world" : "world"
+		},
+		{
+			"amount" : 277,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/31",
+			"type" : "sell",
+			"volume" : 1939,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "hvick255",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 14,
 			"world" : "world"
 		}
 	]

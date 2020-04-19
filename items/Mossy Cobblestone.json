@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 391,
+			"buyer" : "Magnavox",
+			"location" : 
+			{
+				"x" : 93,
+				"y" : 57,
+				"z" : -100
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/10/25",
+			"type" : "sell",
+			"volume" : 2443.75,
+			"world" : "world_the_end"
+		},
+		{
 			"amount" : 10,
 			"buyer" : "MiChupacabaras",
 			"location" : 
@@ -13,7 +28,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/11/21",
+			"type" : "buy",
 			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 18,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 73,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/24",
+			"type" : "sell",
+			"volume" : 90,
+			"world" : "world"
+		},
+		{
+			"amount" : 246,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 73,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/23",
+			"type" : "sell",
+			"volume" : 1230,
 			"world" : "world"
 		},
 		{
@@ -27,6 +73,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/01/07",
+			"type" : "buy",
 			"volume" : 448,
 			"world" : "world_the_end"
 		},
@@ -41,7 +88,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/05",
+			"type" : "buy",
 			"volume" : 960,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : 41,
+				"y" : 71,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/05",
+			"type" : "sell",
+			"volume" : 320,
+			"world" : "world"
+		},
+		{
+			"amount" : 65,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 41,
+				"y" : 71,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/23",
+			"type" : "sell",
+			"volume" : 325,
 			"world" : "world"
 		},
 		{
@@ -55,7 +133,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/07",
+			"type" : "buy",
 			"volume" : 4455,
+			"world" : "world"
+		},
+		{
+			"amount" : 34,
+			"buyer" : "Lego_UOE",
+			"location" : 
+			{
+				"x" : 41,
+				"y" : 71,
+				"z" : -24
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/10",
+			"type" : "sell",
+			"volume" : 170,
 			"world" : "world"
 		},
 		{
@@ -69,6 +163,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/07",
+			"type" : "buy",
 			"volume" : 510,
 			"world" : "world"
 		},
@@ -83,6 +178,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/04/13",
+			"type" : "buy",
 			"volume" : 1792,
 			"world" : "world_the_end"
 		},
@@ -97,6 +193,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/08/12",
+			"type" : "buy",
 			"volume" : 714,
 			"world" : "world_the_end"
 		},
@@ -111,6 +208,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/01/13",
+			"type" : "buy",
 			"volume" : 20,
 			"world" : "world"
 		},
@@ -125,6 +223,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/01/13",
+			"type" : "buy",
 			"volume" : 13080,
 			"world" : "world"
 		}

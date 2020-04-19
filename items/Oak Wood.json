@@ -13,7 +13,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/21",
+			"type" : "buy",
 			"volume" : 438,
+			"world" : "world"
+		},
+		{
+			"amount" : 48,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/22",
+			"type" : "sell",
+			"volume" : 2400,
 			"world" : "world"
 		},
 		{
@@ -27,7 +43,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/25",
+			"type" : "buy",
 			"volume" : 4161,
+			"world" : "world"
+		},
+		{
+			"amount" : 48,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/06",
+			"type" : "sell",
+			"volume" : 2400,
 			"world" : "world"
 		},
 		{
@@ -41,7 +73,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/07",
+			"type" : "buy",
 			"volume" : 1387,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "AshGreninja2579",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/30",
+			"type" : "sell",
+			"volume" : 150,
 			"world" : "world"
 		},
 		{
@@ -55,7 +103,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 219,
+			"world" : "world"
+		},
+		{
+			"amount" : 1122,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/04",
+			"type" : "sell",
+			"volume" : 56100,
 			"world" : "world"
 		},
 		{
@@ -69,7 +133,83 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/05",
+			"type" : "buy",
 			"volume" : 14016,
+			"world" : "world"
+		},
+		{
+			"amount" : 2495,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"type" : "sell",
+			"volume" : 124750,
+			"world" : "world"
+		},
+		{
+			"amount" : 3456,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 62,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"type" : "sell",
+			"volume" : 138240,
+			"world" : "world"
+		},
+		{
+			"amount" : 2641,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/05",
+			"type" : "sell",
+			"volume" : 79230,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "ComradeKarel",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/12",
+			"type" : "sell",
+			"volume" : 90,
+			"world" : "world"
+		},
+		{
+			"amount" : 117,
+			"buyer" : "kahlayla",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/30",
+			"type" : "sell",
+			"volume" : 3510,
 			"world" : "world"
 		},
 		{
@@ -83,7 +223,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/08",
+			"type" : "buy",
 			"volume" : 73,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dredhounds",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/07/08",
+			"type" : "sell",
+			"volume" : 50,
 			"world" : "world"
 		},
 		{
@@ -97,6 +253,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/11/14",
+			"type" : "buy",
 			"volume" : 720,
 			"world" : "world"
 		},
@@ -111,6 +268,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2020/02/13",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		}

@@ -3,6 +3,36 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 32,
+			"buyer" : "Shahayhay",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 116,
+				"z" : -53
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/10/25",
+			"type" : "sell",
+			"volume" : 1440,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 84,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -26,
+				"y" : 116,
+				"z" : -53
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/15",
+			"type" : "sell",
+			"volume" : 3780,
+			"world" : "world_nether"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 84,
 			"world" : "world"
 		}

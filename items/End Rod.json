@@ -13,6 +13,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/14",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world_the_end"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/18",
+			"type" : "buy",
 			"volume" : 500,
 			"world" : "world_the_end"
 		},
@@ -41,8 +43,54 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/30",
+			"type" : "buy",
 			"volume" : 500,
 			"world" : "world_the_end"
+		},
+		{
+			"amount" : 517,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 72,
+				"z" : -45
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/11",
+			"type" : "sell",
+			"volume" : 155100,
+			"world" : "world"
+		},
+		{
+			"amount" : 804,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 72,
+				"z" : -45
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/12",
+			"type" : "sell",
+			"volume" : 241200,
+			"world" : "world"
+		},
+		{
+			"amount" : 421,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 72,
+				"z" : -45
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/13",
+			"type" : "sell",
+			"volume" : 126300,
+			"world" : "world"
 		},
 		{
 			"amount" : 2,
@@ -55,6 +103,7 @@
 			},
 			"seller" : "Captain_Handsome",
 			"time" : "2018/11/19",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		},
@@ -69,6 +118,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/01",
+			"type" : "buy",
 			"volume" : 200,
 			"world" : "world"
 		},
@@ -83,6 +133,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/22",
+			"type" : "buy",
 			"volume" : 640,
 			"world" : "world"
 		},
@@ -97,6 +148,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/29",
+			"type" : "buy",
 			"volume" : 1280,
 			"world" : "world"
 		},
@@ -111,6 +163,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/04",
+			"type" : "buy",
 			"volume" : 640,
 			"world" : "world"
 		},
@@ -125,6 +178,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/16",
+			"type" : "buy",
 			"volume" : 8320,
 			"world" : "world"
 		},
@@ -139,6 +193,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/22",
+			"type" : "buy",
 			"volume" : 40,
 			"world" : "world"
 		},
@@ -153,6 +208,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/26",
+			"type" : "buy",
 			"volume" : 640,
 			"world" : "world"
 		},
@@ -167,6 +223,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/10",
+			"type" : "buy",
 			"volume" : 12800,
 			"world" : "world_the_end"
 		},
@@ -181,6 +238,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/10",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world"
 		},
@@ -195,6 +253,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/14",
+			"type" : "buy",
 			"volume" : 2500,
 			"world" : "world_the_end"
 		},
@@ -209,6 +268,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/15",
+			"type" : "buy",
 			"volume" : 160,
 			"world" : "world"
 		},
@@ -223,6 +283,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/03/15",
+			"type" : "buy",
 			"volume" : 500,
 			"world" : "world_the_end"
 		},
@@ -237,6 +298,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/18",
+			"type" : "buy",
 			"volume" : 1450,
 			"world" : "world"
 		},
@@ -251,6 +313,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/22",
+			"type" : "buy",
 			"volume" : 170,
 			"world" : "world"
 		},
@@ -265,6 +328,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/09",
+			"type" : "buy",
 			"volume" : 320,
 			"world" : "world"
 		},
@@ -279,6 +343,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/20",
+			"type" : "buy",
 			"volume" : 160,
 			"world" : "world"
 		},
@@ -293,6 +358,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/08/19",
+			"type" : "buy",
 			"volume" : 2000,
 			"world" : "world_the_end"
 		},
@@ -307,6 +373,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/09/22",
+			"type" : "buy",
 			"volume" : 2220,
 			"world" : "world"
 		}

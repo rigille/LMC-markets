@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/16",
+			"type" : "buy",
 			"volume" : 5120,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/05/10",
+			"type" : "buy",
 			"volume" : 35646.879999999997,
 			"world" : "world"
 		},
@@ -41,7 +43,68 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/05/10",
+			"type" : "buy",
 			"volume" : 5200,
+			"world" : "world"
+		},
+		{
+			"amount" : 2688,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 256,
+				"y" : 80,
+				"z" : 140
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/12",
+			"type" : "sell",
+			"volume" : 75600,
+			"world" : "world"
+		},
+		{
+			"amount" : 769,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 256,
+				"y" : 80,
+				"z" : 140
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/13",
+			"type" : "sell",
+			"volume" : 21628.130000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 814,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 256,
+				"y" : 81,
+				"z" : 140
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/13",
+			"type" : "sell",
+			"volume" : 17806.25,
+			"world" : "world"
+		},
+		{
+			"amount" : 1152,
+			"buyer" : "sparkXstorm",
+			"location" : 
+			{
+				"x" : 256,
+				"y" : 81,
+				"z" : 140
+			},
+			"seller" : "EnDristON",
+			"time" : "2019/07/15",
+			"type" : "sell",
+			"volume" : 25200,
 			"world" : "world"
 		},
 		{
@@ -55,6 +118,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/02/26",
+			"type" : "buy",
 			"volume" : 22000,
 			"world" : "world"
 		},
@@ -69,7 +133,23 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/02/26",
+			"type" : "buy",
 			"volume" : 21600,
+			"world" : "world"
+		},
+		{
+			"amount" : 540,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 256,
+				"y" : 81,
+				"z" : 140
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/03/29",
+			"type" : "sell",
+			"volume" : 11812.5,
 			"world" : "world"
 		}
 	]

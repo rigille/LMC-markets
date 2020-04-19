@@ -13,6 +13,7 @@
 			},
 			"seller" : "Haksndot",
 			"time" : "2018/11/13",
+			"type" : "buy",
 			"volume" : 9600,
 			"world" : "world_nether"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 66,
 			"world" : "world"
 		},
@@ -41,7 +43,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/05",
+			"type" : "buy",
 			"volume" : 704,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Marcus265",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 61,
+				"z" : -81
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/29",
+			"type" : "sell",
+			"volume" : 19,
 			"world" : "world"
 		}
 	]

@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/03",
+			"type" : "buy",
 			"volume" : 4000,
 			"world" : "world_nether"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/17",
+			"type" : "buy",
 			"volume" : 4000,
 			"world" : "world_nether"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/23",
+			"type" : "buy",
 			"volume" : 4000,
 			"world" : "world_nether"
 		}

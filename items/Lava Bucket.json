@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/29",
+			"type" : "buy",
 			"volume" : 700,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/30",
+			"type" : "buy",
 			"volume" : 350,
 			"world" : "world"
 		},
@@ -41,7 +43,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/01",
+			"type" : "buy",
 			"volume" : 700,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 71,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/12",
+			"type" : "sell",
+			"volume" : 300,
 			"world" : "world"
 		},
 		{
@@ -55,6 +73,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/15",
+			"type" : "buy",
 			"volume" : 200,
 			"world" : "world"
 		},
@@ -69,6 +88,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/25",
+			"type" : "buy",
 			"volume" : 200,
 			"world" : "world"
 		},
@@ -83,7 +103,143 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/10/27",
+			"type" : "buy",
 			"volume" : 400,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NorraLigan",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 71,
+				"z" : -25
+			},
+			"seller" : "K9us",
+			"time" : "2018/10/27",
+			"type" : "sell",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 26,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 20,
+				"y" : 72,
+				"z" : -48
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/04",
+			"type" : "sell",
+			"volume" : 130000,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "Jesper1972",
+			"location" : 
+			{
+				"x" : 20,
+				"y" : 72,
+				"z" : -48
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/04",
+			"type" : "sell",
+			"volume" : 35000,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 20,
+				"y" : 72,
+				"z" : -48
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/04",
+			"type" : "sell",
+			"volume" : 50000,
+			"world" : "world"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "Jesper1972",
+			"location" : 
+			{
+				"x" : 20,
+				"y" : 72,
+				"z" : -48
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/04",
+			"type" : "sell",
+			"volume" : 63000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 20,
+				"y" : 72,
+				"z" : -48
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/04",
+			"type" : "sell",
+			"volume" : 279000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Jesper1972",
+			"location" : 
+			{
+				"x" : 20,
+				"y" : 72,
+				"z" : -48
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/04",
+			"type" : "sell",
+			"volume" : 6000,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 20,
+				"y" : 72,
+				"z" : -48
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/04",
+			"type" : "sell",
+			"volume" : 60000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 20,
+				"y" : 72,
+				"z" : -48
+			},
+			"seller" : "Captain_Handsome",
+			"time" : "2018/11/05",
+			"type" : "sell",
+			"volume" : 1000,
 			"world" : "world"
 		},
 		{
@@ -97,6 +253,7 @@
 			},
 			"seller" : "Phantom_Ark",
 			"time" : "2019/02/06",
+			"type" : "buy",
 			"volume" : 2500,
 			"world" : "world"
 		},
@@ -111,6 +268,7 @@
 			},
 			"seller" : "Phantom_Ark",
 			"time" : "2019/05/31",
+			"type" : "buy",
 			"volume" : 2500,
 			"world" : "world"
 		},
@@ -125,6 +283,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2019/07/01",
+			"type" : "buy",
 			"volume" : 200,
 			"world" : "world"
 		},
@@ -139,6 +298,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2019/08/20",
+			"type" : "buy",
 			"volume" : 7000,
 			"world" : "world"
 		},
@@ -153,6 +313,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2020/02/20",
+			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
 		}

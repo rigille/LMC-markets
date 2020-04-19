@@ -3,7 +3,22 @@
 	"transactions" : 
 	[
 		{
-			"amount" : 2,
+			"amount" : 1,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/19",
+			"type" : "sell",
+			"volume" : 2500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
 			"buyer" : "japanimator",
 			"location" : 
 			{
@@ -13,7 +28,53 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/12",
-			"volume" : 5200,
+			"type" : "buy",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "japanimator",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/12",
+			"type" : "sell",
+			"volume" : 2500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "japanimator",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/12",
+			"type" : "buy",
+			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "japanimator",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -37
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/12",
+			"type" : "sell",
+			"volume" : 2500,
 			"world" : "world"
 		}
 	]

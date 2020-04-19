@@ -13,6 +13,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/11/30",
+			"type" : "buy",
 			"volume" : 63360,
 			"world" : "world"
 		},
@@ -27,7 +28,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/01",
+			"type" : "buy",
 			"volume" : 6930,
+			"world" : "world"
+		},
+		{
+			"amount" : 63,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -1871,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/01",
+			"type" : "sell",
+			"volume" : 6300,
 			"world" : "world"
 		},
 		{
@@ -41,7 +58,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/03",
+			"type" : "buy",
 			"volume" : 6930,
+			"world" : "world"
+		},
+		{
+			"amount" : 154,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -1871,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/21",
+			"type" : "sell",
+			"volume" : 46200,
 			"world" : "world"
 		},
 		{
@@ -55,6 +88,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/28",
+			"type" : "buy",
 			"volume" : 42900,
 			"world" : "world"
 		},
@@ -69,6 +103,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/29",
+			"type" : "buy",
 			"volume" : 4950,
 			"world" : "world"
 		},
@@ -83,6 +118,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 990,
 			"world" : "world"
 		},
@@ -97,6 +133,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/20",
+			"type" : "buy",
 			"volume" : 13530,
 			"world" : "world"
 		},
@@ -111,7 +148,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/21",
+			"type" : "buy",
 			"volume" : 21120,
+			"world" : "world"
+		},
+		{
+			"amount" : 799,
+			"buyer" : "Downhilldriver",
+			"location" : 
+			{
+				"x" : -1871,
+				"y" : 6,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/09/19",
+			"type" : "sell",
+			"volume" : 239700,
+			"world" : "world"
+		},
+		{
+			"amount" : 95,
+			"buyer" : "QwubHanoj",
+			"location" : 
+			{
+				"x" : -1871,
+				"y" : 9,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/09",
+			"type" : "sell",
+			"volume" : 19950,
 			"world" : "world"
 		}
 	]

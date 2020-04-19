@@ -13,6 +13,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2018/12/07",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/11",
+			"type" : "buy",
 			"volume" : 600,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2019/01/05",
+			"type" : "buy",
 			"volume" : 9600,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2019/01/10",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2019/01/11",
+			"type" : "buy",
 			"volume" : 450,
 			"world" : "world"
 		},
@@ -83,6 +88,7 @@
 			},
 			"seller" : "Remixster",
 			"time" : "2019/02/02",
+			"type" : "buy",
 			"volume" : 2400,
 			"world" : "world"
 		},
@@ -97,6 +103,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/02",
+			"type" : "buy",
 			"volume" : 158,
 			"world" : "world"
 		},
@@ -111,6 +118,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/07",
+			"type" : "buy",
 			"volume" : 316,
 			"world" : "world"
 		},
@@ -125,6 +133,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/03/16",
+			"type" : "buy",
 			"volume" : 300,
 			"world" : "world"
 		},
@@ -139,7 +148,23 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/04/07",
+			"type" : "buy",
 			"volume" : 16425,
+			"world" : "world"
+		},
+		{
+			"amount" : 438,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/07",
+			"type" : "sell",
+			"volume" : 31536,
 			"world" : "world"
 		},
 		{
@@ -153,11 +178,12 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/04/14",
+			"type" : "buy",
 			"volume" : 1725,
 			"world" : "world"
 		},
 		{
-			"amount" : 67,
+			"amount" : 64,
 			"buyer" : "frozenhammerz",
 			"location" : 
 			{
@@ -167,7 +193,38 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
-			"volume" : 5293,
+			"type" : "buy",
+			"volume" : 5056,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"type" : "sell",
+			"volume" : 4608,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "frozenhammerz",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 18,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/03",
+			"type" : "buy",
+			"volume" : 237,
 			"world" : "world"
 		},
 		{
@@ -181,6 +238,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/05/29",
+			"type" : "buy",
 			"volume" : 150,
 			"world" : "world"
 		},
@@ -195,6 +253,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/06/08",
+			"type" : "buy",
 			"volume" : 600,
 			"world" : "world"
 		},
@@ -209,6 +268,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/06/29",
+			"type" : "buy",
 			"volume" : 316,
 			"world" : "world"
 		},
@@ -223,6 +283,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/03",
+			"type" : "buy",
 			"volume" : 158,
 			"world" : "world"
 		},
@@ -237,7 +298,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/22",
+			"type" : "buy",
 			"volume" : 79,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 19,
+				"z" : 1608
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/22",
+			"type" : "sell",
+			"volume" : 66,
 			"world" : "world"
 		},
 		{
@@ -251,6 +328,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/10/10",
+			"type" : "buy",
 			"volume" : 300,
 			"world" : "world"
 		},
@@ -265,6 +343,7 @@
 			},
 			"seller" : "Minarchu",
 			"time" : "2020/03/03",
+			"type" : "buy",
 			"volume" : 1750,
 			"world" : "world"
 		}

@@ -13,6 +13,22 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2018/10/21",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Ostafrikasaurus",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 64,
+				"z" : -251
+			},
+			"seller" : "Shahayhay",
+			"time" : "2018/10/21",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -27,6 +43,22 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/08/11",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "johsjohsjohs",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 64,
+				"z" : -251
+			},
+			"seller" : "Shahayhay",
+			"time" : "2019/08/11",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -41,6 +73,22 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2019/08/20",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 50,
+				"y" : 64,
+				"z" : -251
+			},
+			"seller" : "Shahayhay",
+			"time" : "2019/08/20",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -55,6 +103,7 @@
 			},
 			"seller" : "Shahayhay",
 			"time" : "2020/02/28",
+			"type" : "buy",
 			"volume" : 0,
 			"world" : "world"
 		}

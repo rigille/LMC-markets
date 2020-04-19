@@ -13,6 +13,7 @@
 			},
 			"seller" : "steelpanmaster",
 			"time" : "2018/09/21",
+			"type" : "buy",
 			"volume" : 1200,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "NullCase",
 			"time" : "2018/09/29",
+			"type" : "buy",
 			"volume" : 75625,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Phantom_Ark",
 			"time" : "2018/11/29",
+			"type" : "buy",
 			"volume" : 280,
 			"world" : "world"
 		},
@@ -55,7 +58,23 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/03/24",
+			"type" : "buy",
 			"volume" : 45,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 256,
+				"y" : 80,
+				"z" : 156
+			},
+			"seller" : "ezrone",
+			"time" : "2019/03/24",
+			"type" : "sell",
+			"volume" : 30,
 			"world" : "world"
 		},
 		{
@@ -69,6 +88,7 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2019/07/14",
+			"type" : "buy",
 			"volume" : 8704,
 			"world" : "world"
 		},
@@ -83,6 +103,7 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2019/08/06",
+			"type" : "buy",
 			"volume" : 27353,
 			"world" : "world"
 		},
@@ -97,6 +118,7 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2019/09/24",
+			"type" : "buy",
 			"volume" : 8192,
 			"world" : "world"
 		},
@@ -111,7 +133,23 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2020/01/20",
+			"type" : "buy",
 			"volume" : 1024,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : -185,
+				"y" : 65,
+				"z" : 330
+			},
+			"seller" : "Phantom_Ark",
+			"time" : "2020/02/07",
+			"type" : "sell",
+			"volume" : 60,
 			"world" : "world"
 		},
 		{
@@ -125,6 +163,7 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2020/02/24",
+			"type" : "buy",
 			"volume" : 8192,
 			"world" : "world"
 		},
@@ -139,7 +178,23 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2020/03/07",
+			"type" : "buy",
 			"volume" : 1040,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 430,
+				"y" : 80,
+				"z" : 47
+			},
+			"seller" : "Dioswilson",
+			"time" : "2020/03/07",
+			"type" : "sell",
+			"volume" : 14,
 			"world" : "world"
 		},
 		{
@@ -153,6 +208,7 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2020/03/11",
+			"type" : "buy",
 			"volume" : 2080,
 			"world" : "world"
 		},
@@ -167,6 +223,7 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2020/03/12",
+			"type" : "buy",
 			"volume" : 1024,
 			"world" : "world"
 		},
@@ -181,6 +238,7 @@
 			},
 			"seller" : "Dioswilson",
 			"time" : "2020/03/28",
+			"type" : "buy",
 			"volume" : 2624,
 			"world" : "world"
 		}

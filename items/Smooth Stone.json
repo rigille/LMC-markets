@@ -13,6 +13,7 @@
 			},
 			"seller" : "jtl0350",
 			"time" : "2020/01/11",
+			"type" : "buy",
 			"volume" : 45,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "jtl0350",
 			"time" : "2020/01/13",
+			"type" : "buy",
 			"volume" : 37632,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Tomter",
 			"time" : "2020/01/13",
+			"type" : "buy",
 			"volume" : 15703,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2020/02/27",
+			"type" : "buy",
 			"volume" : 342,
 			"world" : "world"
 		}

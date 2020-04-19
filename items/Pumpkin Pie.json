@@ -13,6 +13,7 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/04",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/05",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/05",
+			"type" : "buy",
 			"volume" : 30,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/06",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/07",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
@@ -83,6 +88,7 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/07",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
@@ -97,6 +103,7 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/07",
+			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
 		},
@@ -111,7 +118,23 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/08",
+			"type" : "buy",
 			"volume" : 60,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : -350,
+				"y" : 70,
+				"z" : 83
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/09/27",
+			"type" : "sell",
+			"volume" : 10,
 			"world" : "world"
 		},
 		{
@@ -125,7 +148,38 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/09/29",
+			"type" : "sell",
+			"volume" : 5,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : -350,
+				"y" : 70,
+				"z" : 83
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/09/29",
+			"type" : "buy",
 			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dragonslair7",
+			"location" : 
+			{
+				"x" : -350,
+				"y" : 70,
+				"z" : 83
+			},
+			"seller" : "AteUrC00ki35",
+			"time" : "2018/09/29",
+			"type" : "sell",
+			"volume" : 5,
 			"world" : "world"
 		},
 		{
@@ -139,6 +193,7 @@
 			},
 			"seller" : "AteUrC00ki35",
 			"time" : "2018/11/10",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world"
 		},
@@ -153,6 +208,7 @@
 			},
 			"seller" : "Stormrunners",
 			"time" : "2019/03/27",
+			"type" : "buy",
 			"volume" : 3.1400000000000001,
 			"world" : "world"
 		},
@@ -167,6 +223,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2019/07/09",
+			"type" : "buy",
 			"volume" : 288,
 			"world" : "world"
 		},
@@ -181,6 +238,7 @@
 			},
 			"seller" : "Vivifoxx",
 			"time" : "2019/11/03",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		},
@@ -195,6 +253,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2020/03/05",
+			"type" : "buy",
 			"volume" : 10,
 			"world" : "world"
 		}

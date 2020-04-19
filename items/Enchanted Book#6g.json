@@ -4,6 +4,21 @@
 	[
 		{
 			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/23",
+			"type" : "sell",
+			"volume" : 2500,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
 			"buyer" : "ArcherV0",
 			"location" : 
 			{
@@ -13,7 +28,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/07",
+			"type" : "buy",
 			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AteUrC00ki35",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/19",
+			"type" : "sell",
+			"volume" : 2500,
 			"world" : "world"
 		},
 		{
@@ -27,7 +58,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2018/12/23",
+			"type" : "buy",
 			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "magemagemege",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/01",
+			"type" : "sell",
+			"volume" : 2500,
 			"world" : "world"
 		},
 		{
@@ -41,7 +88,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/01/21",
+			"type" : "buy",
 			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "StormR7",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/03",
+			"type" : "sell",
+			"volume" : 2500,
 			"world" : "world"
 		},
 		{
@@ -55,7 +118,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/02/21",
+			"type" : "buy",
 			"volume" : 2600,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "__Tilt",
+			"location" : 
+			{
+				"x" : 37,
+				"y" : 63,
+				"z" : -34
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/26",
+			"type" : "sell",
+			"volume" : 2500,
 			"world" : "world"
 		},
 		{
@@ -69,6 +148,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/03/26",
+			"type" : "buy",
 			"volume" : 2600,
 			"world" : "world"
 		}

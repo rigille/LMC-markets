@@ -3,6 +3,21 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 1,
+			"buyer" : "Apecengo",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/23",
+			"type" : "sell",
+			"volume" : 6,
+			"world" : "world"
+		},
+		{
 			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
@@ -13,7 +28,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 24,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Oaken_Ralph",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -87
+			},
+			"seller" : "K9us",
+			"time" : "2019/08/01",
+			"type" : "sell",
+			"volume" : 60,
 			"world" : "world"
 		}
 	]

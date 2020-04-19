@@ -13,6 +13,7 @@
 			},
 			"seller" : "Aewheros",
 			"time" : "2019/01/31",
+			"type" : "buy",
 			"volume" : 240,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Aewheros",
 			"time" : "2019/02/17",
+			"type" : "buy",
 			"volume" : 240,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "Aewheros",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 180,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "Aewheros",
 			"time" : "2019/06/12",
+			"type" : "buy",
 			"volume" : 19200,
 			"world" : "world"
 		}

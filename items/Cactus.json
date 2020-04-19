@@ -13,6 +13,7 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/07",
+			"type" : "buy",
 			"volume" : 16,
 			"world" : "world"
 		},
@@ -27,6 +28,7 @@
 			},
 			"seller" : "Srood",
 			"time" : "2018/09/12",
+			"type" : "buy",
 			"volume" : 64,
 			"world" : "world"
 		},
@@ -41,6 +43,7 @@
 			},
 			"seller" : "__Wildfire_",
 			"time" : "2018/09/22",
+			"type" : "buy",
 			"volume" : 605,
 			"world" : "world"
 		},
@@ -55,6 +58,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2018/10/25",
+			"type" : "buy",
 			"volume" : 320,
 			"world" : "world"
 		},
@@ -69,6 +73,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/02",
+			"type" : "buy",
 			"volume" : 30,
 			"world" : "world"
 		},
@@ -83,6 +88,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/08",
+			"type" : "buy",
 			"volume" : 192,
 			"world" : "world"
 		},
@@ -97,6 +103,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/11",
+			"type" : "buy",
 			"volume" : 192,
 			"world" : "world"
 		},
@@ -111,7 +118,38 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/02/19",
+			"type" : "buy",
 			"volume" : 6,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 317,
+				"y" : 73,
+				"z" : 515
+			},
+			"seller" : "AshGreninja2579",
+			"time" : "2019/03/01",
+			"type" : "sell",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Larrysweetpeas",
+			"location" : 
+			{
+				"x" : 317,
+				"y" : 73,
+				"z" : 515
+			},
+			"seller" : "AshGreninja2579",
+			"time" : "2019/03/12",
+			"type" : "sell",
+			"volume" : 10,
 			"world" : "world"
 		},
 		{
@@ -125,6 +163,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/13",
+			"type" : "buy",
 			"volume" : 192,
 			"world" : "world"
 		},
@@ -139,6 +178,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/03/19",
+			"type" : "buy",
 			"volume" : 3,
 			"world" : "world"
 		},
@@ -153,6 +193,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/04/13",
+			"type" : "buy",
 			"volume" : 384,
 			"world" : "world"
 		},
@@ -167,6 +208,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/07/03",
+			"type" : "buy",
 			"volume" : 6,
 			"world" : "world"
 		},
@@ -181,6 +223,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/07/14",
+			"type" : "buy",
 			"volume" : 12,
 			"world" : "world"
 		},
@@ -195,6 +238,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/07/20",
+			"type" : "buy",
 			"volume" : 207,
 			"world" : "world"
 		},
@@ -209,6 +253,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/08/01",
+			"type" : "buy",
 			"volume" : 3,
 			"world" : "world"
 		},
@@ -223,6 +268,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/08/02",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world"
 		},
@@ -237,6 +283,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/08/10",
+			"type" : "buy",
 			"volume" : 6,
 			"world" : "world"
 		},
@@ -251,6 +298,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/08/14",
+			"type" : "buy",
 			"volume" : 100,
 			"world" : "world"
 		},
@@ -265,6 +313,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2019/09/08",
+			"type" : "buy",
 			"volume" : 3200,
 			"world" : "world"
 		},
@@ -279,7 +328,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/09/22",
+			"type" : "buy",
 			"volume" : 1152,
+			"world" : "world"
+		},
+		{
+			"amount" : 137,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : 329,
+				"y" : 73,
+				"z" : 493
+			},
+			"seller" : "AshGreninja2579",
+			"time" : "2019/10/29",
+			"type" : "sell",
+			"volume" : 137,
 			"world" : "world"
 		},
 		{
@@ -293,6 +358,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2019/11/18",
+			"type" : "buy",
 			"volume" : 300,
 			"world" : "world"
 		},
@@ -307,6 +373,7 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/12/06",
+			"type" : "buy",
 			"volume" : 30,
 			"world" : "world"
 		},
@@ -321,6 +388,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/01/12",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		},
@@ -335,6 +403,7 @@
 			},
 			"seller" : "Downhilldriver",
 			"time" : "2020/02/19",
+			"type" : "buy",
 			"volume" : 10,
 			"world" : "world"
 		},
@@ -349,6 +418,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/02/27",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		},
@@ -363,6 +433,7 @@
 			},
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/02/29",
+			"type" : "buy",
 			"volume" : 32,
 			"world" : "world"
 		}

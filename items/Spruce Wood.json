@@ -3,6 +3,66 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 3452,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/04",
+			"type" : "sell",
+			"volume" : 189860,
+			"world" : "world"
+		},
+		{
+			"amount" : 3456,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 62,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/04",
+			"type" : "sell",
+			"volume" : 152064,
+			"world" : "world"
+		},
+		{
+			"amount" : 79,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/04",
+			"type" : "sell",
+			"volume" : 2607,
+			"world" : "world"
+		},
+		{
+			"amount" : 981,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/05",
+			"type" : "sell",
+			"volume" : 32373,
+			"world" : "world"
+		},
+		{
 			"amount" : 1,
 			"buyer" : "Meyoo",
 			"location" : 
@@ -13,7 +73,68 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/04/01",
+			"type" : "buy",
 			"volume" : 81,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Meyoo",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 61,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/01",
+			"type" : "sell",
+			"volume" : 55,
+			"world" : "world"
+		},
+		{
+			"amount" : 27,
+			"buyer" : "Meyoo",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/04/01",
+			"type" : "sell",
+			"volume" : 891,
+			"world" : "world"
+		},
+		{
+			"amount" : 45,
+			"buyer" : "Pancen",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/04",
+			"type" : "sell",
+			"volume" : 1485,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Th3FerrariStig2",
+			"location" : 
+			{
+				"x" : 84,
+				"y" : 63,
+				"z" : -51
+			},
+			"seller" : "K9us",
+			"time" : "2019/06/06",
+			"type" : "sell",
+			"volume" : 99,
 			"world" : "world"
 		},
 		{
@@ -27,6 +148,7 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/08/22",
+			"type" : "buy",
 			"volume" : 4288,
 			"world" : "world"
 		}

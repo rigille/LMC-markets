@@ -3,6 +3,66 @@
 	"transactions" : 
 	[
 		{
+			"amount" : 52,
+			"buyer" : "Remixster",
+			"location" : 
+			{
+				"x" : 109,
+				"y" : 88,
+				"z" : -9
+			},
+			"seller" : "frozenhammerz",
+			"time" : "2018/09/25",
+			"type" : "sell",
+			"volume" : 40.630000000000003,
+			"world" : "world"
+		},
+		{
+			"amount" : 120,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 53,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/17",
+			"type" : "sell",
+			"volume" : 144,
+			"world" : "world"
+		},
+		{
+			"amount" : 36,
+			"buyer" : "MiChupacabaras",
+			"location" : 
+			{
+				"x" : 53,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/11/23",
+			"type" : "sell",
+			"volume" : 43.200000000000003,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : 53,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/12",
+			"type" : "sell",
+			"volume" : 9.5999999999999996,
+			"world" : "world"
+		},
+		{
 			"amount" : 6,
 			"buyer" : "Stormrunners",
 			"location" : 
@@ -13,7 +73,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/01/01",
+			"type" : "buy",
 			"volume" : 14.4,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Downhilldriver",
+			"location" : 
+			{
+				"x" : 53,
+				"y" : 71,
+				"z" : -22
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/01",
+			"type" : "sell",
+			"volume" : 76.799999999999997,
 			"world" : "world"
 		},
 		{
@@ -27,6 +103,7 @@
 			},
 			"seller" : "EnDristON",
 			"time" : "2019/03/26",
+			"type" : "buy",
 			"volume" : 50,
 			"world" : "world"
 		},
@@ -41,6 +118,7 @@
 			},
 			"seller" : "ezrone",
 			"time" : "2019/06/06",
+			"type" : "buy",
 			"volume" : 1175,
 			"world" : "world"
 		}

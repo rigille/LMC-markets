@@ -13,7 +13,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/01/05",
+			"type" : "buy",
 			"volume" : 8,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "jack30ice",
+			"location" : 
+			{
+				"x" : -102,
+				"y" : 6,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/02/03",
+			"type" : "sell",
+			"volume" : 36,
 			"world" : "world"
 		},
 		{
@@ -27,7 +43,23 @@
 			},
 			"seller" : "AspenGamgee",
 			"time" : "2019/06/11",
+			"type" : "buy",
 			"volume" : 35,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : -102,
+				"y" : 6,
+				"z" : -13
+			},
+			"seller" : "K9us",
+			"time" : "2019/12/22",
+			"type" : "sell",
+			"volume" : 88,
 			"world" : "world"
 		}
 	]

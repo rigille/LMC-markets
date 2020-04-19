@@ -13,7 +13,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2020/03/28",
+			"type" : "buy",
 			"volume" : 4,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 60,
+				"z" : -9
+			},
+			"seller" : "K9us",
+			"time" : "2020/03/28",
+			"type" : "sell",
+			"volume" : 3,
 			"world" : "world"
 		}
 	]

@@ -13,7 +13,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 129,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Skypoison",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 61,
+				"z" : -75
+			},
+			"seller" : "K9us",
+			"time" : "2020/01/20",
+			"type" : "sell",
+			"volume" : 36,
 			"world" : "world"
 		}
 	]

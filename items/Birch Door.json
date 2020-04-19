@@ -4,6 +4,21 @@
 	[
 		{
 			"amount" : 3,
+			"buyer" : "Cesium_Knight",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -78
+			},
+			"seller" : "K9us",
+			"time" : "2019/03/28",
+			"type" : "sell",
+			"volume" : 72,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
 			"buyer" : "frozenhammerz",
 			"location" : 
 			{
@@ -13,7 +28,23 @@
 			},
 			"seller" : "K9us",
 			"time" : "2019/05/03",
+			"type" : "buy",
 			"volume" : 81,
+			"world" : "world"
+		},
+		{
+			"amount" : 210,
+			"buyer" : "pepparkaksgubbe",
+			"location" : 
+			{
+				"x" : 73,
+				"y" : 61,
+				"z" : -78
+			},
+			"seller" : "K9us",
+			"time" : "2019/05/18",
+			"type" : "sell",
+			"volume" : 5040,
 			"world" : "world"
 		}
 	]

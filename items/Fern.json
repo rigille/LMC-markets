@@ -13,7 +13,23 @@
 			},
 			"seller" : "sharonclaws",
 			"time" : "2019/04/01",
+			"type" : "buy",
 			"volume" : 3300,
+			"world" : "world"
+		},
+		{
+			"amount" : 319,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -2,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "sharonclaws",
+			"time" : "2019/04/28",
+			"type" : "sell",
+			"volume" : 31900,
 			"world" : "world"
 		},
 		{
@@ -27,6 +43,7 @@
 			},
 			"seller" : "Vallenius",
 			"time" : "2020/01/10",
+			"type" : "buy",
 			"volume" : 9600,
 			"world" : "world"
 		}
