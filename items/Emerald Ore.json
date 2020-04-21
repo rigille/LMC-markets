@@ -271,6 +271,21 @@
 			"type" : "buy",
 			"volume" : 598,
 			"world" : "world"
+		},
+		{
+			"amount" : 27,
+			"buyer" : "illdeletethis",
+			"location" : 
+			{
+				"x" : 403,
+				"y" : 71,
+				"z" : 123
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/04",
+			"type" : "buy",
+			"volume" : 5400,
+			"world" : "world"
 		}
 	]
 }

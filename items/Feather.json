@@ -106,6 +106,21 @@
 			"type" : "buy",
 			"volume" : 28,
 			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 1110,
+				"y" : 63,
+				"z" : -465
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/05",
+			"type" : "buy",
+			"volume" : 2.5600000000000001,
+			"world" : "world"
 		}
 	]
 }

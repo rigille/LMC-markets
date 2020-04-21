@@ -361,6 +361,21 @@
 			"type" : "buy",
 			"volume" : 200,
 			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 104,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 15,
+			"world" : "world"
 		}
 	]
 }

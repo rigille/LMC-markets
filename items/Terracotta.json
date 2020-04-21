@@ -601,6 +601,21 @@
 			"type" : "buy",
 			"volume" : 800,
 			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "BelegStrongbow",
+			"location" : 
+			{
+				"x" : 61,
+				"y" : 72,
+				"z" : 22
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 32000,
+			"world" : "world"
 		}
 	]
 }

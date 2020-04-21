@@ -728,6 +728,21 @@
 			"location" : 
 			{
 				"x" : -1880,
+				"y" : 10,
+				"z" : 1593
+			},
+			"seller" : "AshGreninja2579",
+			"time" : "2019/04/30",
+			"type" : "sell",
+			"volume" : 3,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -1880,
 				"y" : 11,
 				"z" : 1593
 			},
@@ -738,7 +753,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 3,
+			"amount" : 2,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -749,7 +764,7 @@
 			"seller" : "AshGreninja2579",
 			"time" : "2019/04/30",
 			"type" : "sell",
-			"volume" : 9,
+			"volume" : 6,
 			"world" : "world"
 		},
 		{

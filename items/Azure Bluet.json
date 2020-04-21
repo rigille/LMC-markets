@@ -151,6 +151,21 @@
 			"type" : "buy",
 			"volume" : 320,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 10,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 320,
+			"world" : "world"
 		}
 	]
 }

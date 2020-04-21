@@ -391,6 +391,36 @@
 			"type" : "buy",
 			"volume" : 1499,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : -18
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 800,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 62,
+				"y" : 88,
+				"z" : 16
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 500,
+			"world" : "world"
 		}
 	]
 }

@@ -63,7 +63,7 @@
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 896,
+			"amount" : 832,
 			"buyer" : "Haksndot",
 			"location" : 
 			{
@@ -74,11 +74,11 @@
 			"seller" : "__Wildfire_",
 			"time" : "2018/10/20",
 			"type" : "sell",
-			"volume" : 201600,
+			"volume" : 187200,
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 128,
+			"amount" : 64,
 			"buyer" : "Haksndot",
 			"location" : 
 			{
@@ -89,7 +89,37 @@
 			"seller" : "__Starlight_",
 			"time" : "2018/10/20",
 			"type" : "sell",
-			"volume" : 28800,
+			"volume" : 14400,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -52,
+				"y" : 112,
+				"z" : -22
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/20",
+			"type" : "sell",
+			"volume" : 14400,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -52,
+				"y" : 112,
+				"z" : -22
+			},
+			"seller" : "__Starlight_",
+			"time" : "2018/10/20",
+			"type" : "sell",
+			"volume" : 14400,
 			"world" : "world_nether"
 		},
 		{

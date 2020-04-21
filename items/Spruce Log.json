@@ -1099,6 +1099,21 @@
 		},
 		{
 			"amount" : 8,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -18,
+				"y" : 65,
+				"z" : -10
+			},
+			"seller" : "Dragonslair7",
+			"time" : "2018/10/06",
+			"type" : "sell",
+			"volume" : 800,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
 			"buyer" : "Dragonslair7",
 			"location" : 
 			{
@@ -1113,7 +1128,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 264,
+			"amount" : 256,
 			"buyer" : "Haksndot",
 			"location" : 
 			{
@@ -1124,7 +1139,7 @@
 			"seller" : "Dragonslair7",
 			"time" : "2018/10/06",
 			"type" : "sell",
-			"volume" : 26400,
+			"volume" : 25600,
 			"world" : "world"
 		},
 		{
@@ -2343,7 +2358,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 8,
+			"amount" : 9,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -2354,7 +2369,7 @@
 			"seller" : "ThomasDaFarmer",
 			"time" : "2018/12/24",
 			"type" : "sell",
-			"volume" : 200,
+			"volume" : 225,
 			"world" : "world"
 		},
 		{
@@ -2373,7 +2388,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 290,
+			"amount" : 289,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -2384,7 +2399,7 @@
 			"seller" : "ThomasDaFarmer",
 			"time" : "2018/12/24",
 			"type" : "sell",
-			"volume" : 7250,
+			"volume" : 7225,
 			"world" : "world"
 		},
 		{
@@ -3288,7 +3303,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 153,
+			"amount" : 152,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -3299,37 +3314,7 @@
 			"seller" : "yoikosugi",
 			"time" : "2019/02/02",
 			"type" : "sell",
-			"volume" : 3825,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "K9us",
-			"location" : 
-			{
-				"x" : 15,
-				"y" : 72,
-				"z" : -11
-			},
-			"seller" : "beluaeomega",
-			"time" : "2019/02/02",
-			"type" : "sell",
-			"volume" : 50,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "K9us",
-			"location" : 
-			{
-				"x" : 15,
-				"y" : 72,
-				"z" : -11
-			},
-			"seller" : "yoikosugi",
-			"time" : "2019/02/02",
-			"type" : "sell",
-			"volume" : 25,
+			"volume" : 3800,
 			"world" : "world"
 		},
 		{
@@ -3345,66 +3330,6 @@
 			"time" : "2019/02/02",
 			"type" : "sell",
 			"volume" : 25,
-			"world" : "world"
-		},
-		{
-			"amount" : 4,
-			"buyer" : "K9us",
-			"location" : 
-			{
-				"x" : 15,
-				"y" : 72,
-				"z" : -11
-			},
-			"seller" : "yoikosugi",
-			"time" : "2019/02/02",
-			"type" : "sell",
-			"volume" : 100,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "K9us",
-			"location" : 
-			{
-				"x" : 15,
-				"y" : 72,
-				"z" : -11
-			},
-			"seller" : "beluaeomega",
-			"time" : "2019/02/02",
-			"type" : "sell",
-			"volume" : 25,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "K9us",
-			"location" : 
-			{
-				"x" : 15,
-				"y" : 72,
-				"z" : -11
-			},
-			"seller" : "yoikosugi",
-			"time" : "2019/02/02",
-			"type" : "sell",
-			"volume" : 25,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "K9us",
-			"location" : 
-			{
-				"x" : 15,
-				"y" : 72,
-				"z" : -11
-			},
-			"seller" : "beluaeomega",
-			"time" : "2019/02/02",
-			"type" : "sell",
-			"volume" : 50,
 			"world" : "world"
 		},
 		{
@@ -3483,6 +3408,126 @@
 			"world" : "world"
 		},
 		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -11
+			},
+			"seller" : "beluaeomega",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -11
+			},
+			"seller" : "yoikosugi",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -11
+			},
+			"seller" : "beluaeomega",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -11
+			},
+			"seller" : "yoikosugi",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -11
+			},
+			"seller" : "beluaeomega",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -11
+			},
+			"seller" : "yoikosugi",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -11
+			},
+			"seller" : "beluaeomega",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -11
+			},
+			"seller" : "yoikosugi",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
 			"amount" : 2,
 			"buyer" : "K9us",
 			"location" : 
@@ -3495,6 +3540,36 @@
 			"time" : "2019/02/02",
 			"type" : "sell",
 			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -11
+			},
+			"seller" : "yoikosugi",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 15,
+				"y" : 72,
+				"z" : -11
+			},
+			"seller" : "beluaeomega",
+			"time" : "2019/02/02",
+			"type" : "sell",
+			"volume" : 25,
 			"world" : "world"
 		},
 		{
@@ -3558,7 +3633,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 9,
+			"amount" : 8,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -3569,7 +3644,7 @@
 			"seller" : "yoikosugi",
 			"time" : "2019/02/02",
 			"type" : "sell",
-			"volume" : 225,
+			"volume" : 200,
 			"world" : "world"
 		},
 		{
@@ -3588,7 +3663,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 1,
+			"amount" : 2,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -3599,7 +3674,7 @@
 			"seller" : "yoikosugi",
 			"time" : "2019/02/02",
 			"type" : "sell",
-			"volume" : 25,
+			"volume" : 50,
 			"world" : "world"
 		},
 		{
@@ -7890,6 +7965,546 @@
 			"time" : "2020/03/27",
 			"type" : "sell",
 			"volume" : 1250,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/08",
+			"type" : "sell",
+			"volume" : 1280,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/08",
+			"type" : "sell",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/08",
+			"type" : "sell",
+			"volume" : 2560,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/08",
+			"type" : "sell",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/08",
+			"type" : "sell",
+			"volume" : 220,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/08",
+			"type" : "sell",
+			"volume" : 2560,
+			"world" : "world"
+		},
+		{
+			"amount" : 59,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 1180,
+			"world" : "world"
+		},
+		{
+			"amount" : 23,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 460,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -29
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 8000,
+			"world" : "world"
+		},
+		{
+			"amount" : 96,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 1920,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 120,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 440,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 1280,
+			"world" : "world"
+		},
+		{
+			"amount" : 207,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 4140,
+			"world" : "world"
+		},
+		{
+			"amount" : 1216,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 255,
+				"y" : 79,
+				"z" : 186
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 15808,
+			"world" : "world"
+		},
+		{
+			"amount" : 581,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -29
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 14525,
+			"world" : "world"
+		},
+		{
+			"amount" : 635,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 12700,
+			"world" : "world"
+		},
+		{
+			"amount" : 92,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 1840,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 440,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dantytheberd",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 65,
+				"z" : -14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 45,
+			"world" : "world"
+		},
+		{
+			"amount" : 398,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 7960,
+			"world" : "world"
+		},
+		{
+			"amount" : 122,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 2440,
+			"world" : "world"
+		},
+		{
+			"amount" : 1536,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 255,
+				"y" : 79,
+				"z" : 186
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 19968,
+			"world" : "world"
+		},
+		{
+			"amount" : 1152,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 23040,
+			"world" : "world"
+		},
+		{
+			"amount" : 116,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 2320,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "BelegStrongbow",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -29
+			},
+			"seller" : "Haksndot",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -29
+			},
+			"seller" : "BelegStrongbow",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 25,
+			"world" : "world"
+		},
+		{
+			"amount" : 12,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 240,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Impression28",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -29
+			},
+			"seller" : "Haksndot",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 1920,
+			"world" : "world"
+		},
+		{
+			"amount" : 55,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 1100,
+			"world" : "world"
+		},
+		{
+			"amount" : 15,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -29
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 375,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 120,
+			"world" : "world"
+		},
+		{
+			"amount" : 36,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -29
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 13,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -29
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 325,
+			"world" : "world"
+		},
+		{
+			"amount" : 1728,
+			"buyer" : "BelegStrongbow",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 64,
+				"z" : -14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 77760,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1136,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 2560,
 			"world" : "world"
 		}
 	]

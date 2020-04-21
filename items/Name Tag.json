@@ -1306,6 +1306,51 @@
 			"type" : "buy",
 			"volume" : 30,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 57,
+				"z" : 10
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 94,
+				"y" : 74,
+				"z" : 21
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 57,
+				"z" : 10
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 10,
+			"world" : "world"
 		}
 	]
 }

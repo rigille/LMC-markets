@@ -631,6 +631,36 @@
 			"type" : "buy",
 			"volume" : 896,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 7,
+			"world" : "world"
+		},
+		{
+			"amount" : 69,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 483,
+			"world" : "world"
 		}
 	]
 }

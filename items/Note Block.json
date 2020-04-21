@@ -91,6 +91,21 @@
 			"type" : "buy",
 			"volume" : 560,
 			"world" : "world"
+		},
+		{
+			"amount" : 13,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 401,
+				"y" : 79,
+				"z" : 141
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 637,
+			"world" : "world"
 		}
 	]
 }

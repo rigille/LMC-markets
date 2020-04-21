@@ -16,6 +16,21 @@
 			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 1,
+				"y" : 58,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 1000,
+			"world" : "world"
 		}
 	]
 }

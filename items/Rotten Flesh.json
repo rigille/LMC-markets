@@ -14,7 +14,7 @@
 			"seller" : "K9us",
 			"time" : "2018/09/05",
 			"type" : "sell",
-			"volume" : 4325.7800000000007,
+			"volume" : 4325.7799999999997,
 			"world" : "world"
 		},
 		{
@@ -708,97 +708,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 384,
-			"buyer" : "Aewheros",
-			"location" : 
-			{
-				"x" : 247,
-				"y" : 121,
-				"z" : -91
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/11/16",
-			"type" : "buy",
-			"volume" : 0,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "K9us",
-			"location" : 
-			{
-				"x" : 247,
-				"y" : 116,
-				"z" : -91
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/11/16",
-			"type" : "buy",
-			"volume" : 0.5,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 128,
-			"buyer" : "Aewheros",
-			"location" : 
-			{
-				"x" : 247,
-				"y" : 121,
-				"z" : -91
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/11/16",
-			"type" : "buy",
-			"volume" : 0,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "K9us",
-			"location" : 
-			{
-				"x" : 247,
-				"y" : 116,
-				"z" : -91
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/11/16",
-			"type" : "buy",
-			"volume" : 0.5,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 128,
-			"buyer" : "Aewheros",
-			"location" : 
-			{
-				"x" : 247,
-				"y" : 121,
-				"z" : -91
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/11/16",
-			"type" : "buy",
-			"volume" : 0,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "K9us",
-			"location" : 
-			{
-				"x" : 247,
-				"y" : 116,
-				"z" : -91
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/11/16",
-			"type" : "buy",
-			"volume" : 0.5,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
+			"amount" : 448,
 			"buyer" : "Aewheros",
 			"location" : 
 			{
@@ -828,7 +738,7 @@
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 58,
+			"amount" : 256,
 			"buyer" : "Aewheros",
 			"location" : 
 			{
@@ -843,7 +753,7 @@
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 64,
+			"amount" : 192,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -854,11 +764,11 @@
 			"seller" : "__Wildfire_",
 			"time" : "2018/11/16",
 			"type" : "buy",
-			"volume" : 0.5,
+			"volume" : 1.5,
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 64,
+			"amount" : 122,
 			"buyer" : "Aewheros",
 			"location" : 
 			{
@@ -873,7 +783,7 @@
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 2368,
+			"amount" : 2432,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -884,7 +794,7 @@
 			"seller" : "__Wildfire_",
 			"time" : "2018/11/16",
 			"type" : "buy",
-			"volume" : 18.5,
+			"volume" : 19,
 			"world" : "world_nether"
 		},
 		{
@@ -3048,7 +2958,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 5,
+			"amount" : 4,
 			"buyer" : "NullCase",
 			"location" : 
 			{
@@ -3059,11 +2969,11 @@
 			"seller" : "solson744",
 			"time" : "2019/10/04",
 			"type" : "sell",
-			"volume" : 3.75,
+			"volume" : 3,
 			"world" : "world"
 		},
 		{
-			"amount" : 5,
+			"amount" : 1,
 			"buyer" : "solson744",
 			"location" : 
 			{
@@ -3074,7 +2984,37 @@
 			"seller" : "NullCase",
 			"time" : "2019/10/04",
 			"type" : "buy",
-			"volume" : 5,
+			"volume" : 1,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : -60,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "solson744",
+			"time" : "2019/10/04",
+			"type" : "sell",
+			"volume" : 0.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : -60,
+				"y" : 64,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2019/10/04",
+			"type" : "buy",
+			"volume" : 4,
 			"world" : "world"
 		},
 		{
@@ -5474,7 +5414,7 @@
 			"seller" : "NullCase",
 			"time" : "2020/01/29",
 			"type" : "buy",
-			"volume" : 527.63,
+			"volume" : 527.63000000000011,
 			"world" : "world"
 		},
 		{
@@ -5568,7 +5508,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 3,
 			"buyer" : "_mrpuggy_",
 			"location" : 
 			{
@@ -5579,37 +5519,7 @@
 			"seller" : "NullCase",
 			"time" : "2020/01/29",
 			"type" : "buy",
-			"volume" : 4,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Miiirak",
-			"location" : 
-			{
-				"x" : -60,
-				"y" : 63,
-				"z" : 26
-			},
-			"seller" : "NullCase",
-			"time" : "2020/01/29",
-			"type" : "buy",
-			"volume" : 2,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "_mrpuggy_",
-			"location" : 
-			{
-				"x" : -60,
-				"y" : 63,
-				"z" : 26
-			},
-			"seller" : "NullCase",
-			"time" : "2020/01/29",
-			"type" : "buy",
-			"volume" : 2,
+			"volume" : 6,
 			"world" : "world"
 		},
 		{
@@ -5640,6 +5550,21 @@
 			"time" : "2020/01/29",
 			"type" : "buy",
 			"volume" : 8,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Miiirak",
+			"location" : 
+			{
+				"x" : -60,
+				"y" : 63,
+				"z" : 26
+			},
+			"seller" : "NullCase",
+			"time" : "2020/01/29",
+			"type" : "buy",
+			"volume" : 2,
 			"world" : "world"
 		},
 		{
@@ -5733,53 +5658,8 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 8,
-			"buyer" : "Miiirak",
-			"location" : 
-			{
-				"x" : 87,
-				"y" : 74,
-				"z" : 21
-			},
-			"seller" : "Remix_D_Miner",
-			"time" : "2020/01/29",
-			"type" : "buy",
-			"volume" : 15,
-			"world" : "world"
-		},
-		{
-			"amount" : 8,
-			"buyer" : "_mrpuggy_",
-			"location" : 
-			{
-				"x" : 87,
-				"y" : 74,
-				"z" : 21
-			},
-			"seller" : "Remix_D_Miner",
-			"time" : "2020/01/29",
-			"type" : "buy",
-			"volume" : 15,
-			"world" : "world"
-		},
-		{
-			"amount" : 8,
-			"buyer" : "Miiirak",
-			"location" : 
-			{
-				"x" : 87,
-				"y" : 74,
-				"z" : 21
-			},
-			"seller" : "Remix_D_Miner",
-			"time" : "2020/01/29",
-			"type" : "buy",
-			"volume" : 15,
-			"world" : "world"
-		},
-		{
 			"amount" : 16,
-			"buyer" : "_mrpuggy_",
+			"buyer" : "Miiirak",
 			"location" : 
 			{
 				"x" : 87,
@@ -5793,22 +5673,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 8,
-			"buyer" : "Miiirak",
-			"location" : 
-			{
-				"x" : 87,
-				"y" : 74,
-				"z" : 21
-			},
-			"seller" : "Remix_D_Miner",
-			"time" : "2020/01/29",
-			"type" : "buy",
-			"volume" : 15,
-			"world" : "world"
-		},
-		{
-			"amount" : 16,
+			"amount" : 24,
 			"buyer" : "_mrpuggy_",
 			"location" : 
 			{
@@ -5819,7 +5684,7 @@
 			"seller" : "Remix_D_Miner",
 			"time" : "2020/01/29",
 			"type" : "buy",
-			"volume" : 30,
+			"volume" : 45,
 			"world" : "world"
 		},
 		{
@@ -5865,6 +5730,36 @@
 			"time" : "2020/01/29",
 			"type" : "buy",
 			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "_mrpuggy_",
+			"location" : 
+			{
+				"x" : 87,
+				"y" : 74,
+				"z" : 21
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/29",
+			"type" : "buy",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Miiirak",
+			"location" : 
+			{
+				"x" : 87,
+				"y" : 74,
+				"z" : 21
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/01/29",
+			"type" : "buy",
+			"volume" : 15,
 			"world" : "world"
 		},
 		{
@@ -6825,6 +6720,66 @@
 			"time" : "2020/03/29",
 			"type" : "sell",
 			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 1751,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : -58,
+				"y" : 70,
+				"z" : 22
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/08",
+			"type" : "buy",
+			"volume" : 766.05999999999995,
+			"world" : "world"
+		},
+		{
+			"amount" : 3776,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : -58,
+				"y" : 69,
+				"z" : 22
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/08",
+			"type" : "buy",
+			"volume" : 2596,
+			"world" : "world"
+		},
+		{
+			"amount" : 3776,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : -58,
+				"y" : 68,
+				"z" : 22
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/08",
+			"type" : "buy",
+			"volume" : 3186,
+			"world" : "world"
+		},
+		{
+			"amount" : 795,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : -183,
+				"y" : 68,
+				"z" : 32
+			},
+			"seller" : "ZeroGDucks",
+			"time" : "2020/04/08",
+			"type" : "buy",
+			"volume" : 124.22,
 			"world" : "world"
 		}
 	]

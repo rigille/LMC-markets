@@ -526,6 +526,21 @@
 			"type" : "buy",
 			"volume" : 500,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 129,
+				"z" : 15
+			},
+			"seller" : "sharonclaws",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 500,
+			"world" : "world"
 		}
 	]
 }

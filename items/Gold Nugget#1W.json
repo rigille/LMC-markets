@@ -331,6 +331,21 @@
 			"type" : "buy",
 			"volume" : 50,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 22,
+				"y" : 63,
+				"z" : -7
+			},
+			"seller" : "K9us",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 50,
+			"world" : "world"
 		}
 	]
 }

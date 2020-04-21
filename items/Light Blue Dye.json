@@ -751,6 +751,21 @@
 			"type" : "buy",
 			"volume" : 4480,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : -12,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 640,
+			"world" : "world"
 		}
 	]
 }

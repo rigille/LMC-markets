@@ -61,6 +61,21 @@
 			"type" : "buy",
 			"volume" : 100,
 			"world" : "world"
+		},
+		{
+			"amount" : 80,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 398,
+				"y" : 79,
+				"z" : 138
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 500,
+			"world" : "world"
 		}
 	]
 }

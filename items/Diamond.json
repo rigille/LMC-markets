@@ -963,6 +963,126 @@
 			"world" : "world"
 		},
 		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/08/31",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "spfoia",
+			"time" : "2018/08/31",
+			"type" : "sell",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/08/31",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "spfoia",
+			"time" : "2018/08/31",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/08/31",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "spfoia",
+			"time" : "2018/08/31",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/08/31",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "spfoia",
+			"time" : "2018/08/31",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
 			"amount" : 2,
 			"buyer" : "Diamond Exchange",
 			"location" : 
@@ -975,96 +1095,6 @@
 			"time" : "2018/08/31",
 			"type" : "sell",
 			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 3,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "spfoia",
-			"time" : "2018/08/31",
-			"type" : "sell",
-			"volume" : 30000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : 1
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/08/31",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "spfoia",
-			"time" : "2018/08/31",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : 1
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/08/31",
-			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "spfoia",
-			"time" : "2018/08/31",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : 1
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/08/31",
-			"type" : "sell",
-			"volume" : 10000,
 			"world" : "world"
 		},
 		{
@@ -1818,7 +1848,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 1,
+			"amount" : 2,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -1829,7 +1859,7 @@
 			"seller" : "K9us",
 			"time" : "2018/09/01",
 			"type" : "sell",
-			"volume" : 10000,
+			"volume" : 20000,
 			"world" : "world"
 		},
 		{
@@ -1840,21 +1870,6 @@
 				"x" : 33,
 				"y" : 71,
 				"z" : 1
-			},
-			"seller" : "K9us",
-			"time" : "2018/09/01",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
 			},
 			"seller" : "K9us",
 			"time" : "2018/09/01",
@@ -5197,9 +5212,9 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 32,
+				"x" : 33,
 				"y" : 71,
-				"z" : 0
+				"z" : 1
 			},
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
@@ -5212,9 +5227,9 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 33,
+				"x" : 32,
 				"y" : 71,
-				"z" : 1
+				"z" : 0
 			},
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
@@ -5268,7 +5283,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 3,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -5279,7 +5294,7 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 30000,
 			"world" : "world"
 		},
 		{
@@ -5290,21 +5305,6 @@
 				"x" : 34,
 				"y" : 71,
 				"z" : 0
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : 1
 			},
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
@@ -5392,21 +5392,6 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 33,
-				"y" : 71,
-				"z" : 1
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
 				"x" : 34,
 				"y" : 71,
 				"z" : 0
@@ -5418,7 +5403,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 3,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -5429,7 +5414,7 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 30000,
 			"world" : "world"
 		},
 		{
@@ -5493,7 +5478,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -5504,11 +5489,11 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 10000,
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -5519,7 +5504,37 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
 			"world" : "world"
 		},
 		{
@@ -5692,21 +5707,6 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
 				"x" : 33,
 				"y" : 71,
 				"z" : 1
@@ -5718,7 +5718,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 3,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -5729,7 +5729,7 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 30000,
 			"world" : "world"
 		},
 		{
@@ -5782,9 +5782,9 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 33,
+				"x" : 32,
 				"y" : 71,
-				"z" : -1
+				"z" : 0
 			},
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
@@ -5797,9 +5797,9 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 32,
+				"x" : 33,
 				"y" : 71,
-				"z" : 0
+				"z" : -1
 			},
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
@@ -5853,7 +5853,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -5864,11 +5864,11 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 10000,
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -5879,112 +5879,7 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
 			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
 			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : 1
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 20000,
 			"world" : "world"
 		},
 		{
@@ -6018,22 +5913,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -6044,7 +5924,7 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 10000,
 			"world" : "world"
 		},
 		{
@@ -6054,27 +5934,12 @@
 			{
 				"x" : 33,
 				"y" : 71,
-				"z" : 1
+				"z" : -1
 			},
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
 			"type" : "sell",
 			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 34,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 20000,
 			"world" : "world"
 		},
 		{
@@ -6093,7 +5958,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -6104,7 +5969,37 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 30000,
 			"world" : "world"
 		},
 		{
@@ -6127,7 +6022,7 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 34,
+				"x" : 32,
 				"y" : 71,
 				"z" : 0
 			},
@@ -6145,21 +6040,6 @@
 				"x" : 33,
 				"y" : 71,
 				"z" : 1
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
 			},
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
@@ -6187,21 +6067,6 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Rehns",
-			"time" : "2018/09/07",
-			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
 				"x" : 33,
 				"y" : 71,
 				"z" : -1
@@ -6217,6 +6082,21 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
 				"x" : 33,
 				"y" : 71,
 				"z" : 1
@@ -6225,6 +6105,36 @@
 			"time" : "2018/09/07",
 			"type" : "sell",
 			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 20000,
 			"world" : "world"
 		},
 		{
@@ -6280,6 +6190,156 @@
 				"x" : 34,
 				"y" : 71,
 				"z" : 0
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Rehns",
+			"time" : "2018/09/07",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
 			},
 			"seller" : "Rehns",
 			"time" : "2018/09/07",
@@ -7668,7 +7728,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -7679,7 +7739,7 @@
 			"seller" : "K9us",
 			"time" : "2018/09/13",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 10000,
 			"world" : "world"
 		},
 		{
@@ -7698,7 +7758,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 31,
+			"amount" : 32,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -7709,7 +7769,7 @@
 			"seller" : "K9us",
 			"time" : "2018/09/13",
 			"type" : "sell",
-			"volume" : 310000,
+			"volume" : 320000,
 			"world" : "world"
 		},
 		{
@@ -8943,7 +9003,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 61,
+			"amount" : 62,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -8954,67 +9014,7 @@
 			"seller" : "Meiloorun",
 			"time" : "2018/09/20",
 			"type" : "sell",
-			"volume" : 610000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Meiloorun",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Diamond Exchange",
-			"time" : "2018/09/20",
-			"type" : "buy",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Meiloorun",
-			"time" : "2018/09/20",
-			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Meiloorun",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Diamond Exchange",
-			"time" : "2018/09/20",
-			"type" : "buy",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Meiloorun",
-			"time" : "2018/09/20",
-			"type" : "sell",
-			"volume" : 10000,
+			"volume" : 620000,
 			"world" : "world"
 		},
 		{
@@ -9063,7 +9063,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -9074,7 +9074,97 @@
 			"seller" : "Meiloorun",
 			"time" : "2018/09/20",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2018/09/20",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Meiloorun",
+			"time" : "2018/09/20",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2018/09/20",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Meiloorun",
+			"time" : "2018/09/20",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2018/09/20",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Meiloorun",
+			"time" : "2018/09/20",
+			"type" : "sell",
+			"volume" : 10000,
 			"world" : "world"
 		},
 		{
@@ -9093,7 +9183,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 3,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -9104,7 +9194,7 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/20",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 30000,
 			"world" : "world"
 		},
 		{
@@ -9123,7 +9213,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -9134,7 +9224,7 @@
 			"seller" : "Rehns",
 			"time" : "2018/09/20",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 10000,
 			"world" : "world"
 		},
 		{
@@ -10759,21 +10849,6 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : 1
-			},
-			"seller" : "NullCase",
-			"time" : "2018/09/24",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
 			"buyer" : "NullCase",
 			"location" : 
 			{
@@ -10784,6 +10859,21 @@
 			"seller" : "Diamond Exchange",
 			"time" : "2018/09/24",
 			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "NullCase",
+			"time" : "2018/09/24",
+			"type" : "sell",
 			"volume" : 10000,
 			"world" : "world"
 		},
@@ -15862,6 +15952,21 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2018/10/16",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
 				"x" : 32,
 				"y" : 71,
 				"z" : 0
@@ -15873,7 +15978,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 3,
+			"amount" : 2,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -15884,7 +15989,7 @@
 			"seller" : "Mr_Digs",
 			"time" : "2018/10/16",
 			"type" : "sell",
-			"volume" : 30000,
+			"volume" : 20000,
 			"world" : "world"
 		},
 		{
@@ -15937,9 +16042,9 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 32,
+				"x" : 33,
 				"y" : 71,
-				"z" : 0
+				"z" : 1
 			},
 			"seller" : "Mr_Digs",
 			"time" : "2018/10/16",
@@ -15952,9 +16057,9 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 33,
+				"x" : 32,
 				"y" : 71,
-				"z" : 1
+				"z" : 0
 			},
 			"seller" : "Mr_Digs",
 			"time" : "2018/10/16",
@@ -15978,7 +16083,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 1,
+			"amount" : 2,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -15989,7 +16094,7 @@
 			"seller" : "Mr_Digs",
 			"time" : "2018/10/16",
 			"type" : "sell",
-			"volume" : 10000,
+			"volume" : 20000,
 			"world" : "world"
 		},
 		{
@@ -16000,21 +16105,6 @@
 				"x" : 33,
 				"y" : 71,
 				"z" : 1
-			},
-			"seller" : "Mr_Digs",
-			"time" : "2018/10/16",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 34,
-				"y" : 71,
-				"z" : 0
 			},
 			"seller" : "Mr_Digs",
 			"time" : "2018/10/16",
@@ -17124,7 +17214,7 @@
 			{
 				"x" : 33,
 				"y" : 71,
-				"z" : 1
+				"z" : -1
 			},
 			"seller" : "Mr_Digs",
 			"time" : "2018/10/16",
@@ -17139,7 +17229,7 @@
 			{
 				"x" : 33,
 				"y" : 71,
-				"z" : -1
+				"z" : 1
 			},
 			"seller" : "Mr_Digs",
 			"time" : "2018/10/16",
@@ -17272,6 +17362,21 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Mr_Digs",
+			"time" : "2018/10/16",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
 				"x" : 33,
 				"y" : 71,
 				"z" : 1
@@ -17283,7 +17388,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 25,
+			"amount" : 24,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -17294,7 +17399,7 @@
 			"seller" : "Mr_Digs",
 			"time" : "2018/10/16",
 			"type" : "sell",
-			"volume" : 250000,
+			"volume" : 240000,
 			"world" : "world"
 		},
 		{
@@ -20103,7 +20208,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -20114,7 +20219,7 @@
 			"seller" : "Ostafrikasaurus",
 			"time" : "2018/10/31",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 10000,
 			"world" : "world"
 		},
 		{
@@ -20148,7 +20253,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -20159,7 +20264,37 @@
 			"seller" : "Ostafrikasaurus",
 			"time" : "2018/10/31",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "Ostafrikasaurus",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Ostafrikasaurus",
+			"time" : "2018/10/31",
+			"type" : "sell",
+			"volume" : 10000,
 			"world" : "world"
 		},
 		{
@@ -21588,7 +21723,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 3,
+			"amount" : 2,
 			"buyer" : "TechnoWiking",
 			"location" : 
 			{
@@ -21599,11 +21734,11 @@
 			"seller" : "Diamond Exchange",
 			"time" : "2018/11/11",
 			"type" : "buy",
-			"volume" : 30000,
+			"volume" : 20000,
 			"world" : "world"
 		},
 		{
-			"amount" : 55,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -21614,7 +21749,37 @@
 			"seller" : "TechnoWiking",
 			"time" : "2018/11/11",
 			"type" : "sell",
-			"volume" : 550000,
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "TechnoWiking",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2018/11/11",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 54,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "TechnoWiking",
+			"time" : "2018/11/11",
+			"type" : "sell",
+			"volume" : 540000,
 			"world" : "world"
 		},
 		{
@@ -22522,6 +22687,21 @@
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "TechnoWiking",
+			"time" : "2018/11/18",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
 				"x" : 33,
 				"y" : 71,
 				"z" : -1
@@ -22533,7 +22713,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 3,
+			"amount" : 2,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -22544,7 +22724,7 @@
 			"seller" : "TechnoWiking",
 			"time" : "2018/11/18",
 			"type" : "sell",
-			"volume" : 30000,
+			"volume" : 20000,
 			"world" : "world"
 		},
 		{
@@ -29193,7 +29373,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 5,
+			"amount" : 4,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -29204,7 +29384,7 @@
 			"seller" : "Magranon",
 			"time" : "2019/01/27",
 			"type" : "sell",
-			"volume" : 50000,
+			"volume" : 40000,
 			"world" : "world"
 		},
 		{
@@ -29223,7 +29403,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 1,
+			"amount" : 3,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -29234,11 +29414,11 @@
 			"seller" : "Magranon",
 			"time" : "2019/01/27",
 			"type" : "sell",
-			"volume" : 10000,
+			"volume" : 30000,
 			"world" : "world"
 		},
 		{
-			"amount" : 1,
+			"amount" : 31,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -29249,37 +29429,7 @@
 			"seller" : "Magranon",
 			"time" : "2019/01/27",
 			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Magranon",
-			"time" : "2019/01/27",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 30,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Magranon",
-			"time" : "2019/01/27",
-			"type" : "sell",
-			"volume" : 300000,
+			"volume" : 310000,
 			"world" : "world"
 		},
 		{
@@ -29568,7 +29718,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 9,
+			"amount" : 7,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -29579,7 +29729,7 @@
 			"seller" : "AspenGamgee",
 			"time" : "2019/01/29",
 			"type" : "sell",
-			"volume" : 90000,
+			"volume" : 70000,
 			"world" : "world"
 		},
 		{
@@ -29598,7 +29748,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 4,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -29609,7 +29759,7 @@
 			"seller" : "AspenGamgee",
 			"time" : "2019/01/29",
 			"type" : "sell",
-			"volume" : 20000,
+			"volume" : 40000,
 			"world" : "world"
 		},
 		{
@@ -32823,21 +32973,6 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 28,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Dioswilson",
-			"time" : "2019/02/17",
-			"type" : "sell",
-			"volume" : 280000,
-			"world" : "world"
-		},
-		{
 			"amount" : 64,
 			"buyer" : "Diamond Exchange",
 			"location" : 
@@ -32850,6 +32985,21 @@
 			"time" : "2019/02/17",
 			"type" : "sell",
 			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 28,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Dioswilson",
+			"time" : "2019/02/17",
+			"type" : "sell",
+			"volume" : 280000,
 			"world" : "world"
 		},
 		{
@@ -33183,7 +33333,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 1,
+			"amount" : 2,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -33194,7 +33344,7 @@
 			"seller" : "Umby99",
 			"time" : "2019/02/19",
 			"type" : "sell",
-			"volume" : 10000,
+			"volume" : 20000,
 			"world" : "world"
 		},
 		{
@@ -33209,21 +33359,6 @@
 			"seller" : "Diamond Exchange",
 			"time" : "2019/02/19",
 			"type" : "buy",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Umby99",
-			"time" : "2019/02/19",
-			"type" : "sell",
 			"volume" : 10000,
 			"world" : "world"
 		},
@@ -35299,21 +35434,6 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "NullCase",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : 1
-			},
-			"seller" : "Diamond Exchange",
-			"time" : "2019/03/05",
-			"type" : "buy",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -35328,7 +35448,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 1,
+			"amount" : 2,
 			"buyer" : "NullCase",
 			"location" : 
 			{
@@ -35339,7 +35459,7 @@
 			"seller" : "Diamond Exchange",
 			"time" : "2019/03/05",
 			"type" : "buy",
-			"volume" : 10000,
+			"volume" : 20000,
 			"world" : "world"
 		},
 		{
@@ -41058,7 +41178,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 64,
+			"amount" : 80,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -41069,11 +41189,11 @@
 			"seller" : "Diamond Exchange",
 			"time" : "2019/05/07",
 			"type" : "buy",
-			"volume" : 640000,
+			"volume" : 800000,
 			"world" : "world"
 		},
 		{
-			"amount" : 64,
+			"amount" : 287,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -41084,41 +41204,11 @@
 			"seller" : "K9us",
 			"time" : "2019/05/07",
 			"type" : "sell",
-			"volume" : 640000,
+			"volume" : 2870000,
 			"world" : "world"
 		},
 		{
-			"amount" : 16,
-			"buyer" : "K9us",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Diamond Exchange",
-			"time" : "2019/05/07",
-			"type" : "buy",
-			"volume" : 160000,
-			"world" : "world"
-		},
-		{
-			"amount" : 223,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "K9us",
-			"time" : "2019/05/07",
-			"type" : "sell",
-			"volume" : 2230000,
-			"world" : "world"
-		},
-		{
-			"amount" : 384,
+			"amount" : 448,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -41129,7 +41219,7 @@
 			"seller" : "Dioswilson",
 			"time" : "2019/05/07",
 			"type" : "sell",
-			"volume" : 3840000,
+			"volume" : 4480000,
 			"world" : "world"
 		},
 		{
@@ -41140,21 +41230,6 @@
 				"x" : 33,
 				"y" : 71,
 				"z" : 1
-			},
-			"seller" : "Dioswilson",
-			"time" : "2019/05/07",
-			"type" : "sell",
-			"volume" : 640000,
-			"world" : "world"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
 			},
 			"seller" : "Dioswilson",
 			"time" : "2019/05/07",
@@ -46218,7 +46293,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "kuraudosukei",
 			"location" : 
 			{
@@ -46229,11 +46304,11 @@
 			"seller" : "Diamond Exchange",
 			"time" : "2019/07/09",
 			"type" : "buy",
-			"volume" : 20000,
+			"volume" : 10000,
 			"world" : "world"
 		},
 		{
-			"amount" : 6,
+			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -46244,7 +46319,37 @@
 			"seller" : "kuraudosukei",
 			"time" : "2019/07/09",
 			"type" : "sell",
-			"volume" : 60000,
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "kuraudosukei",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2019/07/09",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "kuraudosukei",
+			"time" : "2019/07/09",
+			"type" : "sell",
+			"volume" : 50000,
 			"world" : "world"
 		},
 		{
@@ -49113,93 +49218,93 @@
 			"world" : "world"
 		},
 		{
+			"amount" : 4,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "PXshadow",
+			"time" : "2019/08/19",
+			"type" : "sell",
+			"volume" : 40000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "TheNormalToast",
+			"time" : "2019/08/19",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "PXshadow",
+			"time" : "2019/08/19",
+			"type" : "sell",
+			"volume" : 30000,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "TheNormalToast",
+			"time" : "2019/08/19",
+			"type" : "sell",
+			"volume" : 30000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "PXshadow",
+			"time" : "2019/08/19",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
 			"amount" : 5,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
-				"x" : 33,
+				"x" : 32,
 				"y" : 71,
-				"z" : -1
+				"z" : 0
 			},
-			"seller" : "PXshadow",
+			"seller" : "TheNormalToast",
 			"time" : "2019/08/19",
 			"type" : "sell",
 			"volume" : 50000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "TheNormalToast",
-			"time" : "2019/08/19",
-			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "PXshadow",
-			"time" : "2019/08/19",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "TheNormalToast",
-			"time" : "2019/08/19",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "PXshadow",
-			"time" : "2019/08/19",
-			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 6,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "TheNormalToast",
-			"time" : "2019/08/19",
-			"type" : "sell",
-			"volume" : 60000,
 			"world" : "world"
 		},
 		{
@@ -50464,21 +50569,6 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "NullCase",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Diamond Exchange",
-			"time" : "2019/10/22",
-			"type" : "buy",
-			"volume" : 640000,
-			"world" : "world"
-		},
-		{
-			"amount" : 64,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -50489,6 +50579,21 @@
 			"seller" : "NullCase",
 			"time" : "2019/10/22",
 			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2019/10/22",
+			"type" : "buy",
 			"volume" : 640000,
 			"world" : "world"
 		},
@@ -52458,7 +52563,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 15,
+			"amount" : 16,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -52469,7 +52574,7 @@
 			"seller" : "Tomter",
 			"time" : "2020/01/11",
 			"type" : "sell",
-			"volume" : 150000,
+			"volume" : 160000,
 			"world" : "world"
 		},
 		{
@@ -52484,6 +52589,96 @@
 			"seller" : "Diamond Exchange",
 			"time" : "2020/01/11",
 			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Tomter",
+			"time" : "2020/01/11",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "jtl0350",
+			"time" : "2020/01/11",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Tomter",
+			"time" : "2020/01/11",
+			"type" : "sell",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "jtl0350",
+			"time" : "2020/01/11",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Tomter",
+			"time" : "2020/01/11",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "jtl0350",
+			"time" : "2020/01/11",
+			"type" : "sell",
 			"volume" : 10000,
 			"world" : "world"
 		},
@@ -52518,7 +52713,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 5,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -52529,67 +52724,7 @@
 			"seller" : "Tomter",
 			"time" : "2020/01/11",
 			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "jtl0350",
-			"time" : "2020/01/11",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Tomter",
-			"time" : "2020/01/11",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 2,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "jtl0350",
-			"time" : "2020/01/11",
-			"type" : "sell",
-			"volume" : 20000,
-			"world" : "world"
-		},
-		{
-			"amount" : 7,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Tomter",
-			"time" : "2020/01/11",
-			"type" : "sell",
-			"volume" : 70000,
+			"volume" : 50000,
 			"world" : "world"
 		},
 		{
@@ -52864,21 +52999,6 @@
 		},
 		{
 			"amount" : 64,
-			"buyer" : "NullCase",
-			"location" : 
-			{
-				"x" : 32,
-				"y" : 71,
-				"z" : 0
-			},
-			"seller" : "Diamond Exchange",
-			"time" : "2020/01/22",
-			"type" : "buy",
-			"volume" : 640000,
-			"world" : "world"
-		},
-		{
-			"amount" : 64,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -52889,6 +53009,21 @@
 			"seller" : "NullCase",
 			"time" : "2020/01/22",
 			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "NullCase",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/01/22",
+			"type" : "buy",
 			"volume" : 640000,
 			"world" : "world"
 		},
@@ -54168,6 +54303,21 @@
 			"world" : "world"
 		},
 		{
+			"amount" : 64,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "VeillofSorrow",
+			"time" : "2020/03/04",
+			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
 			"amount" : 4,
 			"buyer" : "Diamond Exchange",
 			"location" : 
@@ -54183,7 +54333,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 121,
+			"amount" : 57,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -54194,7 +54344,7 @@
 			"seller" : "VeillofSorrow",
 			"time" : "2020/03/04",
 			"type" : "sell",
-			"volume" : 1210000,
+			"volume" : 570000,
 			"world" : "world"
 		},
 		{
@@ -55054,21 +55204,6 @@
 		},
 		{
 			"amount" : 1,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "J0hs",
-			"time" : "2020/03/16",
-			"type" : "sell",
-			"volume" : 10000,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
 			"buyer" : "J0hs",
 			"location" : 
 			{
@@ -55079,6 +55214,21 @@
 			"seller" : "Diamond Exchange",
 			"time" : "2020/03/16",
 			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "J0hs",
+			"time" : "2020/03/16",
+			"type" : "sell",
 			"volume" : 10000,
 			"world" : "world"
 		},
@@ -56418,21 +56568,6 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 22,
-			"buyer" : "Diamond Exchange",
-			"location" : 
-			{
-				"x" : 33,
-				"y" : 71,
-				"z" : -1
-			},
-			"seller" : "Qu1dz0",
-			"time" : "2020/03/29",
-			"type" : "sell",
-			"volume" : 220000,
-			"world" : "world"
-		},
-		{
 			"amount" : 1,
 			"buyer" : "Diamond Exchange",
 			"location" : 
@@ -56445,6 +56580,21 @@
 			"time" : "2020/03/29",
 			"type" : "sell",
 			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Qu1dz0",
+			"time" : "2020/03/29",
+			"type" : "sell",
+			"volume" : 220000,
 			"world" : "world"
 		},
 		{
@@ -56583,7 +56733,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 135,
+			"amount" : 191,
 			"buyer" : "Diamond Exchange",
 			"location" : 
 			{
@@ -56594,7 +56744,1672 @@
 			"seller" : "TheMotherBrayne",
 			"time" : "2020/03/31",
 			"type" : "sell",
-			"volume" : 1350000,
+			"volume" : 1910000,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "ZeroGDucks",
+			"time" : "2020/03/31",
+			"type" : "sell",
+			"volume" : 90000,
+			"world" : "world"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "ZeroGDucks",
+			"time" : "2020/03/31",
+			"type" : "sell",
+			"volume" : 190000,
+			"world" : "world"
+		},
+		{
+			"amount" : 36,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Qu1dz0",
+			"time" : "2020/03/31",
+			"type" : "sell",
+			"volume" : 360000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Spectate_Nate",
+			"time" : "2020/03/31",
+			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 43,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "TheMotherBrayne",
+			"time" : "2020/03/31",
+			"type" : "sell",
+			"volume" : 430000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Spectate_Nate",
+			"time" : "2020/03/31",
+			"type" : "sell",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 92,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "TheMotherBrayne",
+			"time" : "2020/04/01",
+			"type" : "sell",
+			"volume" : 920000,
+			"world" : "world"
+		},
+		{
+			"amount" : 75,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/02",
+			"type" : "sell",
+			"volume" : 750000,
+			"world" : "world"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/04/03",
+			"type" : "sell",
+			"volume" : 190000,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/03",
+			"type" : "buy",
+			"volume" : 1920000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "TheMotherBrayne",
+			"time" : "2020/04/03",
+			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/03",
+			"type" : "buy",
+			"volume" : 1280000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Spectate_Nate",
+			"location" : 
+			{
+				"x" : 1504,
+				"y" : 67,
+				"z" : 2971
+			},
+			"seller" : "TheMotherBrayne",
+			"time" : "2020/04/03",
+			"type" : "buy",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "TheMotherBrayne",
+			"location" : 
+			{
+				"x" : 1504,
+				"y" : 67,
+				"z" : 2971
+			},
+			"seller" : "Spectate_Nate",
+			"time" : "2020/04/03",
+			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/03",
+			"type" : "sell",
+			"volume" : 100000,
+			"world" : "world"
+		},
+		{
+			"amount" : 51,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Threethan",
+			"time" : "2020/04/03",
+			"type" : "sell",
+			"volume" : 510000,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/03",
+			"type" : "sell",
+			"volume" : 100000,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/08",
+			"type" : "sell",
+			"volume" : 80000,
+			"world" : "world"
+		},
+		{
+			"amount" : 30,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "solson744",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 300000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dantytheberd",
+			"location" : 
+			{
+				"x" : -2128,
+				"y" : 62,
+				"z" : -2310
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : -2128,
+				"y" : 62,
+				"z" : -2310
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 90000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dantytheberd",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 140000,
+			"world" : "world"
+		},
+		{
+			"amount" : 78,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 780000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 110,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : -2128,
+				"y" : 62,
+				"z" : -2310
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 1100000,
+			"world" : "world"
+		},
+		{
+			"amount" : 34,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : -2128,
+				"y" : 62,
+				"z" : -2310
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 340000,
+			"world" : "world"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "BelegStrongbow",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 170000,
+			"world" : "world"
+		},
+		{
+			"amount" : 37,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "ZeroGDucks",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 370000,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 110000,
+			"world" : "world"
+		},
+		{
+			"amount" : 63,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 630000,
+			"world" : "world"
+		},
+		{
+			"amount" : 71,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 710000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 39,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 390000,
+			"world" : "world"
+		},
+		{
+			"amount" : 39,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 390000,
+			"world" : "world"
+		},
+		{
+			"amount" : 38,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 380000,
+			"world" : "world"
+		},
+		{
+			"amount" : 415,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "BelegStrongbow",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 4150000,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 110000,
+			"world" : "world"
+		},
+		{
+			"amount" : 48,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 480000,
+			"world" : "world"
+		},
+		{
+			"amount" : 48,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 480000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 100000,
+			"world" : "world"
+		},
+		{
+			"amount" : 19,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 190000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 47,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 470000,
+			"world" : "world"
+		},
+		{
+			"amount" : 47,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 470000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 50000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 200000,
+			"world" : "world"
+		},
+		{
+			"amount" : 49,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 490000,
+			"world" : "world"
+		},
+		{
+			"amount" : 44,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 440000,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 90000,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 90000,
+			"world" : "world"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 220000,
+			"world" : "world"
+		},
+		{
+			"amount" : 33,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 330000,
+			"world" : "world"
+		},
+		{
+			"amount" : 34,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 340000,
+			"world" : "world"
+		},
+		{
+			"amount" : 48,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 480000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 170000,
+			"world" : "world"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 170000,
+			"world" : "world"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 240000,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 40000,
+			"world" : "world"
+		},
+		{
+			"amount" : 63,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 630000,
+			"world" : "world"
+		},
+		{
+			"amount" : 122,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 1220000,
+			"world" : "world"
+		},
+		{
+			"amount" : 9,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 90000,
+			"world" : "world"
+		},
+		{
+			"amount" : 34,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 340000,
+			"world" : "world"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 20000,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 200000,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Freeaboo",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 40000,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 200000,
+			"world" : "world"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 140000,
+			"world" : "world"
+		},
+		{
+			"amount" : 42,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 420000,
+			"world" : "world"
+		},
+		{
+			"amount" : 23,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 230000,
+			"world" : "world"
+		},
+		{
+			"amount" : 33,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 330000,
+			"world" : "world"
+		},
+		{
+			"amount" : 33,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 330000,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 100000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : 1
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 140000,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 50000,
+			"world" : "world"
+		},
+		{
+			"amount" : 21,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 210000,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 110000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "PXshadow",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 10000,
+			"world" : "world"
+		},
+		{
+			"amount" : 29,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 290000,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "PXshadow",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 320000,
+			"world" : "world"
+		},
+		{
+			"amount" : 110,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 1100000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 17,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 170000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 92,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 920000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 28,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 280000,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Diamond Exchange",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 640000,
+			"world" : "world"
+		},
+		{
+			"amount" : 76,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 760000,
+			"world" : "world"
+		},
+		{
+			"amount" : 21,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 71,
+				"z" : -1
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 210000,
+			"world" : "world"
+		},
+		{
+			"amount" : 25,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 250000,
+			"world" : "world"
+		},
+		{
+			"amount" : 62,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 620000,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 110000,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 200000,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "StanleyC",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 3840000,
+			"world" : "world"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : -2128,
+				"y" : 62,
+				"z" : -2310
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/16",
+			"type" : "sell",
+			"volume" : 140000,
+			"world" : "world"
+		},
+		{
+			"amount" : 20,
+			"buyer" : "Diamond Exchange",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 71,
+				"z" : 0
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/16",
+			"type" : "sell",
+			"volume" : 200000,
 			"world" : "world"
 		}
 	]

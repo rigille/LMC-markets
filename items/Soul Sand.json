@@ -109,21 +109,6 @@
 		},
 		{
 			"amount" : 8,
-			"buyer" : "Haksndot",
-			"location" : 
-			{
-				"x" : -51,
-				"y" : 112,
-				"z" : -22
-			},
-			"seller" : "K9us",
-			"time" : "2018/11/06",
-			"type" : "sell",
-			"volume" : 900,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 8,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -138,7 +123,7 @@
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 328,
+			"amount" : 336,
 			"buyer" : "Haksndot",
 			"location" : 
 			{
@@ -149,7 +134,7 @@
 			"seller" : "K9us",
 			"time" : "2018/11/06",
 			"type" : "sell",
-			"volume" : 36900,
+			"volume" : 37800,
 			"world" : "world_nether"
 		},
 		{
@@ -1260,6 +1245,36 @@
 			"time" : "2020/03/20",
 			"type" : "buy",
 			"volume" : 5000,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : 319,
+				"y" : 78,
+				"z" : 29
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/04/01",
+			"type" : "buy",
+			"volume" : 5000,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -145,
+				"y" : 60,
+				"z" : -13
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/02",
+			"type" : "buy",
+			"volume" : 200,
 			"world" : "world"
 		}
 	]

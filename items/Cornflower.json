@@ -61,6 +61,36 @@
 			"type" : "buy",
 			"volume" : 100,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 0,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "AmineWeboo",
+			"location" : 
+			{
+				"x" : 0,
+				"y" : 57,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 110,
+			"world" : "world"
 		}
 	]
 }

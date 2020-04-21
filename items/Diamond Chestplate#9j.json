@@ -106,6 +106,21 @@
 			"type" : "buy",
 			"volume" : 21999,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "BelegStrongbow",
+			"location" : 
+			{
+				"x" : -5,
+				"y" : 65,
+				"z" : 18
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 21999,
+			"world" : "world"
 		}
 	]
 }

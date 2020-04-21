@@ -48,7 +48,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 192,
+			"amount" : 256,
 			"buyer" : "__Wildfire_",
 			"location" : 
 			{
@@ -59,11 +59,11 @@
 			"seller" : "K9us",
 			"time" : "2018/12/23",
 			"type" : "buy",
-			"volume" : 288,
+			"volume" : 384,
 			"world" : "world"
 		},
 		{
-			"amount" : 9,
+			"amount" : 29,
 			"buyer" : "__Wildfire_",
 			"location" : 
 			{
@@ -74,37 +74,7 @@
 			"seller" : "K9us",
 			"time" : "2018/12/23",
 			"type" : "buy",
-			"volume" : 9,
-			"world" : "world"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "__Wildfire_",
-			"location" : 
-			{
-				"x" : -1877,
-				"y" : 14,
-				"z" : 1572
-			},
-			"seller" : "K9us",
-			"time" : "2018/12/23",
-			"type" : "buy",
-			"volume" : 96,
-			"world" : "world"
-		},
-		{
-			"amount" : 20,
-			"buyer" : "__Wildfire_",
-			"location" : 
-			{
-				"x" : -1877,
-				"y" : 15,
-				"z" : 1572
-			},
-			"seller" : "K9us",
-			"time" : "2018/12/23",
-			"type" : "buy",
-			"volume" : 20,
+			"volume" : 29,
 			"world" : "world"
 		},
 		{
@@ -183,7 +153,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 60,
+			"amount" : 57,
 			"buyer" : "__Wildfire_",
 			"location" : 
 			{
@@ -194,11 +164,11 @@
 			"seller" : "K9us",
 			"time" : "2018/12/23",
 			"type" : "buy",
-			"volume" : 60,
+			"volume" : 57,
 			"world" : "world"
 		},
 		{
-			"amount" : 384,
+			"amount" : 64,
 			"buyer" : "__Wildfire_",
 			"location" : 
 			{
@@ -209,7 +179,37 @@
 			"seller" : "K9us",
 			"time" : "2018/12/23",
 			"type" : "buy",
-			"volume" : 576,
+			"volume" : 96,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -1877,
+				"y" : 15,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/23",
+			"type" : "buy",
+			"volume" : 3,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : -1877,
+				"y" : 14,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2018/12/23",
+			"type" : "buy",
+			"volume" : 384,
 			"world" : "world"
 		},
 		{
@@ -228,7 +228,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 120,
+			"amount" : 184,
 			"buyer" : "__Wildfire_",
 			"location" : 
 			{
@@ -239,7 +239,7 @@
 			"seller" : "K9us",
 			"time" : "2018/12/23",
 			"type" : "buy",
-			"volume" : 180,
+			"volume" : 276,
 			"world" : "world"
 		},
 		{
@@ -423,7 +423,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 477,
+			"amount" : 478,
 			"buyer" : "ezrone",
 			"location" : 
 			{
@@ -434,7 +434,7 @@
 			"seller" : "K9us",
 			"time" : "2019/03/07",
 			"type" : "buy",
-			"volume" : 7155,
+			"volume" : 7170,
 			"world" : "world"
 		},
 		{
@@ -453,7 +453,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 465,
+			"amount" : 464,
 			"buyer" : "ezrone",
 			"location" : 
 			{
@@ -464,7 +464,7 @@
 			"seller" : "K9us",
 			"time" : "2019/03/07",
 			"type" : "buy",
-			"volume" : 6975,
+			"volume" : 6960,
 			"world" : "world"
 		},
 		{

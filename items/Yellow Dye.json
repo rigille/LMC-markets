@@ -106,6 +106,21 @@
 			"type" : "buy",
 			"volume" : 8560,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : -10,
+				"y" : 59,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 80,
+			"world" : "world"
 		}
 	]
 }

@@ -91,6 +91,21 @@
 			"type" : "buy",
 			"volume" : 576,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : 59,
+				"y" : 60,
+				"z" : -9
+			},
+			"seller" : "K9us",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 192,
+			"world" : "world"
 		}
 	]
 }

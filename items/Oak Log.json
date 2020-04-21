@@ -813,7 +813,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 16,
+			"amount" : 24,
 			"buyer" : "Haksndot",
 			"location" : 
 			{
@@ -824,7 +824,7 @@
 			"seller" : "3thanat0r",
 			"time" : "2018/09/21",
 			"type" : "sell",
-			"volume" : 1100,
+			"volume" : 1650,
 			"world" : "world"
 		},
 		{
@@ -843,7 +843,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 18,
+			"amount" : 10,
 			"buyer" : "Haksndot",
 			"location" : 
 			{
@@ -854,7 +854,7 @@
 			"seller" : "3thanat0r",
 			"time" : "2018/09/21",
 			"type" : "sell",
-			"volume" : 1237.5,
+			"volume" : 687.5,
 			"world" : "world"
 		},
 		{
@@ -12240,6 +12240,426 @@
 			"time" : "2020/03/27",
 			"type" : "sell",
 			"volume" : 1750,
+			"world" : "world"
+		},
+		{
+			"amount" : 13,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -31
+			},
+			"seller" : "Mathew2w",
+			"time" : "2020/04/02",
+			"type" : "sell",
+			"volume" : 325,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Mathew2w",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -31
+			},
+			"seller" : "Haksndot",
+			"time" : "2020/04/02",
+			"type" : "buy",
+			"volume" : 30,
+			"world" : "world"
+		},
+		{
+			"amount" : 54,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -31
+			},
+			"seller" : "Mathew2w",
+			"time" : "2020/04/02",
+			"type" : "sell",
+			"volume" : 1350,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Impression28",
+			"location" : 
+			{
+				"x" : -6,
+				"y" : 66,
+				"z" : -12
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/06",
+			"type" : "buy",
+			"volume" : 5120,
+			"world" : "world"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 186
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 2080,
+			"world" : "world"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -31
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 4000,
+			"world" : "world"
+		},
+		{
+			"amount" : 327,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 186
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 4251,
+			"world" : "world"
+		},
+		{
+			"amount" : 327,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -31
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 8175,
+			"world" : "world"
+		},
+		{
+			"amount" : 628,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 186
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 8164,
+			"world" : "world"
+		},
+		{
+			"amount" : 628,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -31
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 15700,
+			"world" : "world"
+		},
+		{
+			"amount" : 1152,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 186
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 14976,
+			"world" : "world"
+		},
+		{
+			"amount" : 99,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -31
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 2475,
+			"world" : "world"
+		},
+		{
+			"amount" : 1053,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 186
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 12636,
+			"world" : "world"
+		},
+		{
+			"amount" : 28,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1135,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 560,
+			"world" : "world"
+		},
+		{
+			"amount" : 158,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1135,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/09",
+			"type" : "sell",
+			"volume" : 3160,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1135,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 2560,
+			"world" : "world"
+		},
+		{
+			"amount" : 1024,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 186
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 13312,
+			"world" : "world"
+		},
+		{
+			"amount" : 195,
+			"buyer" : "Dantytheberd",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 186
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 2535,
+			"world" : "world"
+		},
+		{
+			"amount" : 195,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1135,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 3900,
+			"world" : "world"
+		},
+		{
+			"amount" : 640,
+			"buyer" : "Dantytheberd",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 79,
+				"z" : 186
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 8320,
+			"world" : "world"
+		},
+		{
+			"amount" : 445,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1135,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "Dantytheberd",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 8900,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "BelegStrongbow",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -31
+			},
+			"seller" : "Haksndot",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 1920,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -129,
+				"y" : 64,
+				"z" : -31
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 1600,
+			"world" : "world"
+		},
+		{
+			"amount" : 69,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1135,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "DoinDoinUrMom",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 1380,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -1135,
+				"y" : 67,
+				"z" : -2909
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 5120,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 75,
+				"z" : -25
+			},
+			"seller" : "Dioswilson",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 4992,
+			"world" : "world"
+		},
+		{
+			"amount" : 71,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 75,
+				"z" : -25
+			},
+			"seller" : "Dioswilson",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 923,
+			"world" : "world"
+		},
+		{
+			"amount" : 2304,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 91,
+				"y" : 75,
+				"z" : -25
+			},
+			"seller" : "Dioswilson",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 29952,
 			"world" : "world"
 		}
 	]

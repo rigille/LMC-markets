@@ -16,6 +16,36 @@
 			"type" : "buy",
 			"volume" : 440,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 33,
+				"y" : 78,
+				"z" : 9
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/03/31",
+			"type" : "buy",
+			"volume" : 1900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 7,
+				"y" : 59,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 200,
+			"world" : "world"
 		}
 	]
 }

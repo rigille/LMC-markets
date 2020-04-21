@@ -678,7 +678,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 3637,
+			"amount" : 3638,
 			"buyer" : "freakdown",
 			"location" : 
 			{
@@ -689,37 +689,7 @@
 			"seller" : "K9us",
 			"time" : "2019/01/12",
 			"type" : "buy",
-			"volume" : 14548,
-			"world" : "world"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "freakdown",
-			"location" : 
-			{
-				"x" : -1861,
-				"y" : 14,
-				"z" : 1572
-			},
-			"seller" : "K9us",
-			"time" : "2019/01/12",
-			"type" : "buy",
-			"volume" : 384,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "freakdown",
-			"location" : 
-			{
-				"x" : -1861,
-				"y" : 15,
-				"z" : 1572
-			},
-			"seller" : "K9us",
-			"time" : "2019/01/12",
-			"type" : "buy",
-			"volume" : 4,
+			"volume" : 14552,
 			"world" : "world"
 		},
 		{
@@ -738,7 +708,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 8,
+			"amount" : 5,
 			"buyer" : "freakdown",
 			"location" : 
 			{
@@ -749,7 +719,37 @@
 			"seller" : "K9us",
 			"time" : "2019/01/12",
 			"type" : "buy",
-			"volume" : 32,
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -1861,
+				"y" : 14,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/12",
+			"type" : "buy",
+			"volume" : 384,
+			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "freakdown",
+			"location" : 
+			{
+				"x" : -1861,
+				"y" : 15,
+				"z" : 1572
+			},
+			"seller" : "K9us",
+			"time" : "2019/01/12",
+			"type" : "buy",
+			"volume" : 12,
 			"world" : "world"
 		},
 		{
@@ -3120,6 +3120,201 @@
 			"time" : "2020/03/29",
 			"type" : "sell",
 			"volume" : 16387.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 847,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : 260,
+				"y" : 82,
+				"z" : 140
+			},
+			"seller" : "Impression28",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 10587.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 71,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 1700,
+			"world" : "world"
+		},
+		{
+			"amount" : 46,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 71,
+				"z" : 14
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 1078.1300000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 76,
+			"buyer" : "__Wildfire_",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 1543.75,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 260,
+				"y" : 82,
+				"z" : 140
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 3600,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : -1064,
+				"y" : 78,
+				"z" : -3005
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 6000,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "Freeaboo",
+			"location" : 
+			{
+				"x" : -1064,
+				"y" : 78,
+				"z" : -3005
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 9000,
+			"world" : "world"
+		},
+		{
+			"amount" : 512,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 67,
+				"z" : 31
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 8192,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Freeaboo",
+			"location" : 
+			{
+				"x" : -1064,
+				"y" : 78,
+				"z" : -3005
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 6000,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 260,
+				"y" : 82,
+				"z" : 140
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 3600,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Freeaboo",
+			"location" : 
+			{
+				"x" : -1064,
+				"y" : 78,
+				"z" : -3005
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 6000,
+			"world" : "world"
+		},
+		{
+			"amount" : 408,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : -1064,
+				"y" : 78,
+				"z" : -3005
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 9562.5,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : 295,
+				"y" : 67,
+				"z" : 31
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 5120,
 			"world" : "world"
 		}
 	]

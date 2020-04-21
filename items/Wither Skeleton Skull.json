@@ -1306,6 +1306,96 @@
 			"type" : "buy",
 			"volume" : 2250,
 			"world" : "world"
+		},
+		{
+			"amount" : 3,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -142,
+				"y" : 66,
+				"z" : -9
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/02",
+			"type" : "buy",
+			"volume" : 750,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -142,
+				"y" : 66,
+				"z" : -9
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 16000,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -142,
+				"y" : 66,
+				"z" : -9
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 48000,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : -142,
+				"y" : 66,
+				"z" : -9
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 1250,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : -142,
+				"y" : 64,
+				"z" : -9
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 1100,
+			"world" : "world"
+		},
+		{
+			"amount" : 146,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : -142,
+				"y" : 66,
+				"z" : -9
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 36500,
+			"world" : "world"
 		}
 	]
 }

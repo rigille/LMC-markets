@@ -736,6 +736,51 @@
 			"type" : "buy",
 			"volume" : 1000,
 			"world" : "world_the_end"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 6,
+				"z" : -18
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/04/03",
+			"type" : "buy",
+			"volume" : 4000,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : -3,
+				"y" : 57,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 900,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 6,
+				"z" : -18
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 1000,
+			"world" : "world_the_end"
 		}
 	]
 }

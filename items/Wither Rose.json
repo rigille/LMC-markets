@@ -106,6 +106,36 @@
 			"type" : "buy",
 			"volume" : 3339,
 			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 66,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 1792,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 5,
+				"y" : 66,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 448,
+			"world" : "world"
 		}
 	]
 }

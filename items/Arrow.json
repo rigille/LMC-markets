@@ -2386,6 +2386,51 @@
 			"type" : "buy",
 			"volume" : 100,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 369,
+				"y" : 81,
+				"z" : 16
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2020/04/03",
+			"type" : "buy",
+			"volume" : 64,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 78,
+				"z" : 17
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : 308,
+				"y" : 78,
+				"z" : 17
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 150,
+			"world" : "world"
 		}
 	]
 }

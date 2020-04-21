@@ -376,6 +376,21 @@
 			"type" : "buy",
 			"volume" : 1900,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 5,
+				"z" : -20
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 1000,
+			"world" : "world_the_end"
 		}
 	]
 }

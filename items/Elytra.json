@@ -1276,6 +1276,21 @@
 			"type" : "buy",
 			"volume" : 2000000,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dantytheberd",
+			"location" : 
+			{
+				"x" : 48,
+				"y" : 72,
+				"z" : -5
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 2000000,
+			"world" : "world"
 		}
 	]
 }

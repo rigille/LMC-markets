@@ -61,6 +61,21 @@
 			"type" : "buy",
 			"volume" : 3000,
 			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 35,
+				"y" : 78,
+				"z" : 14
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 3100,
+			"world" : "world"
 		}
 	]
 }

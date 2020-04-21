@@ -1139,7 +1139,7 @@
 			"seller" : "__Wildfire_",
 			"time" : "2018/11/18",
 			"type" : "buy",
-			"volume" : 1343.3500000000004,
+			"volume" : 1343.3500000000001,
 			"world" : "world"
 		},
 		{
@@ -3798,7 +3798,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 64,
+			"amount" : 128,
 			"buyer" : "darkraysplash",
 			"location" : 
 			{
@@ -3809,11 +3809,11 @@
 			"seller" : "NullCase",
 			"time" : "2019/03/17",
 			"type" : "buy",
-			"volume" : 1,
+			"volume" : 2,
 			"world" : "world"
 		},
 		{
-			"amount" : 4,
+			"amount" : 8,
 			"buyer" : "NullCase",
 			"location" : 
 			{
@@ -3824,37 +3824,7 @@
 			"seller" : "darkraysplash",
 			"time" : "2019/03/17",
 			"type" : "sell",
-			"volume" : 0.059999999999999998,
-			"world" : "world"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "darkraysplash",
-			"location" : 
-			{
-				"x" : -58,
-				"y" : 69,
-				"z" : 22
-			},
-			"seller" : "NullCase",
-			"time" : "2019/03/17",
-			"type" : "buy",
-			"volume" : 1,
-			"world" : "world"
-		},
-		{
-			"amount" : 4,
-			"buyer" : "NullCase",
-			"location" : 
-			{
-				"x" : -58,
-				"y" : 69,
-				"z" : 22
-			},
-			"seller" : "darkraysplash",
-			"time" : "2019/03/17",
-			"type" : "sell",
-			"volume" : 0.059999999999999998,
+			"volume" : 0.12,
 			"world" : "world"
 		},
 		{
@@ -6153,63 +6123,33 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 64,
-			"buyer" : "Aewheros",
-			"location" : 
-			{
-				"x" : -58,
-				"y" : 69,
-				"z" : 22
-			},
-			"seller" : "NullCase",
-			"time" : "2019/05/20",
-			"type" : "buy",
-			"volume" : 1,
-			"world" : "world"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "Aewheros",
-			"location" : 
-			{
-				"x" : -58,
-				"y" : 70,
-				"z" : 22
-			},
-			"seller" : "NullCase",
-			"time" : "2019/05/20",
-			"type" : "buy",
-			"volume" : 0.45000000000000001,
-			"world" : "world"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "Aewheros",
-			"location" : 
-			{
-				"x" : -58,
-				"y" : 69,
-				"z" : 22
-			},
-			"seller" : "NullCase",
-			"time" : "2019/05/20",
-			"type" : "buy",
-			"volume" : 1,
-			"world" : "world"
-		},
-		{
 			"amount" : 128,
 			"buyer" : "Aewheros",
 			"location" : 
 			{
 				"x" : -58,
+				"y" : 69,
+				"z" : 22
+			},
+			"seller" : "NullCase",
+			"time" : "2019/05/20",
+			"type" : "buy",
+			"volume" : 2,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -58,
 				"y" : 70,
 				"z" : 22
 			},
 			"seller" : "NullCase",
 			"time" : "2019/05/20",
 			"type" : "buy",
-			"volume" : 0.90000000000000002,
+			"volume" : 1.3500000000000001,
 			"world" : "world"
 		},
 		{
@@ -6228,7 +6168,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 256,
+			"amount" : 192,
 			"buyer" : "Aewheros",
 			"location" : 
 			{
@@ -6239,7 +6179,7 @@
 			"seller" : "NullCase",
 			"time" : "2019/05/22",
 			"type" : "buy",
-			"volume" : 4,
+			"volume" : 3,
 			"world" : "world"
 		},
 		{
@@ -6255,6 +6195,21 @@
 			"time" : "2019/05/22",
 			"type" : "buy",
 			"volume" : 0.45000000000000001,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : -58,
+				"y" : 69,
+				"z" : 22
+			},
+			"seller" : "NullCase",
+			"time" : "2019/05/22",
+			"type" : "buy",
+			"volume" : 1,
 			"world" : "world"
 		},
 		{
@@ -7683,7 +7638,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 1920,
+			"amount" : 1984,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -7694,7 +7649,7 @@
 			"seller" : "NullCase",
 			"time" : "2019/07/02",
 			"type" : "buy",
-			"volume" : 6.5999999999999988,
+			"volume" : 6.8199999999999985,
 			"world" : "world"
 		},
 		{
@@ -7713,7 +7668,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 192,
+			"amount" : 128,
 			"buyer" : "K9us",
 			"location" : 
 			{
@@ -7724,7 +7679,7 @@
 			"seller" : "NullCase",
 			"time" : "2019/07/02",
 			"type" : "buy",
-			"volume" : 0.66000000000000003,
+			"volume" : 0.44,
 			"world" : "world"
 		},
 		{
@@ -10905,6 +10860,21 @@
 			"time" : "2020/03/30",
 			"type" : "buy",
 			"volume" : 2962,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "AmineWeboo",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 63,
+				"z" : 230
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 150,
 			"world" : "world"
 		}
 	]

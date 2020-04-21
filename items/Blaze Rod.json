@@ -3571,6 +3571,156 @@
 			"type" : "buy",
 			"volume" : 10,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "ZeroGDucks",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 19
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/03/31",
+			"type" : "buy",
+			"volume" : 1280,
+			"world" : "world"
+		},
+		{
+			"amount" : 69,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 19
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/02",
+			"type" : "buy",
+			"volume" : 1380,
+			"world" : "world"
+		},
+		{
+			"amount" : 5,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : -52,
+				"y" : 70,
+				"z" : 22
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/02",
+			"type" : "buy",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "miniman927",
+			"location" : 
+			{
+				"x" : -52,
+				"y" : 69,
+				"z" : 22
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/02",
+			"type" : "buy",
+			"volume" : 640,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 19
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/04",
+			"type" : "buy",
+			"volume" : 1280,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Dantytheberd",
+			"location" : 
+			{
+				"x" : -52,
+				"y" : 69,
+				"z" : 22
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 40,
+			"world" : "world"
+		},
+		{
+			"amount" : 7,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 19
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 140,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 19
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 65,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 19
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 1300,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -2122,
+				"y" : 71,
+				"z" : -2331
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 480,
+			"world" : "world"
 		}
 	]
 }

@@ -256,6 +256,21 @@
 			"type" : "buy",
 			"volume" : 640,
 			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "AmineWeboo",
+			"location" : 
+			{
+				"x" : 4,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 1280,
+			"world" : "world"
 		}
 	]
 }

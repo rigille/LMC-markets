@@ -346,6 +346,21 @@
 			"type" : "buy",
 			"volume" : 6,
 			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 60,
+				"z" : -18
+			},
+			"seller" : "K9us",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 24,
+			"world" : "world"
 		}
 	]
 }

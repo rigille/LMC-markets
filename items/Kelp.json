@@ -331,6 +331,21 @@
 			"type" : "buy",
 			"volume" : 810,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Dantytheberd",
+			"location" : 
+			{
+				"x" : 94,
+				"y" : 74,
+				"z" : 15
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 150,
+			"world" : "world"
 		}
 	]
 }

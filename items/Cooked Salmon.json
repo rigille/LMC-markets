@@ -4383,7 +4383,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 192,
+			"amount" : 128,
 			"buyer" : "TheMotherBrayne",
 			"location" : 
 			{
@@ -4394,7 +4394,7 @@
 			"seller" : "Aewheros",
 			"time" : "2020/03/01",
 			"type" : "buy",
-			"volume" : 15,
+			"volume" : 10,
 			"world" : "world"
 		},
 		{
@@ -4413,7 +4413,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 64,
+			"amount" : 128,
 			"buyer" : "TheMotherBrayne",
 			"location" : 
 			{
@@ -4424,7 +4424,7 @@
 			"seller" : "Aewheros",
 			"time" : "2020/03/01",
 			"type" : "buy",
-			"volume" : 5,
+			"volume" : 10,
 			"world" : "world"
 		},
 		{
@@ -4680,6 +4680,66 @@
 			"time" : "2020/03/28",
 			"type" : "buy",
 			"volume" : 60,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 44,
+				"y" : 72,
+				"z" : -5
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 44,
+				"y" : 72,
+				"z" : -5
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 120,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 44,
+				"y" : 72,
+				"z" : -5
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Freeaboo",
+			"location" : 
+			{
+				"x" : 44,
+				"y" : 72,
+				"z" : -5
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 20,
 			"world" : "world"
 		}
 	]

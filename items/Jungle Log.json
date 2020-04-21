@@ -1758,7 +1758,7 @@
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 64,
+			"amount" : 128,
 			"buyer" : "Cesium_Knight",
 			"location" : 
 			{
@@ -1769,11 +1769,11 @@
 			"seller" : "__Wildfire_",
 			"time" : "2019/03/30",
 			"type" : "buy",
-			"volume" : 640,
+			"volume" : 1280,
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 64,
+			"amount" : 128,
 			"buyer" : "magemagemege",
 			"location" : 
 			{
@@ -1784,37 +1784,7 @@
 			"seller" : "__Wildfire_",
 			"time" : "2019/03/30",
 			"type" : "buy",
-			"volume" : 640,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "Cesium_Knight",
-			"location" : 
-			{
-				"x" : 263,
-				"y" : 113,
-				"z" : -17
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2019/03/30",
-			"type" : "buy",
-			"volume" : 640,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "magemagemege",
-			"location" : 
-			{
-				"x" : 263,
-				"y" : 113,
-				"z" : -17
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2019/03/30",
-			"type" : "buy",
-			"volume" : 640,
+			"volume" : 1280,
 			"world" : "world_nether"
 		},
 		{
@@ -3195,6 +3165,36 @@
 			"time" : "2020/03/28",
 			"type" : "buy",
 			"volume" : 140,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "BelegStrongbow",
+			"location" : 
+			{
+				"x" : -5,
+				"y" : 65,
+				"z" : -19
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 35,
+			"world" : "world"
+		},
+		{
+			"amount" : 23,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : -5,
+				"y" : 67,
+				"z" : -19
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 805,
 			"world" : "world"
 		}
 	]

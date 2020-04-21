@@ -241,6 +241,21 @@
 			"type" : "buy",
 			"volume" : 2624,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 430,
+				"y" : 80,
+				"z" : 47
+			},
+			"seller" : "Dioswilson",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 1024,
+			"world" : "world"
 		}
 	]
 }

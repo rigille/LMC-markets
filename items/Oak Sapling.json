@@ -2733,7 +2733,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 1,
+			"amount" : 2,
 			"buyer" : "xX69bigchungusXx",
 			"location" : 
 			{
@@ -2744,11 +2744,11 @@
 			"seller" : "Haksndot",
 			"time" : "2020/02/23",
 			"type" : "buy",
-			"volume" : 100,
+			"volume" : 200,
 			"world" : "world"
 		},
 		{
-			"amount" : 1,
+			"amount" : 35,
 			"buyer" : "Haksndot",
 			"location" : 
 			{
@@ -2759,37 +2759,7 @@
 			"seller" : "xX69bigchungusXx",
 			"time" : "2020/02/23",
 			"type" : "sell",
-			"volume" : 90,
-			"world" : "world"
-		},
-		{
-			"amount" : 1,
-			"buyer" : "xX69bigchungusXx",
-			"location" : 
-			{
-				"x" : -130,
-				"y" : 63,
-				"z" : -31
-			},
-			"seller" : "Haksndot",
-			"time" : "2020/02/23",
-			"type" : "buy",
-			"volume" : 100,
-			"world" : "world"
-		},
-		{
-			"amount" : 34,
-			"buyer" : "Haksndot",
-			"location" : 
-			{
-				"x" : -130,
-				"y" : 63,
-				"z" : -31
-			},
-			"seller" : "xX69bigchungusXx",
-			"time" : "2020/02/23",
-			"type" : "sell",
-			"volume" : 3060,
+			"volume" : 3150,
 			"world" : "world"
 		},
 		{
@@ -3225,6 +3195,21 @@
 			"time" : "2020/03/27",
 			"type" : "sell",
 			"volume" : 4140,
+			"world" : "world"
+		},
+		{
+			"amount" : 49,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -130,
+				"y" : 63,
+				"z" : -31
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 4410,
 			"world" : "world"
 		}
 	]

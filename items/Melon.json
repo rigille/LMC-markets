@@ -303,7 +303,7 @@
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 64,
+			"amount" : 128,
 			"buyer" : "pudzo",
 			"location" : 
 			{
@@ -314,7 +314,7 @@
 			"seller" : "__Wildfire_",
 			"time" : "2018/10/01",
 			"type" : "sell",
-			"volume" : 300,
+			"volume" : 600,
 			"world" : "world_nether"
 		},
 		{
@@ -333,36 +333,6 @@
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 128,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 19
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 600,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 19
-			},
-			"seller" : "__Starlight_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 300,
-			"world" : "world_nether"
-		},
-		{
 			"amount" : 64,
 			"buyer" : "pudzo",
 			"location" : 
@@ -390,126 +360,6 @@
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 300,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 128,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 19
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 600,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 192,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 19
-			},
-			"seller" : "__Starlight_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 900,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 192,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 19
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 900,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 19
-			},
-			"seller" : "__Starlight_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 300,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 19
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 300,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 19
-			},
-			"seller" : "__Starlight_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 300,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 19
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 300,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 128,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 19
-			},
-			"seller" : "__Starlight_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 600,
 			"world" : "world_nether"
 		},
 		{
@@ -570,6 +420,216 @@
 			"time" : "2018/10/01",
 			"type" : "sell",
 			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Starlight_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Starlight_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Starlight_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Starlight_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Starlight_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Starlight_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 300,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 600,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "pudzo",
+			"location" : 
+			{
+				"x" : 249,
+				"y" : 113,
+				"z" : 19
+			},
+			"seller" : "__Starlight_",
+			"time" : "2018/10/01",
+			"type" : "sell",
+			"volume" : 600,
 			"world" : "world_nether"
 		},
 		{
@@ -2400,6 +2460,51 @@
 			"time" : "2020/03/29",
 			"type" : "buy",
 			"volume" : 2.27,
+			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 12
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 576,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 63,
+				"z" : 244
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 675,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "AmineWeboo",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 63,
+				"z" : 244
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 225,
 			"world" : "world"
 		}
 	]

@@ -256,6 +256,21 @@
 			"type" : "buy",
 			"volume" : 10,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "AmineWeboo",
+			"location" : 
+			{
+				"x" : 256,
+				"y" : 88,
+				"z" : 166
+			},
+			"seller" : "coconewell92",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 1920,
+			"world" : "world"
 		}
 	]
 }

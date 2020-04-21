@@ -166,6 +166,21 @@
 			"type" : "sell",
 			"volume" : 0.5,
 			"world" : "world_nether"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "JacobSterling",
+			"location" : 
+			{
+				"x" : 66,
+				"y" : 98,
+				"z" : -138
+			},
+			"seller" : "AmineWeboo",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 0.5,
+			"world" : "world_nether"
 		}
 	]
 }

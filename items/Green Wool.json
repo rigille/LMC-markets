@@ -301,6 +301,66 @@
 			"type" : "buy",
 			"volume" : 60,
 			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 107,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/07",
+			"type" : "buy",
+			"volume" : 360,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 107,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 15,
+			"world" : "world"
+		},
+		{
+			"amount" : 2944,
+			"buyer" : "Aewheros",
+			"location" : 
+			{
+				"x" : 107,
+				"y" : 69,
+				"z" : 40
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/11",
+			"type" : "buy",
+			"volume" : 2760,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -2086,
+				"y" : 72,
+				"z" : -2257
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 384,
+			"world" : "world"
 		}
 	]
 }

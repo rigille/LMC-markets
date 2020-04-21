@@ -91,6 +91,21 @@
 			"type" : "buy",
 			"volume" : 1500,
 			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 38,
+				"y" : 78,
+				"z" : 7
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/03/31",
+			"type" : "buy",
+			"volume" : 3100,
+			"world" : "world"
 		}
 	]
 }

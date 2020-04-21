@@ -331,6 +331,21 @@
 			"type" : "buy",
 			"volume" : 640,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 74,
+				"z" : 17
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/07",
+			"type" : "buy",
+			"volume" : 64,
+			"world" : "world"
 		}
 	]
 }

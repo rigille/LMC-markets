@@ -181,6 +181,36 @@
 			"type" : "buy",
 			"volume" : 20.309999999999999,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 88,
+				"z" : 171
+			},
+			"seller" : "coconewell92",
+			"time" : "2020/04/05",
+			"type" : "buy",
+			"volume" : 750,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 263,
+				"y" : 88,
+				"z" : 173
+			},
+			"seller" : "coconewell92",
+			"time" : "2020/04/05",
+			"type" : "buy",
+			"volume" : 750,
+			"world" : "world"
 		}
 	]
 }

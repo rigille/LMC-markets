@@ -91,6 +91,36 @@
 			"type" : "buy",
 			"volume" : 425,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 119,
+				"y" : 67,
+				"z" : 29
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 425,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "daboogaoogaman",
+			"location" : 
+			{
+				"x" : 119,
+				"y" : 67,
+				"z" : 29
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 280,
+			"world" : "world"
 		}
 	]
 }

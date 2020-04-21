@@ -271,6 +271,21 @@
 			"type" : "buy",
 			"volume" : 2160,
 			"world" : "world"
+		},
+		{
+			"amount" : 107,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : 292,
+				"y" : 68,
+				"z" : 31
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 160.5,
+			"world" : "world"
 		}
 	]
 }

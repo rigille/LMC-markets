@@ -331,6 +331,21 @@
 			"type" : "buy",
 			"volume" : 5000,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 108,
+				"y" : 55,
+				"z" : -50
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/04/08",
+			"type" : "buy",
+			"volume" : 5000,
+			"world" : "world"
 		}
 	]
 }

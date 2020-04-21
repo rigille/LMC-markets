@@ -121,6 +121,21 @@
 			"type" : "buy",
 			"volume" : 5,
 			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 93,
+				"y" : 72,
+				"z" : 15
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 6,
+			"world" : "world"
 		}
 	]
 }

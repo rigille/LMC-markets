@@ -4756,6 +4756,186 @@
 			"type" : "buy",
 			"volume" : 800,
 			"world" : "world"
+		},
+		{
+			"amount" : 576,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 94,
+				"y" : 74,
+				"z" : 18
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/03",
+			"type" : "buy",
+			"volume" : 7200,
+			"world" : "world"
+		},
+		{
+			"amount" : 896,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 362,
+				"y" : 83,
+				"z" : 19
+			},
+			"seller" : "daboogaoogaman",
+			"time" : "2020/04/03",
+			"type" : "buy",
+			"volume" : 896,
+			"world" : "world"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 69,
+				"z" : 20
+			},
+			"seller" : "pudzo",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 60,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 32,
+				"y" : 69,
+				"z" : 20
+			},
+			"seller" : "pudzo",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 10,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Remix_D_Miner",
+			"location" : 
+			{
+				"x" : 94,
+				"y" : 74,
+				"z" : 18
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 6.25,
+			"world" : "world"
+		},
+		{
+			"amount" : 10,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : 273,
+				"y" : 81,
+				"z" : 201
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 50,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 58,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 2560,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Colonel_Ruff",
+			"location" : 
+			{
+				"x" : 273,
+				"y" : 81,
+				"z" : 201
+			},
+			"seller" : "bman5994",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 14,
+			"world" : "world"
+		},
+		{
+			"amount" : 608,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 94,
+				"y" : 74,
+				"z" : 18
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 7600,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -287,
+				"y" : 66,
+				"z" : -467
+			},
+			"seller" : "illdeletethis",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 500,
+			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -287,
+				"y" : 66,
+				"z" : -467
+			},
+			"seller" : "illdeletethis",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 1000,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : -287,
+				"y" : 66,
+				"z" : -467
+			},
+			"seller" : "illdeletethis",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 750,
+			"world" : "world"
 		}
 	]
 }

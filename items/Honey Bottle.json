@@ -76,6 +76,21 @@
 			"type" : "buy",
 			"volume" : 100,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : 53,
+				"y" : 72,
+				"z" : 5
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 50,
+			"world" : "world"
 		}
 	]
 }

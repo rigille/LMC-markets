@@ -6571,6 +6571,36 @@
 			"type" : "buy",
 			"volume" : 18880,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Impression28",
+			"location" : 
+			{
+				"x" : -56,
+				"y" : 63,
+				"z" : 16
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 440,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : -56,
+				"y" : 63,
+				"z" : 16
+			},
+			"seller" : "NullCase",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 880,
+			"world" : "world"
 		}
 	]
 }

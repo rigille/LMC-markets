@@ -91,6 +91,21 @@
 			"type" : "buy",
 			"volume" : 8000,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 288,
+				"y" : 68,
+				"z" : 16
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 8000,
+			"world" : "world"
 		}
 	]
 }

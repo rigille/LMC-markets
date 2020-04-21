@@ -286,6 +286,21 @@
 			"type" : "buy",
 			"volume" : 5,
 			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "AmineWeboo",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 65,
+				"z" : 236
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 6,
+			"world" : "world"
 		}
 	]
 }

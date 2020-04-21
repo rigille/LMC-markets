@@ -196,6 +196,21 @@
 			"type" : "buy",
 			"volume" : 16999,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Freeaboo",
+			"location" : 
+			{
+				"x" : -310,
+				"y" : 74,
+				"z" : -427
+			},
+			"seller" : "EnDristON",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 2500,
+			"world" : "world"
 		}
 	]
 }

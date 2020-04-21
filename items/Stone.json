@@ -2371,6 +2371,21 @@
 			"type" : "buy",
 			"volume" : 280,
 			"world" : "world"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "MajaAstrid",
+			"location" : 
+			{
+				"x" : -96,
+				"y" : 60,
+				"z" : 15
+			},
+			"seller" : "Downhilldriver",
+			"time" : "2020/04/04",
+			"type" : "buy",
+			"volume" : 20,
+			"world" : "world"
 		}
 	]
 }

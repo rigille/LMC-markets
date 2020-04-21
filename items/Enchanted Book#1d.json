@@ -676,6 +676,36 @@
 			"type" : "buy",
 			"volume" : 700,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 9,
+				"y" : 58,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 599,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 55,
+				"y" : 88,
+				"z" : 18
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 700,
+			"world" : "world"
 		}
 	]
 }

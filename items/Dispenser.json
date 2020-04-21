@@ -346,6 +346,66 @@
 			"type" : "buy",
 			"volume" : 1750,
 			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 56,
+				"y" : 72,
+				"z" : 14
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/07",
+			"type" : "buy",
+			"volume" : 150,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Dantytheberd",
+			"location" : 
+			{
+				"x" : 398,
+				"y" : 79,
+				"z" : 119
+			},
+			"seller" : "Minarchu",
+			"time" : "2020/04/09",
+			"type" : "buy",
+			"volume" : 300,
+			"world" : "world"
+		},
+		{
+			"amount" : 84,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 21,
+				"z" : 1608
+			},
+			"seller" : "PXshadow",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 4452,
+			"world" : "world"
+		},
+		{
+			"amount" : 168,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : -1859,
+				"y" : 21,
+				"z" : 1608
+			},
+			"seller" : "PXshadow",
+			"time" : "2020/04/17",
+			"type" : "sell",
+			"volume" : 8904,
+			"world" : "world"
 		}
 	]
 }

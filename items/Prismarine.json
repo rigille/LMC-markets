@@ -541,6 +541,36 @@
 			"type" : "buy",
 			"volume" : 1280,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 3,
+				"y" : 66,
+				"z" : 17
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/05",
+			"type" : "buy",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "solson744",
+			"location" : 
+			{
+				"x" : 312,
+				"y" : 86,
+				"z" : 26
+			},
+			"seller" : "Vivifoxx",
+			"time" : "2020/04/08",
+			"type" : "buy",
+			"volume" : 1000,
+			"world" : "world"
 		}
 	]
 }

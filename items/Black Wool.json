@@ -646,6 +646,51 @@
 			"type" : "buy",
 			"volume" : 80,
 			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : 99,
+				"y" : 69,
+				"z" : 46
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 240,
+			"world" : "world"
+		},
+		{
+			"amount" : 384,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 99,
+				"y" : 69,
+				"z" : 46
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 480,
+			"world" : "world"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : 99,
+				"y" : 69,
+				"z" : 46
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 400,
+			"world" : "world"
 		}
 	]
 }

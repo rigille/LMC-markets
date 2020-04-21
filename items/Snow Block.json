@@ -196,6 +196,21 @@
 			"type" : "buy",
 			"volume" : 5,
 			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Vivifoxx",
+			"location" : 
+			{
+				"x" : 123,
+				"y" : 58,
+				"z" : -116
+			},
+			"seller" : "Shahayhay",
+			"time" : "2020/04/08",
+			"type" : "buy",
+			"volume" : 5,
+			"world" : "world_the_end"
 		}
 	]
 }

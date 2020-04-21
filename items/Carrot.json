@@ -543,7 +543,7 @@
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 960,
+			"amount" : 1024,
 			"buyer" : "pudzo",
 			"location" : 
 			{
@@ -554,7 +554,7 @@
 			"seller" : "__Starlight_",
 			"time" : "2018/10/01",
 			"type" : "sell",
-			"volume" : 2250,
+			"volume" : 2400,
 			"world" : "world_nether"
 		},
 		{
@@ -588,7 +588,7 @@
 			"world" : "world_nether"
 		},
 		{
-			"amount" : 64,
+			"amount" : 896,
 			"buyer" : "pudzo",
 			"location" : 
 			{
@@ -599,37 +599,7 @@
 			"seller" : "__Wildfire_",
 			"time" : "2018/10/01",
 			"type" : "sell",
-			"volume" : 150,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 64,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 13
-			},
-			"seller" : "__Starlight_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 150,
-			"world" : "world_nether"
-		},
-		{
-			"amount" : 832,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 249,
-				"y" : 113,
-				"z" : 13
-			},
-			"seller" : "__Wildfire_",
-			"time" : "2018/10/01",
-			"type" : "sell",
-			"volume" : 1950,
+			"volume" : 2100,
 			"world" : "world_nether"
 		},
 		{
@@ -2129,7 +2099,7 @@
 			"seller" : "DIOSWILSON",
 			"time" : "2018/12/21",
 			"type" : "sell",
-			"volume" : 2.6499999999999999,
+			"volume" : 2.6500000000000004,
 			"world" : "world"
 		},
 		{
@@ -9345,6 +9315,21 @@
 			"time" : "2020/03/28",
 			"type" : "sell",
 			"volume" : 655,
+			"world" : "world"
+		},
+		{
+			"amount" : 192,
+			"buyer" : "AmineWeboo",
+			"location" : 
+			{
+				"x" : 144,
+				"y" : 67,
+				"z" : 231
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 15,
 			"world" : "world"
 		}
 	]

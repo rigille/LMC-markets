@@ -361,6 +361,51 @@
 			"type" : "sell",
 			"volume" : 1835,
 			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 59,
+				"y" : 79,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 200,
+			"world" : "world"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 59,
+				"y" : 79,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 100,
+			"world" : "world"
+		},
+		{
+			"amount" : 161,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 59,
+				"y" : 79,
+				"z" : 26
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 2012.5,
+			"world" : "world"
 		}
 	]
 }

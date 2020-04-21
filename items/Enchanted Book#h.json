@@ -361,6 +361,21 @@
 			"type" : "buy",
 			"volume" : 699,
 			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : 34,
+				"y" : 78,
+				"z" : 7
+			},
+			"seller" : "__Wildfire_",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 3100,
+			"world" : "world"
 		}
 	]
 }

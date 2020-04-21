@@ -1098,7 +1098,7 @@
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 42,
+			"amount" : 82,
 			"buyer" : "pudzo",
 			"location" : 
 			{
@@ -1113,37 +1113,7 @@
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 42,
-			"buyer" : "Cardano_ff",
-			"location" : 
-			{
-				"x" : 279,
-				"y" : 4,
-				"z" : 5
-			},
-			"seller" : "pudzo",
-			"time" : "2018/10/15",
-			"type" : "sell",
-			"volume" : 0,
-			"world" : "world_the_end"
-		},
-		{
-			"amount" : 40,
-			"buyer" : "pudzo",
-			"location" : 
-			{
-				"x" : 279,
-				"y" : 4,
-				"z" : 5
-			},
-			"seller" : "Cardano_ff",
-			"time" : "2018/10/15",
-			"type" : "buy",
-			"volume" : 0,
-			"world" : "world_the_end"
-		},
-		{
-			"amount" : 40,
+			"amount" : 82,
 			"buyer" : "Cardano_ff",
 			"location" : 
 			{
@@ -2583,7 +2553,7 @@
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 19,
+			"amount" : 36,
 			"buyer" : "Meiloorun",
 			"location" : 
 			{
@@ -2598,7 +2568,7 @@
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 19,
+			"amount" : 51,
 			"buyer" : "Cardano_ff",
 			"location" : 
 			{
@@ -2613,67 +2583,7 @@
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 17,
-			"buyer" : "Meiloorun",
-			"location" : 
-			{
-				"x" : 279,
-				"y" : 4,
-				"z" : 5
-			},
-			"seller" : "Cardano_ff",
-			"time" : "2018/11/07",
-			"type" : "buy",
-			"volume" : 0,
-			"world" : "world_the_end"
-		},
-		{
-			"amount" : 17,
-			"buyer" : "Cardano_ff",
-			"location" : 
-			{
-				"x" : 279,
-				"y" : 4,
-				"z" : 5
-			},
-			"seller" : "Meiloorun",
-			"time" : "2018/11/07",
-			"type" : "sell",
-			"volume" : 0,
-			"world" : "world_the_end"
-		},
-		{
-			"amount" : 15,
-			"buyer" : "Meiloorun",
-			"location" : 
-			{
-				"x" : 279,
-				"y" : 4,
-				"z" : 5
-			},
-			"seller" : "Cardano_ff",
-			"time" : "2018/11/07",
-			"type" : "buy",
-			"volume" : 0,
-			"world" : "world_the_end"
-		},
-		{
-			"amount" : 15,
-			"buyer" : "Cardano_ff",
-			"location" : 
-			{
-				"x" : 279,
-				"y" : 4,
-				"z" : 5
-			},
-			"seller" : "Meiloorun",
-			"time" : "2018/11/07",
-			"type" : "sell",
-			"volume" : 0,
-			"world" : "world_the_end"
-		},
-		{
-			"amount" : 14,
+			"amount" : 29,
 			"buyer" : "Meiloorun",
 			"location" : 
 			{
@@ -2808,7 +2718,7 @@
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 10,
+			"amount" : 6,
 			"buyer" : "Cardano_ff",
 			"location" : 
 			{
@@ -2823,7 +2733,37 @@
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 6,
+			"amount" : 4,
+			"buyer" : "Meiloorun",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2018/11/07",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Meiloorun",
+			"time" : "2018/11/07",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2,
 			"buyer" : "Meiloorun",
 			"location" : 
 			{
@@ -3363,7 +3303,7 @@
 			"world" : "world_the_end"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Stormrunners",
 			"location" : 
 			{
@@ -3378,7 +3318,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Haksndot",
 			"location" : 
 			{
@@ -3408,7 +3348,7 @@
 			"world" : "world"
 		},
 		{
-			"amount" : 2,
+			"amount" : 1,
 			"buyer" : "Haksndot",
 			"location" : 
 			{
@@ -3434,6 +3374,51 @@
 			"seller" : "Haksndot",
 			"time" : "2018/11/15",
 			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Stormrunners",
+			"time" : "2018/11/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Stormrunners",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Haksndot",
+			"time" : "2018/11/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Haksndot",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 65,
+				"z" : -6
+			},
+			"seller" : "Stormrunners",
+			"time" : "2018/11/15",
+			"type" : "sell",
 			"volume" : 0,
 			"world" : "world"
 		},
@@ -8708,13 +8693,13 @@
 			"location" : 
 			{
 				"x" : 54,
-				"y" : 60,
+				"y" : 59,
 				"z" : -15
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/29",
 			"type" : "buy",
-			"volume" : 32,
+			"volume" : 64,
 			"world" : "world"
 		},
 		{
@@ -8723,13 +8708,13 @@
 			"location" : 
 			{
 				"x" : 54,
-				"y" : 59,
+				"y" : 60,
 				"z" : -15
 			},
 			"seller" : "K9us",
 			"time" : "2019/07/29",
 			"type" : "buy",
-			"volume" : 64,
+			"volume" : 32,
 			"world" : "world"
 		},
 		{
@@ -10561,6 +10546,1686 @@
 			"type" : "sell",
 			"volume" : 0,
 			"world" : "world_the_end"
+		},
+		{
+			"amount" : 129,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "miniman927",
+			"time" : "2020/03/31",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "bman5994",
+			"location" : 
+			{
+				"x" : 248,
+				"y" : 89,
+				"z" : 192
+			},
+			"seller" : "Colonel_Ruff",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 65,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 57,
+				"z" : 19
+			},
+			"seller" : "AuthorityAlt1",
+			"time" : "2020/04/10",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : -14,
+				"y" : 57,
+				"z" : 19
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world"
+		},
+		{
+			"amount" : 112,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "BelegStrongbow",
+			"time" : "2020/04/11",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 24,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 36,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 449,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 39,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 26,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 117,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 182,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 32,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 28,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 28,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 96,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 159,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 587,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 82,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 496,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 96,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 22,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 39,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 95,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 8,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 176,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 154,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1245,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 63,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/12",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 63,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 54,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 43,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "BelegStrongbow",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 156,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 30,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "BelegStrongbow",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 123,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 26,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "BelegStrongbow",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 399,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 466,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 267,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1525,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 16,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "BelegStrongbow",
+			"time" : "2020/04/12",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 139,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 107,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 487,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 81,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 91,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 851,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 165,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1102,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 123,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Oaken_Ralph",
+			"time" : "2020/04/13",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : 258,
+				"y" : 79,
+				"z" : 156
+			},
+			"seller" : "ezrone",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 20,
+			"world" : "world"
+		},
+		{
+			"amount" : 115,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "L1Marie",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 812,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 172,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 877,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 567,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/14",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1215,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 49,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 698,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 150,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 934,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 160,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 313,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 153,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 150,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 150,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 50,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 52,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 47,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 47,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 45,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 69,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 93,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 6,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 121,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 23,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 18,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 18,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 14,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "kr1sh",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "Cardano_ff",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 11,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 162,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 33,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 13,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 23,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 13,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 100,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 41,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 85,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 2,
+			"buyer" : "Cardano_ff",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : 5
+			},
+			"seller" : "kr1sh",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 623,
+			"buyer" : "Vallenius",
+			"location" : 
+			{
+				"x" : 281,
+				"y" : 2,
+				"z" : -196
+			},
+			"seller" : "J0hs",
+			"time" : "2020/04/15",
+			"type" : "sell",
+			"volume" : 0,
+			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "K9us",
+			"location" : 
+			{
+				"x" : 54,
+				"y" : 61,
+				"z" : -15
+			},
+			"seller" : "Aewheros",
+			"time" : "2020/04/16",
+			"type" : "sell",
+			"volume" : 0.5,
+			"world" : "world"
 		}
 	]
 }

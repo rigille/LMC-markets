@@ -181,6 +181,36 @@
 			"type" : "buy",
 			"volume" : 1200,
 			"world" : "world_the_end"
+		},
+		{
+			"amount" : 1,
+			"buyer" : "AuthorityAlt1",
+			"location" : 
+			{
+				"x" : -13,
+				"y" : 57,
+				"z" : 7
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 899,
+			"world" : "world"
+		},
+		{
+			"amount" : 4,
+			"buyer" : "J0hs",
+			"location" : 
+			{
+				"x" : 279,
+				"y" : 4,
+				"z" : -11
+			},
+			"seller" : "Talrinion",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 4800,
+			"world" : "world_the_end"
 		}
 	]
 }

@@ -196,6 +196,51 @@
 			"type" : "buy",
 			"volume" : 120,
 			"world" : "world"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 99,
+				"y" : 69,
+				"z" : 47
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/07",
+			"type" : "buy",
+			"volume" : 240,
+			"world" : "world"
+		},
+		{
+			"amount" : 512,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : 99,
+				"y" : 69,
+				"z" : 47
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 480,
+			"world" : "world"
+		},
+		{
+			"amount" : 128,
+			"buyer" : "Minarchu",
+			"location" : 
+			{
+				"x" : -2086,
+				"y" : 76,
+				"z" : -2260
+			},
+			"seller" : "Remix_D_Miner",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 128,
+			"world" : "world"
 		}
 	]
 }

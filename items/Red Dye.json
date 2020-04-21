@@ -61,6 +61,36 @@
 			"type" : "buy",
 			"volume" : 2560,
 			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : -8,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/15",
+			"type" : "buy",
+			"volume" : 320,
+			"world" : "world"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Freeaboo",
+			"location" : 
+			{
+				"x" : -8,
+				"y" : 58,
+				"z" : 22
+			},
+			"seller" : "Vallenius",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 320,
+			"world" : "world"
 		}
 	]
 }

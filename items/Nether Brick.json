@@ -494,7 +494,7 @@
 			"seller" : "Haksndot",
 			"time" : "2018/09/14",
 			"type" : "buy",
-			"volume" : 4180.0100000000002,
+			"volume" : 4180.0099999999993,
 			"world" : "world_nether"
 		},
 		{
@@ -3825,6 +3825,96 @@
 			"time" : "2020/03/17",
 			"type" : "buy",
 			"volume" : 220,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 448,
+			"buyer" : "EnDristON",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 113,
+				"z" : -21
+			},
+			"seller" : "Haksndot",
+			"time" : "2020/04/02",
+			"type" : "buy",
+			"volume" : 1540,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 768,
+			"buyer" : "Impression28",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 113,
+				"z" : -21
+			},
+			"seller" : "Haksndot",
+			"time" : "2020/04/10",
+			"type" : "buy",
+			"volume" : 2640,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 320,
+			"buyer" : "DoinDoinUrMom",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 113,
+				"z" : -21
+			},
+			"seller" : "Haksndot",
+			"time" : "2020/04/13",
+			"type" : "buy",
+			"volume" : 1100,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 1708,
+			"buyer" : "PXshadow",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 113,
+				"z" : -21
+			},
+			"seller" : "Haksndot",
+			"time" : "2020/04/14",
+			"type" : "buy",
+			"volume" : 5871.25,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 64,
+			"buyer" : "Impression28",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 113,
+				"z" : -21
+			},
+			"seller" : "Haksndot",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 220,
+			"world" : "world_nether"
+		},
+		{
+			"amount" : 256,
+			"buyer" : "AmineWeboo",
+			"location" : 
+			{
+				"x" : -11,
+				"y" : 113,
+				"z" : -21
+			},
+			"seller" : "Haksndot",
+			"time" : "2020/04/16",
+			"type" : "buy",
+			"volume" : 880,
 			"world" : "world_nether"
 		}
 	]
